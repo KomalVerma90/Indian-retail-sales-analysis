@@ -1,0 +1,1511 @@
+bill_id,customer_name,city,state,product_category,quantity,total_amount,cost_amount,profit_amount,margin_pct,payment_method,store_type,visit_date
+1573,Suman Iyer,Guwahati,Assam,Stationery,6,459,389,70,0.152,UPI,Mall Store,18-02-2025
+1984,Swati Verma,Jodhpur,Rajasthan,Stationery,5,345,284,61,0.177,Cash,Mall Store,22-03-2025
+1783,Amit Patel,Varanasi,Uttar Pradesh,Electronics,2,18660,17223,1437,0.077,,Mall Store,18-03-2025
+1537,Anjali Rao,Kolhapur,Maharashtra,Grocery,3,141,127,14,0.101,UPI,Mall Store,27-01-2025
+2145,Harsh Patel,Coimbatore,Tamil Nadu,Clothing,5,4240,3193,1047,0.247,UPI,Mall Store,24-03-2025
+1310,Kavita Rao,Nashik,Maharashtra,Electronics,1,7290,6605,685,0.094,Cash,Supermarket,24-02-2025
+2366,Kavita Bansal,Patna,Bihar,Stationery,3,200,164,36,0.181,UPI,Supermarket,25-01-2025
+1249,Swati Mehta,Coimbatore,Tamil Nadu,Grocery,6,520,444,76,0.146,Cash,Mall Store,06-01-2025
+1182,Kavita Joshi,Prayagraj,Uttar Pradesh,Grocery,8,377,332,45,0.119,Cash,Supermarket,23-02-2025
+1092,Nisha Nair,Trivandrum,Kerala,Grocery,4,298,263,35,0.118,Credit Card,Local Store,28-03-2025
+1932,Neha Nair,Prayagraj,Uttar Pradesh,Stationery,9,970,798,172,0.177,Credit Card,Mall Store,29-03-2025
+2407,Naveen Bansal,Sangli,Maharashtra,Clothing,6,2840,2261,579,0.204,UPI,Supermarket,19-03-2025
+1980,Anita Kapoor,Noida,Uttar Pradesh,Electronics,2,21320,19678,1642,0.077,Credit Card,Local Store,01-01-2025
+1572,Neha Verma,Meerut,Uttar Pradesh,Clothing,6,8420,5734,2686,0.319,UPI,Mall Store,17-01-2025
+1383,Rahul Verma,Nashik,Maharashtra,Electronics,2,1130,997,133,0.118,UPI,Mall Store,22-02-2025
+1326,Preeti Sharma,Indore,Madhya Pradesh,Stationery,5,229,185,44,0.194,Credit Card,Local Store,01-01-2025
+2260,Swati Malhotra,Gorakhpur,Uttar Pradesh,Clothing,5,4420,3258,1162,0.263,UPI,Supermarket,24-02-2025
+1410,Vivek Sharma,Nashik,Maharashtra,Grocery,6,406,337,69,0.169,UPI,Supermarket,24-03-2025
+2264,Alok Nair,Kolhapur,Maharashtra,Clothing,3,1870,1417,453,0.242,UPI,Supermarket,26-03-2025
+2252,Kiran Agarwal,Visakhapatnam,Andhra Pradesh,Grocery,3,218,191,27,0.122,Credit Card,Supermarket,25-03-2025
+2099,Suresh Nair,Prayagraj,Uttar Pradesh,Electronics,2,22410,20191,2219,0.099,UPI,Supermarket,08-02-2025
+1654,Amit Agarwal,Nashik,Maharashtra,Clothing,6,3410,2670,740,0.217,Cash,Local Store,09-02-2025
+1941,Harsh Saxena,Delhi,Delhi,Electronics,2,7040,6280,760,0.108,UPI,Mall Store,21-03-2025
+1910,Amit Bansal,Mumbai,Maharashtra,Grocery,5,462,401,61,0.133,UPI,Supermarket,09-03-2025
+1608,Ashok Reddy,Nashik,Maharashtra,Electronics,1,3640,3225,415,0.114,Credit Card,Local Store,04-03-2025
+1120,Ajay Joshi,Mangalore,Karnataka,Stationery,4,340,273,67,0.197,Debit Card,Supermarket,10-01-2025
+1767,Payal Verma,Kolkata,West Bengal,Grocery,5,297,259,38,0.129,Credit Card,Supermarket,07-01-2025
+2132,Meera Gupta,Pune,Maharashtra,Grocery,5,332,294,38,0.115,Credit Card,Mall Store,19-02-2025
+1893,Alok Sharma,Kolhapur,Maharashtra,Grocery,6,456,381,75,0.164,Debit Card,Mall Store,16-03-2025
+1985,Sanjay Yadav,Panipat,Haryana,Electronics,1,7990,7031,959,0.12,Credit Card,Local Store,10-01-2025
+2113,Rohit Mehta,Bhubaneswar,Odisha,Grocery,6,438,360,78,0.179,UPI,Mall Store,27-01-2025
+2184,Alok Chopra,Jodhpur,Rajasthan,Electronics,2,5010,4649,361,0.072,UPI,Mall Store,24-03-2025
+1336,Harsh Rao,Noida,Uttar Pradesh,Clothing,4,3420,2404,1016,0.297,UPI,Mall Store,31-01-2025
+1061,Naveen Joshi,Siliguri,West Bengal,Electronics,2,12650,11486,1164,0.092,Debit Card,Local Store,11-03-2025
+1202,Alok Patel,Bhopal,Madhya Pradesh,Stationery,4,325,262,63,0.195,UPI,Mall Store,29-03-2025
+1651,Anita Yadav,Gwalior,Madhya Pradesh,Grocery,4,351,305,46,0.13,Debit Card,Local Store,05-01-2025
+2410,Kavita Joshi,Nagpur,Maharashtra,Electronics,2,14240,13357,883,0.062,UPI,Supermarket,23-02-2025
+1076,Kiran Yadav,Pune,Maharashtra,Grocery,9,650,560,90,0.139,Cash,Mall Store,31-01-2025
+2041,Ashok Pillai,Prayagraj,Uttar Pradesh,Clothing,3,4220,3211,1009,0.239,UPI,Supermarket,07-02-2025
+1289,Rekha Gupta,Patna,Bihar,Grocery,7,450,390,60,0.134,UPI,Local Store,03-03-2025
+1112,Ritu Bansal,Kochi,Kerala,Grocery,10,600,509,91,0.151,UPI,Supermarket,28-02-2025
+2107,Sandeep Singh,Prayagraj,Uttar Pradesh,Grocery,9,620,532,88,0.142,UPI,Local Store,06-03-2025
+1463,Gaurav Pillai,Faridabad,Haryana,Stationery,9,500,384,116,0.231,UPI,Supermarket,08-03-2025
+1575,Naveen Nair,Bengaluru,Karnataka,Electronics,1,10900,10202,698,0.064,Cash,Mall Store,20-01-2025
+1772,Kiran Pillai,Rajkot,Gujarat,Electronics,1,6030,5517,513,0.085,UPI,Supermarket,10-01-2025
+2173,Rohit Agarwal,Chennai,Tamil Nadu,Stationery,4,288,244,44,0.154,Credit Card,Mall Store,25-01-2025
+2131,Kavita Malhotra,Hisar,Haryana,Clothing,5,4980,3376,1604,0.322,Debit Card,Mall Store,15-01-2025
+1103,Anita Kapoor,Kochi,Kerala,Stationery,10,630,481,149,0.237,UPI,Mall Store,27-02-2025
+2005,Priya Reddy,Bengaluru,Karnataka,Grocery,6,423,374,49,0.116,Cash,Local Store,07-01-2025
+1332,Rahul Saxena,Satara,Maharashtra,Grocery,8,372,313,59,0.158,Debit Card,Mall Store,22-03-2025
+1265,Deepika Malhotra,Jodhpur,Rajasthan,Electronics,2,14230,13049,1181,0.083,UPI,Mall Store,10-03-2025
+2163,Preeti Singh,Pune,Maharashtra,Grocery,4,157,130,27,0.173,UPI,Local Store,20-02-2025
+1998,Sanjay Yadav,Kota,Rajasthan,Grocery,10,700,575,125,0.179,Cash,Mall Store,14-01-2025
+1433,Simran Saxena,Gorakhpur,Uttar Pradesh,Grocery,4,224,192,32,0.141,UPI,Supermarket,21-03-2025
+2007,Sanjay Yadav,Lucknow,Uttar Pradesh,Clothing,3,3510,2313,1197,0.341,Credit Card,Supermarket,17-01-2025
+1578,Suman Gupta,Hyderabad,Telangana,Grocery,9,640,543,97,0.151,Cash,Supermarket,15-01-2025
+1397,Rohit Verma,Prayagraj,Uttar Pradesh,Grocery,9,309,273,36,0.116,Credit Card,Supermarket,22-03-2025
+2382,Gaurav Singh,Lucknow,Uttar Pradesh,Electronics,1,6290,5793,497,0.079,Cash,Supermarket,11-03-2025
+2268,Ritu Singh,Udaipur,Rajasthan,Clothing,5,3140,2157,983,0.313,UPI,Local Store,23-02-2025
+1977,Manoj Patel,Nashik,Maharashtra,Grocery,6,319,280,39,0.123,UPI,Supermarket,09-03-2025
+1820,Anita Sharma,Satara,Maharashtra,Stationery,3,274,210,64,0.234,UPI,Local Store,26-03-2025
+1038,Karan Kumar,Mangalore,Karnataka,Electronics,2,2280,2066,214,0.094,Debit Card,Supermarket,15-01-2025
+1168,Rohit Rao,Pune,Maharashtra,Clothing,5,7350,5321,2029,0.276,UPI,Mall Store,03-01-2025
+2014,Swati Chopra, Solapur ,Maharashtra,Stationery,8,450,365,85,0.188,Credit Card,Mall Store,09-02-2025
+1415,Meera Nair,Chandigarh,Chandigarh,Grocery,7,455,403,52,0.115,Debit Card,Local Store,08-03-2025
+1286,Vikram Gupta,Pune,Maharashtra,Grocery,10,307,262,45,0.145,UPI,Mall Store,07-03-2025
+1580,Ashok Bansal,Gwalior,Madhya Pradesh,Clothing,6,7460,5685,1775,0.238,Cash,Supermarket,16-02-2025
+1170,Vikram Rao,Vadodara,Gujarat,Electronics,1,5360,4824,536,0.1,UPI,Supermarket,21-03-2025
+1952,Payal Iyer,Ahmedabad,Gujarat,Stationery,6,462,383,79,0.17,UPI,Supermarket,23-01-2025
+1054,Ashok Bansal,Solapur,Maharashtra,Grocery,3,208,172,36,0.171,UPI,Local Store,14-01-2025
+1562,Sandeep Mehta,Gorakhpur,Uttar Pradesh,Clothing,3,4570,3437,1133,0.248,Credit Card,Supermarket,20-01-2025
+1599,Manoj Bansal,Solapur,Maharashtra,Clothing,3,2300,1647,653,0.284,UPI,Supermarket,09-03-2025
+1852,Arjun Malhotra,Vadodara,Gujarat,Electronics,1,6060,5654,406,0.067,Cash,Local Store,04-03-2025
+2044,Rohit Rao,Sangli,Maharashtra,Clothing,3,2670,2093,577,0.216,Credit Card,Mall Store,02-01-2025
+1108,Pooja Nair,Dehradun,Uttarakhand,Stationery,9,660,498,162,0.245,Cash,Mall Store,22-03-2025
+1260,Ajay Reddy,Gurgaon,Haryana,Grocery,5,358,299,59,0.164,Debit Card,Mall Store,08-01-2025
+1404,Suresh Gupta,Nagpur,Maharashtra,Stationery,10,710,549,161,0.227,Credit Card,Supermarket,11-02-2025
+1826,Suman Nair,Kolhapur,Maharashtra,Clothing,2,2670,1880,790,0.296,Cash,Mall Store,24-01-2025
+1302,Kavita Iyer,Nagpur,Maharashtra,Grocery,6,310,266,44,0.142,Credit Card,Mall Store,14-02-2025
+1205,Karan Yadav,Chennai,Tamil Nadu,Stationery,7,297,249,48,0.163,UPI,Mall Store,08-02-2025
+2039,Suresh Mehta,Sangli,Maharashtra,Electronics,1,8790,7911,879,0.1,Credit Card,Mall Store,10-03-2025
+1633,Rekha Pillai,Guwahati,Assam,Grocery,10,580,511,69,0.119,Credit Card,Mall Store,17-03-2025
+1894,Manish Saxena,Gurgaon,Haryana,Grocery,7,540,457,83,0.153,Cash,Mall Store,15-03-2025
+2485,Sanjay Patel,Panchkula,Haryana,Grocery,4,253,217,36,0.143,UPI,Local Store,07-03-2025
+1831,Arjun Verma,Solapur,Maharashtra,Clothing,6,2980,2268,712,0.239,UPI,Local Store,12-01-2025
+1603,Pooja Singh,Mangalore,Karnataka,Grocery,5,365,303,62,0.17,Cash,Supermarket,06-02-2025
+1102,Sanjay Mehta,Vadodara,Gujarat,Clothing,5,3870,2899,971,0.251,UPI,Supermarket,06-03-2025
+1834,Deepika Saxena,Agra,Uttar Pradesh,Stationery,7,383,298,85,0.223,Credit Card,Mall Store,25-01-2025
+2244,Kavita Patel,Rajkot,Gujarat,Grocery,6,269,233,36,0.135,UPI,Supermarket,11-01-2025
+1875,Rekha Singh,Bhubaneswar,Odisha,Electronics,2,15770,14540,1230,0.078,Debit Card,Mall Store,27-01-2025
+1709,Payal Reddy,Panipat,Haryana,Electronics,2,1430,1301,129,0.09,UPI,Local Store,27-02-2025
+1496,Payal Joshi,Bhopal,Madhya Pradesh,Electronics,1,9890,9059,831,0.084,UPI,Supermarket,06-03-2025
+2024,Sneha Iyer,Udaipur,Rajasthan,Clothing,3,4630,3366,1264,0.273,Credit Card,Local Store,06-03-2025
+2416,Karan Yadav,Ludhiana,Punjab,Clothing,5,5890,4329,1561,0.265,UPI,Supermarket,01-03-2025
+2411,Kiran Singh,Kolhapur,Maharashtra,Clothing,4,5190,3617,1573,0.303,Credit Card,Mall Store,13-01-2025
+2398,Payal Kapoor,Gorakhpur,Uttar Pradesh,Electronics,2,9200,8390,810,0.088,UPI,Supermarket,01-02-2025
+1360,Harsh Verma,Agra,Uttar Pradesh,Clothing,4,2610,2031,579,0.222,UPI,Local Store,01-02-2025
+2469,Vishal Joshi,Varanasi,Uttar Pradesh,Clothing,5,2710,2127,583,0.215,UPI,Local Store,08-02-2025
+2362,Anjali Verma,Prayagraj,Uttar Pradesh,Electronics,2,20060,18696,1364,0.068,UPI,Mall Store,12-03-2025
+1609,Sneha Yadav,Ludhiana,Punjab,Stationery,3,103,87,16,0.154,Credit Card,Supermarket,09-03-2025
+2128,Anjali Iyer,Pune,Maharashtra,Stationery,5,275,229,46,0.168,UPI,Supermarket,09-03-2025
+1256,Amit Malhotra,Hisar,Haryana,Grocery,6,316,265,51,0.16,Debit Card,Supermarket,08-01-2025
+1953,Sneha Nair,Bilaspur,Chhattisgarh,Grocery,6,247,222,25,0.102,UPI,Local Store,03-02-2025
+1191,Vivek Joshi,Hisar,Haryana,Clothing,5,3830,2968,862,0.225,UPI,Mall Store,26-02-2025
+1539,Sneha Bansal,Prayagraj,Uttar Pradesh,Grocery,8,600,523,77,0.129,UPI,Supermarket,21-02-2025
+2497,Preeti Sharma,Delhi,Delhi,Electronics,2,30430,27874,2556,0.084,Debit Card,Mall Store,13-01-2025
+1530,Rajesh Chopra,Meerut,Uttar Pradesh,Electronics,1,4830,4337,493,0.102,UPI,Supermarket,03-02-2025
+1635,Deepika Verma,Udaipur,Rajasthan,Grocery,8,359,322,37,0.103,Cash,Mall Store,05-01-2025
+1597,Nisha Joshi,Bhubaneswar,Odisha,Electronics,1,7060,6495,565,0.08,UPI,Mall Store,02-03-2025
+1212,Arjun Nair,Panchkula,Haryana,Clothing,3,3720,2552,1168,0.314,Credit Card,Local Store,05-03-2025
+1331,Rajesh Iyer,Nagpur,Maharashtra,Grocery,5,299,254,45,0.151,Credit Card,Supermarket,28-03-2025
+2180,Deepika Reddy,Vadodara,Gujarat,Electronics,2,8270,7716,554,0.067,UPI,Local Store,02-03-2025
+1641,Karan Rao,Panchkula,Haryana,Stationery,8,510,386,124,0.243,Credit Card,Mall Store,20-03-2025
+1232,Neha Rao,Gurgaon,Haryana,Clothing,2,1930,1515,415,0.215,UPI,Mall Store,12-02-2025
+1049,Vivek Pillai,Bhopal,Madhya Pradesh,Grocery,9,590,499,91,0.154,UPI,Mall Store,23-01-2025
+2220,Anita Agarwal,Satara,Maharashtra,Grocery,4,369,305,64,0.173,UPI,Local Store,29-01-2025
+2193,Priya Chopra,Patna,Bihar,Electronics,1,5900,5469,431,0.073,UPI,Mall Store,23-02-2025
+2428,Sanjay Saxena,Faridabad,Haryana,Clothing,6,3410,2305,1105,0.324,Credit Card,Mall Store,17-03-2025
+1805,Pooja Kapoor,Jaipur,Rajasthan,Clothing,4,3080,2433,647,0.21,UPI,Mall Store,09-03-2025
+1708,Naveen Bansal,Pune,Maharashtra,Stationery,10,1050,815,235,0.224,UPI,Supermarket,18-01-2025
+1869,Suman Joshi,Ahmedabad,Gujarat,Electronics,2,20610,18734,1876,0.091,Debit Card,Local Store,20-03-2025
+1495,Amit Pillai,Rewa,Madhya Pradesh,Electronics,2,26660,24021,2639,0.099,UPI,Mall Store,20-01-2025
+2225,Neha Malhotra,Bengaluru,Karnataka,Stationery,6,398,327,71,0.179,UPI,Supermarket,21-02-2025
+1958,Meera Gupta,Ludhiana,Punjab,Stationery,10,790,655,135,0.171,Cash,Local Store,11-01-2025
+1698,Alok Kumar, Indore ,Madhya Pradesh,Clothing,4,2100,1588,512,0.244,Cash,Local Store,26-03-2025
+1303,Sandeep Nair,Patna,Bihar,Grocery,4,285,256,29,0.102,Cash,Mall Store,13-02-2025
+2294,Pooja Verma,Chandigarh,Chandigarh,Stationery,9,780,624,156,0.2,UPI,Mall Store,18-02-2025
+1081,Anita Sharma,Rajkot,Gujarat,Electronics,2,14460,13549,911,0.063,Cash,Mall Store,07-01-2025
+1644,Deepika Sharma,Chennai,Tamil Nadu,Grocery,7,262,231,31,0.12,Credit Card,Supermarket,09-01-2025
+1938,Sandeep Kapoor,Indore,Madhya Pradesh,Grocery,3,212,175,37,0.173,Cash,Supermarket,18-02-2025
+1963,Sandeep Rao,Meerut,Uttar Pradesh,Grocery,3,189,163,26,0.137,Credit Card,Supermarket,21-03-2025
+1632,Vivek Kumar,Indore,Madhya Pradesh,Stationery,6,600,510,90,0.15,Credit Card,Supermarket,02-02-2025
+2219,Ashok Yadav,Panipat,Haryana,Grocery,6,285,238,47,0.165,UPI,Mall Store,09-03-2025
+1419,Sneha Joshi,Jaipur,Rajasthan,Electronics,2,24260,21737,2523,0.104,UPI,Local Store,13-03-2025
+1284,Simran Joshi,Guwahati,Assam,Grocery,4,166,148,18,0.107,Cash,Mall Store,20-01-2025
+2239,Meera Joshi,Noida,Uttar Pradesh,Grocery,8,550,458,92,0.167,Credit Card,Mall Store,16-01-2025
+1422,Ashok Rao,Nagpur,Maharashtra,Electronics,1,14140,13178,962,0.068,Debit Card,Supermarket,26-01-2025
+2247,Rohit Chopra,Bilaspur,Chhattisgarh,Grocery,7,424,379,45,0.107,Credit Card,Local Store,14-03-2025
+1492,Rohit Nair,Rohtak,Haryana,Electronics,2,26360,23566,2794,0.106,UPI,Mall Store,04-03-2025
+1237,Shalini Joshi,Kolhapur,Maharashtra,Stationery,10,295,224,71,0.239,Credit Card,Local Store,18-01-2025
+1020,Sandeep Rao,Hisar,Haryana,Grocery,6,233,209,24,0.105,UPI,Mall Store,03-01-2025
+2101,Deepika Joshi,Rohtak,Haryana,Grocery,4,300,260,40,0.134,UPI,Local Store,02-02-2025
+2433,Gaurav Sharma,Siliguri,West Bengal,Stationery,10,870,653,217,0.249,UPI,Local Store,18-02-2025
+1615,Rohit Chopra,Vadodara,Gujarat,Grocery,5,483,423,60,0.125,Cash,Mall Store,13-03-2025
+1293,Rekha Kapoor,Bhubaneswar,Odisha,Grocery,9,460,404,56,0.122,Debit Card,Mall Store,20-02-2025
+1991,Naveen Kumar,Agra,Uttar Pradesh,Clothing,6,5780,4439,1341,0.232,Cash,Supermarket,31-03-2025
+1259,Naveen Malhotra,Bhubaneswar,Odisha,Electronics,2,19110,17505,1605,0.084,Cash,Mall Store,08-02-2025
+1004,Nisha Nair,Chandigarh,Chandigarh,Grocery,8,660,589,71,0.108,Cash,Supermarket,18-02-2025
+2109,Rekha Pillai,Ludhiana,Punjab,Stationery,5,288,232,56,0.194,Cash,Mall Store,07-03-2025
+1116,Neha Saxena,Mangalore,Karnataka,Electronics,2,18110,16172,1938,0.107,UPI,Mall Store,30-01-2025
+1141,Suman Nair,Sangli,Maharashtra,Grocery,8,510,423,87,0.17,Cash,Local Store,24-02-2025
+1195,Alok Gupta,Gwalior,Madhya Pradesh,Electronics,2,17210,15506,1704,0.099,UPI,Local Store,01-02-2025
+2069,Alok Rao,Trivandrum,Kerala,Grocery,5,265,232,33,0.125,Debit Card,Mall Store,25-02-2025
+1781,Sandeep Singh,Udaipur,Rajasthan,Clothing,5,4770,3511,1259,0.264,UPI,Supermarket,07-03-2025
+2253,Vivek Kapoor,Rohtak,Haryana,Clothing,2,600,469,131,0.218,Cash,Mall Store,16-03-2025
+1862,Nisha Pillai,Mumbai,Maharashtra,Grocery,4,149,134,15,0.101,Cash,Mall Store,25-03-2025
+1521,Sanjay Mehta,Gurgaon,Haryana,Electronics,1,2160,1938,222,0.103,Credit Card,Mall Store,21-02-2025
+1050,Suman Sharma,Nagpur,Maharashtra,Grocery,9,302,253,49,0.163,Credit Card,Mall Store,19-03-2025
+2159,Vivek Malhotra,Kota,Rajasthan,Stationery,5,448,361,87,0.194,Debit Card,Local Store,07-03-2025
+1680,Amit Kapoor,Rohtak,Haryana,Clothing,2,2560,1825,735,0.287,Cash,Supermarket,30-03-2025
+1895,Kiran Reddy,Jaipur,Rajasthan,Grocery,6,484,404,80,0.166,UPI,Mall Store,16-02-2025
+1882,Rahul Reddy,Visakhapatnam,Andhra Pradesh,Clothing,4,2960,2241,719,0.243,UPI,Supermarket,22-01-2025
+1105,Gaurav Verma,Varanasi,Uttar Pradesh,Clothing,5,4260,3161,1099,0.258,Cash,Local Store,26-03-2025
+2174,Arjun Saxena,Nashik,Maharashtra,Grocery,6,354,292,62,0.176,UPI,Mall Store,28-03-2025
+2421,Kiran Kapoor,Kolhapur,Maharashtra,Grocery,8,540,470,70,0.13,Cash,Mall Store,19-01-2025
+1725,Priya Bansal,Ludhiana,Punjab,Grocery,6,375,316,59,0.158,Credit Card,Mall Store,17-03-2025
+1594,Nisha Chopra,Indore,Madhya Pradesh,Stationery,6,460,356,104,0.225,Cash,Local Store,19-03-2025
+2388,Rajesh Kapoor,Chennai,Tamil Nadu,Stationery,5,510,393,117,0.229,Credit Card,Mall Store,28-01-2025
+2242,Amit Yadav,Faridabad,Haryana,Clothing,2,1680,1331,349,0.208,UPI,Supermarket,09-02-2025
+1901,Anita Iyer,Nagpur,Maharashtra,Grocery,3,197,165,32,0.163,Credit Card,Local Store,19-01-2025
+2228,Swati Singh,Gurgaon,Haryana,Clothing,4,3420,2483,937,0.274,UPI,Local Store,22-01-2025
+1532,Manoj Bansal,Mangalore,Karnataka,Grocery,6,210,174,36,0.17,Cash,Supermarket,27-01-2025
+2463,Rekha Joshi,Panchkula,Haryana,Grocery,9,510,424,86,0.169,Credit Card,Mall Store,15-01-2025
+2018,Kavita Mehta,Trivandrum,Kerala,Electronics,1,6310,5837,473,0.075,Cash,Mall Store,19-03-2025
+1315,Rekha Pillai,Ludhiana,Punjab,Grocery,4,318,280,38,0.121,UPI,Local Store,11-03-2025
+2371,Simran Bansal,Agra,Uttar Pradesh,Grocery,6,344,282,62,0.179,Credit Card,Local Store,12-01-2025
+1497,Simran Kumar,Siliguri,West Bengal,Electronics,2,8740,8128,612,0.07,Cash,Local Store,14-03-2025
+1052,Shalini Patel,Coimbatore,Tamil Nadu,Stationery,6,374,293,81,0.217,UPI,Local Store,29-01-2025
+2326,Kavita Verma,Coimbatore,Tamil Nadu,Stationery,6,183,148,35,0.193,Credit Card,Mall Store,05-02-2025
+2441,Divya Reddy,Udaipur,Rajasthan,Electronics,1,10320,9505,815,0.079,UPI,Supermarket,07-02-2025
+1322,Meera Chopra,Nashik,Maharashtra,Electronics,1,10080,9233,847,0.084,Debit Card,Mall Store,05-02-2025
+1109,Manish Verma,Hyderabad,Telangana,Grocery,7,447,367,80,0.18,UPI,Mall Store,12-01-2025
+1402,Swati Verma,Solapur,Maharashtra,Stationery,8,464,362,102,0.219,Debit Card,Mall Store,07-01-2025
+2251,Manish Kapoor,Faridabad,Haryana,Grocery,9,580,516,64,0.11,Cash,Supermarket,27-03-2025
+1443,Naveen Saxena,Mumbai,Maharashtra,Stationery,5,143,115,28,0.198,Credit Card,Supermarket,04-03-2025
+1465,Vivek Yadav,Siliguri,West Bengal,Electronics,2,15210,13552,1658,0.109,Cash,Mall Store,14-01-2025
+1031,Simran Patel,Kota,Rajasthan,Clothing,6,4320,3119,1201,0.278,Cash,Supermarket,03-02-2025
+1931,Manish Saxena,Rewa,Madhya Pradesh,Clothing,5,3670,2936,734,0.2,Debit Card,Mall Store,24-02-2025
+1224,Rajesh Chopra,Kolkata,West Bengal,Electronics,1,2360,2159,201,0.085,Debit Card,Local Store,20-03-2025
+1829,Rajesh Joshi,Noida,Uttar Pradesh,Grocery,8,430,381,49,0.115,Debit Card,Local Store,18-02-2025
+2386,Gaurav Kumar,Chennai,Tamil Nadu,Clothing,2,1980,1491,489,0.247,UPI,Mall Store,13-03-2025
+1401,Rekha Kapoor,Trivandrum,Kerala,Electronics,1,2420,2234,186,0.077,Cash,Mall Store,19-01-2025
+2211,Pooja Pillai,Vadodara,Gujarat,Grocery,3,124,108,16,0.131,Credit Card,Local Store,31-03-2025
+1827,Rohit Sharma,Solapur,Maharashtra,Grocery,7,590,516,74,0.125,UPI,Supermarket,11-01-2025
+2222,Alok Singh,Kolkata,West Bengal,Electronics,1,9080,8127,953,0.105,Credit Card,Supermarket,31-01-2025
+1447,Ajay Bansal,Kanpur,Uttar Pradesh,Grocery,10,650,568,82,0.126,UPI,Local Store,12-02-2025
+1681,Kiran Mehta,Kolhapur,Maharashtra,Electronics,1,10530,9740,790,0.075,Debit Card,Mall Store,22-03-2025
+2467,Rekha Sharma,Varanasi,Uttar Pradesh,Stationery,10,1030,824,206,0.2,Credit Card,Supermarket,23-01-2025
+1178,Shalini Gupta,Bhopal,Madhya Pradesh,Grocery,10,820,692,128,0.156,Credit Card,Local Store,18-01-2025
+2155,Ashok Reddy,Agra,Uttar Pradesh,Stationery,4,411,310,101,0.246,Credit Card,Mall Store,14-03-2025
+2424,Alok Mehta,Nagpur,Maharashtra,Clothing,6,3890,2614,1276,0.328,UPI,Mall Store,01-02-2025
+2083,Divya Gupta,Ludhiana,Punjab,Grocery,3,166,144,22,0.134,Debit Card,Supermarket,18-02-2025
+1089,Karan Kapoor,Sangli,Maharashtra,Clothing,3,2220,1634,586,0.264,UPI,Supermarket,11-03-2025
+1548,Rajesh Nair,Satara,Maharashtra,Grocery,7,399,340,59,0.148,Credit Card,Supermarket,20-02-2025
+2482,Preeti Iyer,Ratlam,Madhya Pradesh,Grocery,7,381,335,46,0.12,Cash,Supermarket,03-01-2025
+1936,Priya Kapoor,Guwahati,Assam,Clothing,4,3000,2022,978,0.326,UPI,Supermarket,01-02-2025
+1907,Anita Pillai,Satara,Maharashtra,Grocery,4,158,140,18,0.115,Cash,Mall Store,21-03-2025
+1387,Nisha Kumar,Lucknow,Uttar Pradesh,Grocery,6,391,321,70,0.178,Cash,Mall Store,22-02-2025
+2468,Anita Singh,Hisar,Haryana,Grocery,5,330,292,38,0.115,UPI,Local Store,14-01-2025
+2317,Gaurav Kapoor,Sangli,Maharashtra,Grocery,7,308,257,51,0.164,UPI,Supermarket,13-02-2025
+1479,Vikram Yadav,Surat,Gujarat,Clothing,5,9120,6411,2709,0.297,UPI,Mall Store,10-01-2025
+1695,Rahul Patel,Delhi,Delhi,Electronics,1,10080,9062,1018,0.101,UPI,Supermarket,14-02-2025
+1900,Anjali Saxena,Kota,Rajasthan,Grocery,8,382,326,56,0.146,UPI,Mall Store,06-01-2025
+1488,Suman Agarwal,Satara,Maharashtra,Electronics,2,8430,7587,843,0.1,Cash,Supermarket,02-02-2025
+1650,Anita Nair,Rajkot,Gujarat,Grocery,9,630,563,67,0.107,Cash,Mall Store,31-01-2025
+2488,Priya Malhotra,Panchkula,Haryana,Grocery,9,302,271,31,0.102,UPI,Supermarket,29-01-2025
+1453,Vivek Pillai,Gwalior,Madhya Pradesh,Electronics,1,4550,4263,287,0.063,Cash,Mall Store,22-01-2025
+2404,Kavita Pillai,Vadodara,Gujarat,Electronics,2,21030,19558,1472,0.07,Cash,Mall Store,13-01-2025
+1300,Payal Kapoor,Gurgaon,Haryana,Electronics,2,20410,18614,1796,0.088,Credit Card,Mall Store,28-03-2025
+1159,Rajesh Nair,Kolkata,West Bengal,Electronics,2,7660,6994,666,0.087,Credit Card,Local Store,08-02-2025
+1425,Pooja Gupta,Hyderabad,Telangana,Electronics,2,20520,18796,1724,0.084,UPI,Mall Store,03-03-2025
+1988,Rohit Nair,Sangli,Maharashtra,Clothing,5,5820,4254,1566,0.269,UPI,Mall Store,11-01-2025
+1491,Rajesh Chopra,Kanpur,Uttar Pradesh,Grocery,6,359,300,59,0.163,Cash,Mall Store,24-03-2025
+2008,Deepika Reddy,Ludhiana,Punjab,Grocery,10,700,612,88,0.125,UPI,Supermarket,26-01-2025
+2303,Pooja Mehta,Hyderabad,Telangana,Electronics,1,7390,6754,636,0.086,UPI,Local Store,03-02-2025
+2148,Manoj Pillai,Noida,Uttar Pradesh,Clothing,2,940,718,222,0.236,Credit Card,Local Store,11-01-2025
+2164,Shalini Patel,Varanasi,Uttar Pradesh,Grocery,10,353,312,41,0.117,Credit Card,Supermarket,02-03-2025
+1780,Manish Sharma,Bengaluru,Karnataka,Grocery,6,416,344,72,0.174,Credit Card,Mall Store,02-03-2025
+2465,Rekha Kumar,Ratlam,Madhya Pradesh,Electronics,2,11940,10543,1397,0.117,Credit Card,Supermarket,08-02-2025
+1095,Arjun Nair,Kota,Rajasthan,Clothing,4,3130,2194,936,0.299,Credit Card,Local Store,21-02-2025
+1528,Ashok Kapoor,Rohtak,Haryana,Clothing,4,3660,2401,1259,0.344,Debit Card,Mall Store,28-02-2025
+1832,Alok Singh,Delhi,Delhi,Clothing,5,3120,2134,986,0.316,Credit Card,Local Store,28-02-2025
+2058,Meera Singh,Bhubaneswar,Odisha,Clothing,5,6260,4551,1709,0.273,UPI,Mall Store,24-03-2025
+1373,Naveen Kapoor,Mumbai,Maharashtra,Clothing,4,5340,3514,1826,0.342,Debit Card,Supermarket,14-03-2025
+1559,Suman Chopra,Solapur,Maharashtra,Grocery,9,590,492,98,0.166,Credit Card,Supermarket,29-01-2025
+1637,Harsh Kapoor,Bhubaneswar,Odisha,Electronics,2,21760,19475,2285,0.105,UPI,Local Store,16-02-2025
+1271,Rahul Chopra,Bhopal,Madhya Pradesh,Stationery,6,590,497,93,0.157,Credit Card,Supermarket,20-01-2025
+1614,Deepika Gupta,Kochi,Kerala,Electronics,1,4060,3605,455,0.112,Debit Card,Mall Store,09-02-2025
+1987,Preeti Malhotra,Ratlam,Madhya Pradesh,Clothing,3,4050,2997,1053,0.26,Cash,Supermarket,02-01-2025
+1066,Neha Iyer,Gurgaon,Haryana,Clothing,2,2610,1793,817,0.313,UPI,Supermarket,01-02-2025
+1269,Shalini Mehta,Siliguri,West Bengal,Clothing,5,3840,2807,1033,0.269,Cash,Supermarket,15-02-2025
+1665,Vikram Nair,Bilaspur,Chhattisgarh,Clothing,4,2740,1973,767,0.28,UPI,Mall Store,21-02-2025
+1956,Rohit Yadav,Noida,Uttar Pradesh,Electronics,2,23820,21938,1882,0.079,UPI,Local Store,24-02-2025
+1755,Rohit Pillai,Indore,Madhya Pradesh,Grocery,9,412,351,61,0.149,UPI,Mall Store,29-01-2025
+1268,Gaurav Joshi,Kolkata,West Bengal,Grocery,6,231,201,30,0.13,Cash,Mall Store,01-02-2025
+2056,Pooja Agarwal,Coimbatore,Tamil Nadu,Clothing,4,2790,1967,823,0.295,UPI,Mall Store,26-02-2025
+2143,Karan Kapoor,Ludhiana,Punjab,Grocery,6,346,300,46,0.134,UPI,Supermarket,21-01-2025
+2179,Rekha Saxena,Surat,Gujarat,Grocery,10,452,389,63,0.14,Cash,Mall Store,05-01-2025
+1720,Amit Saxena,Udaipur,Rajasthan,Clothing,6,5300,3482,1818,0.343,UPI,Local Store,22-03-2025
+1362,Suman Reddy,Jaipur,Rajasthan,Electronics,1,13360,12465,895,0.067,Debit Card,Local Store,08-01-2025
+1057,Ajay Agarwal,Rewa,Madhya Pradesh,Clothing,4,2590,1774,816,0.315,UPI,Mall Store,08-03-2025
+1143,Suman Iyer,Indore,Madhya Pradesh,Clothing,6,2510,1923,587,0.234,Debit Card,Local Store,24-02-2025
+1454,Gaurav Singh,Rewa,Madhya Pradesh,Clothing,3,3150,2463,687,0.218,Cash,Supermarket,20-02-2025
+2241,Vivek Saxena,Bilaspur,Chhattisgarh,Clothing,4,3150,2290,860,0.273,UPI,Local Store,09-01-2025
+1554,Meera Pillai,Hisar,Haryana,Grocery,5,319,272,47,0.147,Cash,Mall Store,28-02-2025
+1427,Naveen Joshi,Bhopal,Madhya Pradesh,Grocery,7,319,283,36,0.113,UPI,Supermarket,06-01-2025
+1859,Karan Iyer,Rewa,Madhya Pradesh,Clothing,6,4410,3519,891,0.202,Cash,Mall Store,26-03-2025
+2273,Gaurav Kapoor,Surat,Gujarat,Stationery,8,385,320,65,0.169,UPI,Mall Store,24-03-2025
+1199,Anita Kumar,Rajkot,Gujarat,Clothing,3,2750,1873,877,0.319,Debit Card,Supermarket,07-03-2025
+1160,Naveen Rao,Patna,Bihar,Grocery,10,700,628,72,0.103,UPI,Local Store,17-02-2025
+1228,Vivek Yadav,Gorakhpur,Uttar Pradesh,Clothing,4,2310,1682,628,0.272,Cash,Local Store,13-03-2025
+1376,Rajesh Verma,Mumbai,Maharashtra,Grocery,5,242,203,39,0.162,Debit Card,Local Store,09-03-2025
+2437,Sandeep Kumar,Udaipur,Rajasthan,Electronics,1,7130,6474,656,0.092,Cash,Local Store,12-02-2025
+1777,Rahul Singh,Bhubaneswar,Odisha,Grocery,6,295,252,43,0.147,UPI,Supermarket,26-01-2025
+1409,Sneha Bansal,Kochi,Kerala,Electronics,2,16840,15661,1179,0.07,Cash,Mall Store,03-02-2025
+1867,Sandeep Bansal,Rohtak,Haryana,Grocery,10,640,546,94,0.147,Cash,Supermarket,26-01-2025
+1648,Rajesh Pillai,Surat,Gujarat,Grocery,8,473,395,78,0.164,UPI,Supermarket,15-02-2025
+2243,Rahul Verma,Rewa,Madhya Pradesh,Grocery,7,359,300,59,0.163,Cash,Mall Store,06-03-2025
+1704,Swati Kapoor,Delhi,Delhi,Electronics,2,6140,5594,546,0.089,Cash,Local Store,21-02-2025
+1661,Manish Patel,Siliguri,West Bengal,Clothing,6,4370,3409,961,0.22,Credit Card,Mall Store,31-03-2025
+1088,Vivek Verma,Gurgaon,Haryana,Grocery,7,455,384,71,0.156,UPI,Supermarket,28-02-2025
+1730,Vivek Saxena,Kanpur,Uttar Pradesh,Clothing,6,4000,2656,1344,0.336,Cash,Local Store,15-03-2025
+1436,Pooja Singh,Visakhapatnam,Andhra Pradesh,Electronics,2,16520,15380,1140,0.069,UPI,Local Store,12-01-2025
+1924,Rekha Malhotra,Surat,Gujarat,Grocery,4,198,170,28,0.143,UPI,Mall Store,27-03-2025
+1978,Kiran Sharma,Kanpur,Uttar Pradesh,Grocery,9,213,185,28,0.131,Credit Card,Supermarket,15-01-2025
+2095,Simran Gupta,Bengaluru,Karnataka,Electronics,1,10560,9747,813,0.077,Debit Card,Local Store,15-01-2025
+1835,Kavita Sharma,Faridabad,Haryana,Stationery,6,416,328,88,0.212,Cash,Mall Store,01-02-2025
+2207,Rekha Bansal,Ahmedabad,Gujarat,Stationery,9,500,419,81,0.162,UPI,Supermarket,27-02-2025
+2271,Karan Bansal,Hisar,Haryana,Clothing,3,3680,2834,846,0.23,Credit Card,Mall Store,21-01-2025
+1121,Swati Pillai,Amritsar,Punjab,Grocery,9,650,584,66,0.101,,Supermarket,10-03-2025
+2054,Ajay Kumar,Lucknow,Uttar Pradesh,Grocery,8,510,435,75,0.147,Credit Card,Mall Store,20-01-2025
+1758,Divya Malhotra,Kolkata,West Bengal,Clothing,5,4780,3561,1219,0.255,UPI,Supermarket,17-02-2025
+2459,Ritu Mehta,Guwahati,Assam,Clothing,3,3860,2957,903,0.234,Debit Card,Supermarket,28-02-2025
+2446,Amit Iyer,Solapur,Maharashtra,Clothing,6,4230,2986,1244,0.294,UPI,Mall Store,26-02-2025
+1187,Amit Nair,Nagpur,Maharashtra,Electronics,2,19310,17862,1448,0.075,UPI,Supermarket,24-03-2025
+1407,Manoj Yadav,Visakhapatnam,Andhra Pradesh,Grocery,3,132,114,18,0.137,UPI,Mall Store,16-02-2025
+1731,Pooja Chopra,Gwalior,Madhya Pradesh,Electronics,1,8690,7864,826,0.095,Cash,Supermarket,01-03-2025
+1305,Swati Kumar,Udaipur,Rajasthan,Clothing,5,4470,3312,1158,0.259,Credit Card,Local Store,20-03-2025
+1816,Kiran Kapoor,Vadodara,Gujarat,Stationery,7,282,226,56,0.2,UPI,Supermarket,12-01-2025
+1134,Kiran Joshi,Kolhapur,Maharashtra,Clothing,2,2080,1645,435,0.209,Credit Card,Local Store,03-03-2025
+1623,Alok Saxena,Surat,Gujarat,Electronics,1,14590,13262,1328,0.091,Debit Card,Mall Store,27-02-2025
+2280,Shalini Verma,Jodhpur,Rajasthan,Electronics,1,6920,6359,561,0.081,Credit Card,Local Store,10-01-2025
+1082,Rohit Bansal,Jaipur,Rajasthan,Stationery,7,540,434,106,0.197,Debit Card,Supermarket,26-02-2025
+2090,Nisha Sharma,Meerut,Uttar Pradesh,Stationery,6,396,332,64,0.161,UPI,Supermarket,06-02-2025
+2212,Anjali Iyer,Hyderabad,Telangana,Grocery,6,298,267,31,0.104,Debit Card,Supermarket,02-01-2025
+1762,Sneha Pillai,Kolhapur,Maharashtra,Clothing,3,2810,2164,646,0.23,Credit Card,Supermarket,18-02-2025
+2086,Rahul Saxena,Kolhapur,Maharashtra,Grocery,8,530,472,58,0.109,UPI,Local Store,14-02-2025
+1423,Preeti Gupta,Varanasi,Uttar Pradesh,Stationery,5,325,251,74,0.228,Debit Card,Supermarket,04-03-2025
+2117,Suman Yadav,Coimbatore,Tamil Nadu,Electronics,2,32820,30326,2494,0.076,Cash,Mall Store,16-03-2025
+2348,Rahul Verma,Mumbai,Maharashtra,Clothing,6,7080,5558,1522,0.215,UPI,Local Store,20-02-2025
+1621,Manoj Yadav,Patna,Bihar,Grocery,10,481,400,81,0.169,Debit Card,Mall Store,04-03-2025
+2490,Naveen Kapoor,Kolkata,West Bengal,Grocery,5,395,349,46,0.116,Credit Card,Supermarket,24-01-2025
+1693,Meera Nair,Chandigarh,Chandigarh,Grocery,4,175,154,21,0.12,Cash,Mall Store,16-03-2025
+2234,Shalini Agarwal,Panipat,Haryana,Clothing,6,10040,7640,2400,0.239,Credit Card,Supermarket,04-03-2025
+1481,Suresh Mehta,Kota,Rajasthan,Electronics,2,15100,13801,1299,0.086,UPI,Mall Store,03-01-2025
+1786,Pooja Singh,Kolkata,West Bengal,Electronics,1,11780,10555,1225,0.104,Debit Card,Supermarket,22-01-2025
+1590,Meera Pillai,Ludhiana,Punjab,Electronics,1,5000,4670,330,0.066,UPI,Mall Store,28-02-2025
+2016,Naveen Rao,Rajkot,Gujarat,Electronics,2,17390,15616,1774,0.102,Credit Card,Mall Store,25-03-2025
+2498,Sanjay Chopra,Satara,Maharashtra,Grocery,4,313,265,48,0.152,UPI,Local Store,19-02-2025
+1013,Nisha Saxena,Patna,Bihar,Electronics,2,17690,16063,1627,0.092,UPI,Local Store,12-03-2025
+1400,Vikram Singh,Panchkula,Haryana,Clothing,4,5090,3410,1680,0.33,UPI,Local Store,14-02-2025
+1074,Sandeep Reddy,Siliguri,West Bengal,Electronics,2,26950,24794,2156,0.08,UPI,Local Store,05-03-2025
+1973,Manish Joshi,Varanasi,Uttar Pradesh,Clothing,6,6910,4713,2197,0.318,Debit Card,Supermarket,18-01-2025
+2147,Shalini Sharma,Jodhpur,Rajasthan,Grocery,4,174,156,18,0.105,Debit Card,Supermarket,18-03-2025
+1791,Rajesh Gupta,Nagpur,Maharashtra,Clothing,2,2060,1413,647,0.314,Cash,Local Store,26-03-2025
+2022,Kavita Mehta,Mangalore,Karnataka,Grocery,9,463,391,72,0.156,Cash,Local Store,01-01-2025
+1564,Deepika Nair,Kota,Rajasthan,Grocery,10,550,451,99,0.18,UPI,Mall Store,01-03-2025
+1920,Vivek Verma,Kanpur,Uttar Pradesh,Clothing,6,5750,4542,1208,0.21,UPI,Mall Store,12-01-2025
+1482,Rahul Saxena,Patna,Bihar,Clothing,6,3680,2918,762,0.207,Credit Card,Mall Store,10-01-2025
+2272,Manoj Patel,Kochi,Kerala,Grocery,4,277,245,32,0.116,UPI,Local Store,18-01-2025
+2098,Simran Yadav,Pune,Maharashtra,Stationery,9,270,218,52,0.191,Debit Card,Mall Store,09-02-2025
+1164,Simran Kumar,Amritsar,Punjab,Electronics,2,10260,9408,852,0.083,UPI,Mall Store,13-02-2025
+1048,Simran Nair,Sangli,Maharashtra,Stationery,7,640,511,129,0.201,Credit Card,Mall Store,27-03-2025
+1613,Suresh Chopra,Jodhpur,Rajasthan,Electronics,2,17960,15841,2119,0.118,Credit Card,Supermarket,19-03-2025
+1099,Harsh Reddy,Rajkot,Gujarat,Grocery,3,180,154,26,0.144,Cash,Supermarket,12-01-2025
+2480,Pooja Agarwal,Jodhpur,Rajasthan,Grocery,7,374,320,54,0.145,UPI,Mall Store,07-02-2025
+1889,Anita Patel,Ahmedabad,Gujarat,Electronics,2,20130,18036,2094,0.104,Credit Card,Mall Store,17-01-2025
+2393,Deepika Chopra,Meerut,Uttar Pradesh,Clothing,4,6020,4629,1391,0.231,Credit Card,Local Store,31-03-2025
+2287,Rohit Agarwal,Udaipur,Rajasthan,Grocery,8,260,227,33,0.128,Debit Card,Local Store,25-03-2025
+1281,Ashok Gupta,Bhubaneswar,Odisha,Stationery,4,289,231,58,0.2,Credit Card,Supermarket,14-02-2025
+2452,Rohit Gupta,Trivandrum,Kerala,Grocery,9,770,677,93,0.121,UPI,Supermarket,30-01-2025
+1312,Rahul Bansal,Bhopal,Madhya Pradesh,Grocery,9,690,568,122,0.177,Credit Card,Mall Store,06-03-2025
+1132,Karan Verma,Bhopal,Madhya Pradesh,Clothing,6,5520,4322,1198,0.217,Cash,Mall Store,09-01-2025
+1858,Suman Patel,Ahmedabad,Gujarat,Electronics,2,19300,17660,1640,0.085,Credit Card,Mall Store,01-03-2025
+2290,Kiran Mehta,Varanasi,Uttar Pradesh,Clothing,6,1520,1192,328,0.216,Cash,Local Store,14-02-2025
+1808,Sneha Kapoor,Panipat,Haryana,Grocery,10,530,466,64,0.121,Credit Card,Mall Store,23-03-2025
+2217,Meera Nair,Vadodara,Gujarat,Clothing,3,2090,1643,447,0.214,UPI,Mall Store,07-02-2025
+1794,Ashok Agarwal,Kolhapur,Maharashtra,Grocery,5,204,174,30,0.145,UPI,Local Store,08-02-2025
+1216,Vivek Patel,Nashik,Maharashtra,Electronics,2,21310,18966,2344,0.11,UPI,Mall Store,21-03-2025
+1136,Meera Saxena,Chennai,Tamil Nadu,Clothing,4,5460,4057,1403,0.257,Credit Card,Mall Store,18-03-2025
+1429,Swati Sharma,Gurgaon,Haryana,Grocery,5,379,335,44,0.117,UPI,Mall Store,03-01-2025
+1504,Anjali Reddy,Kota,Rajasthan,Clothing,2,2140,1558,582,0.272,Credit Card,Mall Store,03-03-2025
+1660,Pooja Chopra,Solapur,Maharashtra,Grocery,10,580,494,86,0.149,UPI,Supermarket,09-02-2025
+1299,Swati Nair,Bhubaneswar,Odisha,Electronics,1,10850,10134,716,0.066,Credit Card,Mall Store,29-01-2025
+2384,Divya Rao,Delhi,Delhi,Stationery,9,520,420,100,0.192,UPI,Mall Store,27-03-2025
+1444,Amit Patel,Rewa,Madhya Pradesh,Clothing,2,1750,1214,536,0.306,Cash,Mall Store,28-03-2025
+1664,Ajay Agarwal,Kanpur,Uttar Pradesh,Grocery,8,415,354,61,0.148,Credit Card,Mall Store,17-01-2025
+1526,Preeti Malhotra,Panchkula,Haryana,Grocery,5,165,143,22,0.133,Credit Card,Mall Store,14-01-2025
+1576,Manish Iyer,Kolhapur,Maharashtra,Grocery,9,241,203,38,0.159,UPI,Mall Store,03-01-2025
+1585,Nisha Singh,Kanpur,Uttar Pradesh,Clothing,6,5730,4240,1490,0.26,Credit Card,Mall Store,13-02-2025
+1196,Sneha Bansal,Gwalior,Madhya Pradesh,Electronics,1,9350,8639,711,0.076,UPI,Mall Store,03-02-2025
+1892,Divya Mehta,Chennai,Tamil Nadu,Electronics,1,9780,9164,616,0.063,Credit Card,Local Store,25-03-2025
+1369,Naveen Kapoor,Ludhiana,Punjab,Grocery,7,430,381,49,0.114,UPI,Mall Store,10-02-2025
+1809,Nisha Kapoor,Bengaluru,Karnataka,Clothing,6,7660,5898,1762,0.23,UPI,Supermarket,01-03-2025
+2471,Kiran Bansal,Satara,Maharashtra,Clothing,5,6290,4296,1994,0.317,UPI,Supermarket,04-02-2025
+1582,Gaurav Iyer,Bhubaneswar,Odisha,Clothing,6,4650,3534,1116,0.24,Cash,Mall Store,06-01-2025
+2226,Harsh Bansal,Gwalior,Madhya Pradesh,Electronics,1,7550,6803,747,0.099,UPI,Supermarket,15-01-2025
+2105,Sandeep Singh,Patna,Bihar,Stationery,8,740,607,133,0.18,UPI,Local Store,02-03-2025
+1342,Neha Reddy,Pune,Maharashtra,Stationery,4,299,241,58,0.195,Cash,Supermarket,19-03-2025
+1928,Swati Singh,Chandigarh,Chandigarh,Electronics,2,18640,17335,1305,0.07,Credit Card,Mall Store,25-01-2025
+2006,Ritu Reddy,Trivandrum,Kerala,Stationery,8,620,516,104,0.168,Debit Card,Supermarket,22-03-2025
+2300,Alok Malhotra,Ahmedabad,Gujarat,Clothing,4,3990,3032,958,0.24,Cash,Local Store,02-02-2025
+2013,Rohit Bansal,Noida,Uttar Pradesh,Grocery,6,550,495,55,0.1,UPI,Mall Store,06-03-2025
+1059,Ashok Gupta,Rajkot,Gujarat,Grocery,9,580,503,77,0.133,UPI,Mall Store,11-03-2025
+1547,Shalini Chopra,Chennai,Tamil Nadu,Clothing,5,5370,3614,1756,0.327,UPI,Supermarket,10-01-2025
+2254,Neha Yadav,Gwalior,Madhya Pradesh,Grocery,10,660,587,73,0.111,UPI,Mall Store,28-03-2025
+1240,Vishal Nair,Pune,Maharashtra,Electronics,1,10980,10200,780,0.071,Debit Card,Mall Store,18-01-2025
+2299,Ritu Gupta,Delhi,Delhi,Grocery,7,448,400,48,0.107,UPI,Local Store,01-02-2025
+1800,Sanjay Joshi,Indore,Madhya Pradesh,Grocery,3,181,155,26,0.143,Debit Card,Mall Store,05-01-2025
+1873,Preeti Gupta,Faridabad,Haryana,Clothing,5,2430,1594,836,0.344,UPI,Mall Store,28-03-2025
+2092,Rekha Gupta,Varanasi,Uttar Pradesh,Clothing,5,4440,3219,1221,0.275,Debit Card,Supermarket,19-02-2025
+2347,Swati Reddy,Faridabad,Haryana,Clothing,4,540,405,135,0.25,UPI,Mall Store,28-01-2025
+2142,Harsh Kumar,Ludhiana,Punjab,Grocery,9,730,608,122,0.167,Credit Card,Local Store,29-03-2025
+1028,Suman Bansal,Kolkata,West Bengal,Grocery,6,394,324,70,0.177,UPI,Mall Store,16-03-2025
+2166,Neha Iyer,Bhubaneswar,Odisha,Electronics,2,33080,30665,2415,0.073,Debit Card,Local Store,28-01-2025
+2283,Manoj Pillai,Trivandrum,Kerala,Stationery,3,252,200,52,0.205,UPI,Mall Store,07-01-2025
+1529,Priya Bansal,Indore,Madhya Pradesh,Grocery,9,580,492,88,0.151,UPI,Mall Store,29-01-2025
+1127,Ritu Iyer,Jaipur,Rajasthan,Stationery,8,402,320,82,0.204,UPI,Mall Store,24-03-2025
+2134,Suman Bansal,Surat,Gujarat,Electronics,1,9590,8794,796,0.083,Credit Card,Mall Store,16-03-2025
+2061,Sneha Saxena,Gorakhpur,Uttar Pradesh,Grocery,10,720,602,118,0.164,Credit Card,Supermarket,16-01-2025
+1714,Simran Reddy,Patna,Bihar,Clothing,5,5100,3820,1280,0.251,UPI,Mall Store,28-03-2025
+2336,Manoj Patel,Gwalior,Madhya Pradesh,Stationery,6,380,323,57,0.15,Credit Card,Mall Store,09-01-2025
+2075,Kavita Gupta,Kolkata,West Bengal,Electronics,2,22970,21523,1447,0.063,Cash,Local Store,23-03-2025
+1349,Meera Patel,Panchkula,Haryana,Electronics,1,5490,5100,390,0.071,Debit Card,Local Store,08-03-2025
+2168,Sandeep Chopra,Gwalior,Madhya Pradesh,Grocery,7,479,424,55,0.115,Debit Card,Supermarket,07-01-2025
+2246,Harsh Joshi,Udaipur,Rajasthan,Electronics,2,7430,6628,802,0.108,UPI,Mall Store,18-01-2025
+1091,Preeti Joshi,Gorakhpur,Uttar Pradesh,Electronics,2,16680,15179,1501,0.09,Credit Card,Mall Store,05-03-2025
+1200,Rohit Reddy,Bhubaneswar,Odisha,Electronics,2,8000,7256,744,0.093,Debit Card,Mall Store,17-02-2025
+1881,Kavita Iyer,Ratlam,Madhya Pradesh,Clothing,2,3320,2234,1086,0.327,Cash,Local Store,26-02-2025
+1263,Sanjay Yadav,Guwahati,Assam,Clothing,6,60,46,14,0.233,UPI,Local Store,27-01-2025
+1811,Arjun Mehta,Dehradun,Uttarakhand,Clothing,5,4220,3224,996,0.236,UPI,Supermarket,20-01-2025
+2352,Swati Yadav,Visakhapatnam,Andhra Pradesh,Clothing,4,1440,982,458,0.318,UPI,Mall Store,24-02-2025
+1461,Simran Joshi,Dehradun,Uttarakhand,Grocery,5,447,367,80,0.179,UPI,Local Store,25-03-2025
+1149,Gaurav Mehta,Agra,Uttar Pradesh,Clothing,2,2110,1578,532,0.252,Cash,Supermarket,15-01-2025
+1337,Rekha Saxena,Patna,Bihar,Electronics,1,5110,4502,608,0.119,Debit Card,Supermarket,10-02-2025
+1854,Ashok Bansal,Chandigarh,Chandigarh,Electronics,2,24320,22739,1581,0.065,Credit Card,Local Store,24-02-2025
+1391,Swati Bansal,Panipat,Haryana,Stationery,7,364,306,58,0.159,UPI,Mall Store,11-03-2025
+2106,Kavita Verma,Bhopal,Madhya Pradesh,Grocery,7,311,258,53,0.171,Debit Card,Local Store,13-03-2025
+1079,Meera Joshi,Rewa,Madhya Pradesh,Grocery,6,368,322,46,0.125,Cash,Local Store,10-03-2025
+1686,Rohit Saxena,Chandigarh,Chandigarh,Grocery,7,495,445,50,0.101,Debit Card,Mall Store,15-01-2025
+2475,Rajesh Chopra,Bhubaneswar,Odisha,Electronics,1,5250,4683,567,0.108,Cash,Mall Store,21-03-2025
+1871,Gaurav Bansal,Indore,Madhya Pradesh,Electronics,2,14760,13476,1284,0.087,UPI,Supermarket,25-02-2025
+1036,Vivek Saxena,Agra,Uttar Pradesh,Clothing,3,1600,1115,485,0.303,UPI,Mall Store,03-02-2025
+1513,Ashok Iyer,Kochi,Kerala,Clothing,6,4970,3901,1069,0.215,Cash,Supermarket,18-01-2025
+1636,Anita Nair,Pune,Maharashtra,Grocery,9,317,260,57,0.179,Credit Card,Mall Store,21-01-2025
+1538,Divya Saxena,Rewa,Madhya Pradesh,Grocery,7,380,335,45,0.119,UPI,Local Store,02-03-2025
+1522,Harsh Verma,Vadodara,Gujarat,Clothing,5,5320,3905,1415,0.266,Debit Card,Local Store,26-01-2025
+1324,Sanjay Pillai,Solapur,Maharashtra,Grocery,9,820,684,136,0.166,Cash,Supermarket,05-03-2025
+2049,Arjun Sharma,Bilaspur,Chhattisgarh,Electronics,2,26340,23680,2660,0.101,UPI,Local Store,14-02-2025
+1007,Suresh Singh,Nashik,Maharashtra,Grocery,8,670,594,76,0.113,UPI,Supermarket,15-02-2025
+2439,Simran Saxena,Ludhiana,Punjab,Stationery,9,720,544,176,0.245,UPI,Mall Store,11-02-2025
+1792,Preeti Yadav,Faridabad,Haryana,Clothing,5,4810,3482,1328,0.276,Cash,Supermarket,11-03-2025
+2072,Ashok Singh,Bhubaneswar,Odisha,Stationery,5,398,317,81,0.203,Cash,Mall Store,09-02-2025
+2114,Naveen Saxena,Amritsar,Punjab,Grocery,7,472,397,75,0.158,UPI,Local Store,22-02-2025
+1304,Arjun Reddy,Gwalior,Madhya Pradesh,Grocery,5,346,302,44,0.126,UPI,Local Store,24-02-2025
+2447,Kavita Mehta,Siliguri,West Bengal,Clothing,2,1480,1024,456,0.308,UPI,Mall Store,16-02-2025
+1217,Vikram Malhotra,Amritsar,Punjab,Clothing,4,2670,1912,758,0.284,UPI,Local Store,16-02-2025
+2205,Suman Patel,Nashik,Maharashtra,Grocery,6,364,312,52,0.142,Cash,Mall Store,14-01-2025
+1396,Alok Saxena,Kolkata,West Bengal,Grocery,10,530,470,60,0.114,Cash,Local Store,22-01-2025
+2082,Kiran Saxena,Ahmedabad,Gujarat,Clothing,3,2390,1671,719,0.301,UPI,Local Store,09-03-2025
+1351,Vivek Kapoor,Bhubaneswar,Odisha,Grocery,6,388,335,53,0.137,Debit Card,Local Store,17-03-2025
+2399,Shalini Bansal,Dehradun,Uttarakhand,Electronics,1,12200,10760,1440,0.118,Debit Card,Local Store,30-01-2025
+2118,Swati Gupta,Hisar,Haryana,Grocery,9,530,462,68,0.129,UPI,Supermarket,03-03-2025
+1203,Suman Kapoor,Udaipur,Rajasthan,Clothing,3,3670,2697,973,0.265,Credit Card,Local Store,08-01-2025
+2027,Anjali Mehta,Patna,Bihar,Grocery,6,363,313,50,0.138,UPI,Local Store,28-03-2025
+1384,Manish Malhotra,Jaipur,Rajasthan,Clothing,6,4450,3124,1326,0.298,Credit Card,Supermarket,29-03-2025
+1943,Manoj Kapoor,Bhopal,Madhya Pradesh,Clothing,4,4380,3272,1108,0.253,Credit Card,Mall Store,03-03-2025
+1311,Sneha Pillai,Kanpur,Uttar Pradesh,Electronics,1,7240,6726,514,0.071,Debit Card,Mall Store,27-02-2025
+2335,Ashok Reddy,Dehradun,Uttarakhand,Grocery,10,620,551,69,0.112,UPI,Mall Store,24-01-2025
+1923,Rohit Sharma,Trivandrum,Kerala,Electronics,1,8470,7623,847,0.1,Cash,Mall Store,22-02-2025
+1405,Pooja Yadav,Hisar,Haryana,Grocery,9,479,403,76,0.159,Cash,Local Store,08-03-2025
+1536,Nisha Bansal,Surat,Gujarat,Grocery,8,486,422,64,0.131,Credit Card,Local Store,29-03-2025
+1009,Suman Reddy,Dehradun,Uttarakhand,Grocery,3,159,140,19,0.118,Credit Card,Local Store,05-01-2025
+2197,Rajesh Gupta,Gurgaon,Haryana,Grocery,5,299,263,36,0.121,UPI,Supermarket,03-03-2025
+1242,Karan Iyer,Gorakhpur,Uttar Pradesh,Grocery,4,233,201,32,0.137,Credit Card,Mall Store,21-01-2025
+2267,Arjun Reddy,Jaipur,Rajasthan,Clothing,5,4330,2858,1472,0.34,UPI,Supermarket,02-03-2025
+1790,Rohit Sharma,Jaipur,Rajasthan,Clothing,2,800,580,220,0.275,UPI,Local Store,04-01-2025
+2231,Ajay Chopra,Ratlam,Madhya Pradesh,Grocery,7,361,299,62,0.171,Cash,Mall Store,22-01-2025
+2186,Arjun Chopra,Gurgaon,Haryana,Grocery,5,371,319,52,0.14,UPI,Mall Store,22-03-2025
+1206,Arjun Kapoor,Kochi,Kerala,Grocery,8,367,306,61,0.167,Debit Card,Supermarket,14-03-2025
+1821,Ritu Mehta,Bilaspur,Chhattisgarh,Electronics,2,12380,10969,1411,0.114,Debit Card,Supermarket,29-03-2025
+2238,Manish Agarwal,Gwalior,Madhya Pradesh,Grocery,8,414,343,71,0.171,Debit Card,Mall Store,20-02-2025
+2224,Nisha Yadav,Kolkata,West Bengal,Electronics,2,18900,17199,1701,0.09,UPI,Mall Store,07-01-2025
+1919,Ajay Mehta,Trivandrum,Kerala,Grocery,9,480,394,86,0.18,Cash,Supermarket,22-03-2025
+1276,Pooja Verma,Pune,Maharashtra,Electronics,2,19230,17442,1788,0.093,,Mall Store,08-01-2025
+2144,Ashok Gupta,Mangalore,Karnataka,Grocery,3,186,164,22,0.118,Debit Card,Local Store,24-01-2025
+1557,Rohit Iyer,Faridabad,Haryana,Electronics,1,6290,5655,635,0.101,Credit Card,Local Store,04-03-2025
+2069,Alok Rao,Trivandrum,Kerala,Grocery,5,265,232,33,0.125,Debit Card,Mall Store,25-02-2025
+1600,Nisha Nair,Dehradun,Uttarakhand,Stationery,4,310,260,50,0.161,UPI,Mall Store,22-02-2025
+1672,Anita Chopra,Rajkot,Gujarat,Stationery,8,228,171,57,0.249,Debit Card,Supermarket,16-03-2025
+1676,Rohit Gupta,Delhi,Delhi,Grocery,3,145,129,16,0.112,Debit Card,Mall Store,04-03-2025
+1063,Arjun Agarwal,Bhopal,Madhya Pradesh,Stationery,3,144,109,35,0.241,UPI,Mall Store,17-03-2025
+2340,Ritu Chopra,Indore,Madhya Pradesh,Grocery,8,500,424,76,0.153,Cash,Mall Store,14-02-2025
+1675,Deepika Kumar,Rohtak,Haryana,Grocery,9,350,292,58,0.167,UPI,Local Store,16-02-2025
+1316,Amit Agarwal,Surat,Gujarat,Grocery,9,540,482,58,0.108,UPI,Local Store,25-03-2025
+1979,Sanjay Malhotra,Agra,Uttar Pradesh,Grocery,6,217,190,27,0.125,Credit Card,Mall Store,27-03-2025
+2323,Rohit Kumar,Bengaluru,Karnataka,Clothing,6,5270,4147,1123,0.213,UPI,Mall Store,01-01-2025
+2291,Simran Bansal,Chandigarh,Chandigarh,Grocery,5,329,274,55,0.167,Cash,Supermarket,08-03-2025
+1535,Alok Mehta,Panipat,Haryana,Grocery,7,352,306,46,0.132,Credit Card,Supermarket,15-03-2025
+2249,Naveen Agarwal,Meerut,Uttar Pradesh,Electronics,2,17640,15558,2082,0.118,Credit Card,Supermarket,01-03-2025
+1617,Meera Gupta,Vadodara,Gujarat,Grocery,5,308,273,35,0.115,Credit Card,Mall Store,20-03-2025
+2110,Swati Saxena,Chandigarh,Chandigarh,Grocery,3,266,236,30,0.113,UPI,Mall Store,28-01-2025
+2316,Divya Bansal,Trivandrum,Kerala,Grocery,9,363,320,43,0.118,UPI,Local Store,17-01-2025
+2483,Nisha Malhotra,Guwahati,Assam,Electronics,1,14040,12496,1544,0.11,Credit Card,Local Store,08-01-2025
+1593,Vikram Saxena,Satara,Maharashtra,Grocery,9,600,536,64,0.106,UPI,Local Store,08-01-2025
+1155,Ritu Chopra,Kochi,Kerala,Electronics,1,9030,8271,759,0.084,UPI,Mall Store,09-02-2025
+1655,Harsh Patel,Ratlam,Madhya Pradesh,Electronics,1,17010,15887,1123,0.066,UPI,Mall Store,26-03-2025
+1787,Shalini Yadav,Trivandrum,Kerala,Stationery,9,780,654,126,0.162,UPI,Mall Store,24-02-2025
+1891,Manish Kapoor,Rewa,Madhya Pradesh,Grocery,7,510,429,81,0.158,UPI,Supermarket,06-03-2025
+2190,Manish Reddy,Bengaluru,Karnataka,Clothing,5,3050,2086,964,0.316,UPI,Supermarket,26-03-2025
+1189,Ashok Nair,Udaipur,Rajasthan,Electronics,2,10070,9244,826,0.082,UPI,Supermarket,08-03-2025
+1190,Nisha Patel,Prayagraj,Uttar Pradesh,Clothing,3,1340,962,378,0.282,UPI,Supermarket,11-02-2025
+2360,Ritu Nair,Kolhapur,Maharashtra,Clothing,6,5730,4108,1622,0.283,Credit Card,Local Store,11-01-2025
+1574,Amit Bansal,Rajkot,Gujarat,Electronics,2,14470,13124,1346,0.093,UPI,Supermarket,04-03-2025
+2235,Naveen Joshi,Rajkot,Gujarat,Grocery,10,479,427,52,0.109,Cash,Mall Store,29-03-2025
+1765,Priya Singh,Siliguri,West Bengal,Grocery,4,309,263,46,0.148,Credit Card,Mall Store,16-02-2025
+1243,Anita Singh,Chennai,Tamil Nadu,Stationery,7,560,455,105,0.187,UPI,Supermarket,29-01-2025
+2341,Ajay Bansal,Trivandrum,Kerala,Electronics,1,8560,8029,531,0.062,Debit Card,Mall Store,04-02-2025
+1560,Ritu Rao,Siliguri,West Bengal,Clothing,6,4640,3151,1489,0.321,Cash,Supermarket,29-03-2025
+2378,Manoj Sharma,Kochi,Kerala,Grocery,4,302,250,52,0.173,UPI,Mall Store,02-02-2025
+2438,Vikram Malhotra,Kochi,Kerala,Clothing,5,6910,5100,1810,0.262,UPI,Supermarket,23-03-2025
+1352,Manoj Pillai,Siliguri,West Bengal,Clothing,3,4030,3220,810,0.201,Credit Card,Supermarket,22-02-2025
+1042,Gaurav Reddy,Chandigarh,Chandigarh,Grocery,4,250,217,33,0.131,UPI,Local Store,05-01-2025
+1670,Rohit Kapoor,Siliguri,West Bengal,Clothing,2,2450,1681,769,0.314,Credit Card,Supermarket,26-03-2025
+2028,Meera Sharma,Sangli,Maharashtra,Clothing,2,1870,1468,402,0.215,UPI,Local Store,08-03-2025
+1499,Deepika Rao,Bhubaneswar,Odisha,Electronics,2,9870,8735,1135,0.115,Cash,Supermarket,06-01-2025
+1764,Ajay Singh,Satara,Maharashtra,Clothing,4,3480,2565,915,0.263,Cash,Local Store,04-03-2025
+1100,Anjali Agarwal,Indore,Madhya Pradesh,Clothing,3,2490,1805,685,0.275,UPI,Mall Store,07-02-2025
+1287,Naveen Pillai,Pune,Maharashtra,Clothing,4,3420,2291,1129,0.33,UPI,Supermarket,02-01-2025
+1842,Karan Rao,Varanasi,Uttar Pradesh,Electronics,1,10360,9542,818,0.079,UPI,Local Store,04-03-2025
+1517,Meera Malhotra,Siliguri,West Bengal,Grocery,10,680,602,78,0.114,UPI,Mall Store,13-03-2025
+2210,Sanjay Bansal,Jaipur,Rajasthan,Clothing,5,7120,4927,2193,0.308,UPI,Supermarket,05-02-2025
+2204,Rahul Nair,Gorakhpur,Uttar Pradesh,Grocery,8,550,486,64,0.117,Debit Card,Local Store,14-03-2025
+2319,Karan Pillai,Rajkot,Gujarat,Stationery,4,231,193,38,0.163,UPI,Local Store,05-01-2025
+1485,Divya Sharma,Bilaspur,Chhattisgarh,Stationery,5,274,230,44,0.162,UPI,Mall Store,01-01-2025
+2298,Vivek Pillai,Kolhapur,Maharashtra,Electronics,2,13970,12992,978,0.07,Debit Card,Mall Store,18-02-2025
+1209,Neha Kumar,Hisar,Haryana,Electronics,2,19610,18198,1412,0.072,Debit Card,Supermarket,19-03-2025
+1084,Kavita Kapoor,Nagpur,Maharashtra,Grocery,6,313,279,34,0.109,Cash,Mall Store,23-02-2025
+2038,Pooja Singh,Prayagraj,Uttar Pradesh,Stationery,3,122,102,20,0.166,Cash,Local Store,11-02-2025
+1251,Gaurav Iyer,Nashik,Maharashtra,Electronics,2,7170,6575,595,0.083,Debit Card,Local Store,29-03-2025
+1951,Rahul Iyer,Delhi,Delhi,Grocery,3,169,145,24,0.144,UPI,Supermarket,19-01-2025
+1077,Rekha Agarwal,Bhubaneswar,Odisha,Grocery,7,429,378,51,0.118,Cash,Supermarket,30-03-2025
+1229,Meera Joshi,Indore,Madhya Pradesh,Electronics,2,10990,9737,1253,0.114,Debit Card,Local Store,20-02-2025
+1630,Vishal Saxena,Kanpur,Uttar Pradesh,Electronics,2,23660,22169,1491,0.063,Credit Card,Local Store,22-01-2025
+1624,Ritu Rao,Surat,Gujarat,Electronics,1,12710,11528,1182,0.093,Debit Card,Local Store,08-03-2025
+2085,Alok Malhotra,Agra,Uttar Pradesh,Stationery,3,233,176,57,0.244,UPI,Local Store,21-03-2025
+2081,Rahul Chopra,Gorakhpur,Uttar Pradesh,Electronics,2,13560,12543,1017,0.075,Cash,Local Store,26-03-2025
+1846,Alok Kapoor,Agra,Uttar Pradesh,Clothing,2,2100,1514,586,0.279,Debit Card,Supermarket,15-03-2025
+2074,Rajesh Malhotra,Udaipur,Rajasthan,Grocery,9,367,316,51,0.138,Cash,Supermarket,17-01-2025
+1639,Anjali Mehta,Ratlam,Madhya Pradesh,Electronics,1,3490,3134,356,0.102,Credit Card,Supermarket,20-03-2025
+1925,Ashok Saxena,Meerut,Uttar Pradesh,Electronics,1,12180,11364,816,0.067,Credit Card,Local Store,17-02-2025
+2015,Gaurav Verma,Indore,Madhya Pradesh,Electronics,1,14080,13066,1014,0.072,Cash,Local Store,25-02-2025
+2182,Meera Mehta,Nagpur,Maharashtra,Clothing,5,6590,4606,1984,0.301,Credit Card,Local Store,01-01-2025
+1440,Pooja Iyer,Coimbatore,Tamil Nadu,Grocery,4,237,206,31,0.132,UPI,Supermarket,28-02-2025
+1420,Shalini Patel,Gurgaon,Haryana,Grocery,7,427,370,57,0.134,Credit Card,Mall Store,12-02-2025
+2457,Rahul Rao,Gurgaon,Haryana,Clothing,4,4500,3150,1350,0.3,Debit Card,Mall Store,21-02-2025
+2477,Amit Malhotra,Gorakhpur,Uttar Pradesh,Stationery,10,680,561,119,0.175,UPI,Mall Store,19-03-2025
+1773,Priya Bansal,Meerut,Uttar Pradesh,Grocery,8,560,498,62,0.111,Credit Card,Local Store,26-02-2025
+1760,Nisha Chopra,Bhopal,Madhya Pradesh,Clothing,6,6660,5241,1419,0.213,Debit Card,Supermarket,27-01-2025
+1694,Ritu Kapoor,Vadodara,Gujarat,Grocery,8,550,465,85,0.154,UPI,Supermarket,24-01-2025
+1201,Rohit Saxena,Pune,Maharashtra,Grocery,9,590,484,106,0.18,Cash,Mall Store,03-03-2025
+1350,Sanjay Agarwal,Faridabad,Haryana,Clothing,4,3340,2508,832,0.249,UPI,Mall Store,12-03-2025
+2065,Harsh Pillai,Ludhiana,Punjab,Grocery,4,218,185,33,0.153,UPI,Supermarket,06-01-2025
+2229,Vivek Saxena,Faridabad,Haryana,Clothing,2,2380,1837,543,0.228,Cash,Mall Store,31-03-2025
+1626,Simran Verma,Gorakhpur,Uttar Pradesh,Electronics,1,6210,5664,546,0.088,Cash,Mall Store,24-03-2025
+2042,Payal Yadav,Mangalore,Karnataka,Stationery,8,487,408,79,0.163,Credit Card,Local Store,10-02-2025
+1981,Swati Saxena,Guwahati,Assam,Grocery,8,570,471,99,0.173,Credit Card,Mall Store,04-03-2025
+1640,Kiran Patel,Rohtak,Haryana,Clothing,6,3070,2026,1044,0.34,Cash,Mall Store,06-02-2025
+1356,Swati Patel,Kochi,Kerala,Electronics,2,8980,8082,898,0.1,UPI,Supermarket,17-01-2025
+1996,Swati Chopra,Indore,Madhya Pradesh,Grocery,4,223,194,29,0.129,Cash,Supermarket,23-01-2025
+1494,Sanjay Patel,Mumbai,Maharashtra,Stationery,3,158,122,36,0.231,Credit Card,Mall Store,16-03-2025
+1181,Preeti Patel,Indore,Madhya Pradesh,Clothing,5,5440,3862,1578,0.29,Credit Card,Mall Store,03-01-2025
+1245,Deepika Reddy,Dehradun,Uttarakhand,Clothing,2,1080,779,301,0.279,UPI,Mall Store,09-03-2025
+1818,Vikram Kumar,Agra,Uttar Pradesh,Stationery,10,880,712,168,0.191,Credit Card,Supermarket,17-03-2025
+1275,Meera Malhotra,Pune,Maharashtra,Electronics,2,9130,8327,803,0.088,UPI,Local Store,01-02-2025
+1393,Neha Gupta,Siliguri,West Bengal,Clothing,2,1010,795,215,0.213,Credit Card,Local Store,14-02-2025
+1221,Shalini Singh,Kota,Rajasthan,Clothing,2,3190,2265,925,0.29,Cash,Local Store,03-02-2025
+1235,Amit Kumar,Kota,Rajasthan,Stationery,5,560,424,136,0.243,UPI,Local Store,05-01-2025
+1035,Suman Joshi,Sangli,Maharashtra,Grocery,5,362,318,44,0.121,UPI,Mall Store,14-01-2025
+1086,Simran Verma,Hyderabad,Telangana,Stationery,4,240,181,59,0.245,UPI,Mall Store,27-01-2025
+1157,Kavita Reddy,Jaipur,Rajasthan,Grocery,6,530,470,60,0.114,Cash,Local Store,20-01-2025
+2292,Deepika Singh,Amritsar,Punjab,Clothing,3,4940,3927,1013,0.205,Cash,Mall Store,31-01-2025
+1747,Shalini Nair,Panipat,Haryana,Clothing,6,5740,3869,1871,0.326,Credit Card,Mall Store,26-02-2025
+2339,Naveen Pillai,Rohtak,Haryana,Grocery,6,325,290,35,0.109,Credit Card,Mall Store,06-02-2025
+1364,Sanjay Yadav,Satara,Maharashtra,Electronics,1,9410,8789,621,0.066,Debit Card,Supermarket,12-02-2025
+1828,Rohit Saxena,Dehradun,Uttarakhand,Electronics,2,12340,11266,1074,0.087,Cash,Supermarket,18-01-2025
+1381,Rekha Gupta,Ratlam,Madhya Pradesh,Clothing,3,1940,1451,489,0.252,Debit Card,Supermarket,10-02-2025
+2374,Ajay Iyer,Nagpur,Maharashtra,Clothing,4,1660,1195,465,0.28,Debit Card,Local Store,19-03-2025
+1971,Deepika Agarwal,Hisar,Haryana,Stationery,3,218,177,41,0.187,UPI,Local Store,15-03-2025
+1510,Vishal Chopra,Coimbatore,Tamil Nadu,Grocery,4,190,168,22,0.114,Debit Card,Mall Store,20-03-2025
+1068,Divya Kumar,Trivandrum,Kerala,Clothing,2,2400,1639,761,0.317,UPI,Local Store,21-01-2025
+2422,Vikram Malhotra,Ludhiana,Punjab,Stationery,4,366,299,67,0.184,Credit Card,Mall Store,23-03-2025
+1817,Rajesh Nair,Visakhapatnam,Andhra Pradesh,Clothing,5,4900,3327,1573,0.321,UPI,Local Store,31-01-2025
+1781,Sandeep Singh,Udaipur,Rajasthan,Clothing,5,4770,3511,1259,0.264,UPI,Supermarket,07-03-2025
+1778,Pooja Gupta,Mangalore,Karnataka,Stationery,8,520,424,96,0.185,Credit Card,Local Store,06-03-2025
+2429,Manish Malhotra,Rohtak,Haryana,Stationery,3,197,161,36,0.184,Credit Card,Supermarket,10-02-2025
+1472,Rekha Kapoor,Bilaspur,Chhattisgarh,Grocery,8,204,175,29,0.142,Cash,Mall Store,24-01-2025
+1732,Ritu Reddy,Varanasi,Uttar Pradesh,Electronics,1,4580,4058,522,0.114,Debit Card,Local Store,17-03-2025
+1394,Payal Reddy,Bilaspur,Chhattisgarh,Grocery,9,790,660,130,0.165,Cash,Local Store,23-02-2025
+2375,Meera Gupta,Visakhapatnam,Andhra Pradesh,Electronics,2,26300,23959,2341,0.089,Credit Card,Mall Store,02-02-2025
+1983,Sneha Chopra,Jodhpur,Rajasthan,Grocery,9,409,353,56,0.137,Credit Card,Supermarket,26-03-2025
+1348,Sneha Verma,Bilaspur,Chhattisgarh,Clothing,5,2390,1831,559,0.234,Cash,Mall Store,01-02-2025
+1822,Sandeep Malhotra,Delhi,Delhi,Stationery,9,880,666,214,0.243,Debit Card,Supermarket,02-02-2025
+1330,Anjali Chopra,Gorakhpur,Uttar Pradesh,Grocery,4,278,245,33,0.118,UPI,Mall Store,12-01-2025
+1135,Vikram Bansal,Rajkot,Gujarat,Stationery,4,206,157,49,0.24,UPI,Mall Store,11-02-2025
+2004,Shalini Gupta,Chandigarh,Chandigarh,Grocery,3,151,130,21,0.142,UPI,Mall Store,23-02-2025
+1010,Sanjay Yadav,Panchkula,Haryana,Stationery,8,650,539,111,0.171,Debit Card,Mall Store,05-03-2025
+2495,Payal Rao,Indore,Madhya Pradesh,Grocery,6,499,444,55,0.11,UPI,Mall Store,04-03-2025
+1860,Swati Verma,Pune,Maharashtra,Electronics,2,20430,18816,1614,0.079,Credit Card,Local Store,28-02-2025
+1011,Preeti Gupta,Rewa,Madhya Pradesh,Grocery,7,371,312,59,0.16,UPI,Local Store,24-02-2025
+1756,Neha Saxena,Satara,Maharashtra,Grocery,6,600,502,98,0.163,UPI,Supermarket,05-02-2025
+1662,Preeti Bansal,Gurgaon,Haryana,Stationery,5,295,225,70,0.236,UPI,Supermarket,20-03-2025
+1927,Suresh Reddy,Panipat,Haryana,Stationery,3,176,145,31,0.178,UPI,Supermarket,19-03-2025
+1699,Meera Chopra,Gorakhpur,Uttar Pradesh,Stationery,8,710,585,125,0.176,UPI,Supermarket,10-01-2025
+1285,Kavita Malhotra,Varanasi,Uttar Pradesh,Electronics,1,15470,14542,928,0.06,Cash,Mall Store,09-02-2025
+1702,Sandeep Mehta,Jaipur,Rajasthan,Grocery,4,303,259,44,0.146,UPI,Local Store,02-02-2025
+1371,Ritu Mehta,Surat,Gujarat,Clothing,2,1810,1240,570,0.315,Debit Card,Mall Store,29-01-2025
+1719,Ajay Gupta,Agra,Uttar Pradesh,Grocery,7,382,328,54,0.142,UPI,Supermarket,22-02-2025
+1598,Swati Mehta,Pune,Maharashtra,Electronics,2,9150,8180,970,0.106,Credit Card,Local Store,17-01-2025
+1126,Rekha Saxena,Kota,Rajasthan,Stationery,7,800,678,122,0.153,Credit Card,Supermarket,17-02-2025
+1408,Preeti Rao,Solapur,Maharashtra,Clothing,2,1710,1194,516,0.302,Credit Card,Mall Store,31-01-2025
+2277,Naveen Patel,Kanpur,Uttar Pradesh,Stationery,4,466,371,95,0.203,Debit Card,Local Store,31-01-2025
+2419,Harsh Singh,Meerut,Uttar Pradesh,Clothing,6,8150,5615,2535,0.311,Credit Card,Supermarket,01-02-2025
+1588,Sandeep Agarwal,Solapur,Maharashtra,Grocery,3,142,117,25,0.179,UPI,Supermarket,18-03-2025
+1542,Kiran Pillai,Bengaluru,Karnataka,Grocery,10,431,378,53,0.124,UPI,Local Store,13-03-2025
+1140,Pooja Patel,Prayagraj,Uttar Pradesh,Grocery,8,332,277,55,0.165,Debit Card,Supermarket,13-03-2025
+1261,Suman Rao,Bhopal,Madhya Pradesh,Electronics,2,9510,8825,685,0.072,Credit Card,Supermarket,24-03-2025
+1474,Vivek Yadav,Siliguri,West Bengal,Clothing,5,6550,4264,2286,0.349,Cash,Supermarket,25-03-2025
+1166,Kavita Nair,Pune,Maharashtra,Clothing,3,3070,2032,1038,0.338,Cash,Local Store,09-02-2025
+1227,Simran Bansal,Noida,Uttar Pradesh,Stationery,7,499,396,103,0.206,Debit Card,Local Store,29-01-2025
+2185,Alok Chopra,Bhopal,Madhya Pradesh,Stationery,9,452,340,112,0.248,UPI,Mall Store,23-01-2025
+1192,Naveen Saxena,Prayagraj,Uttar Pradesh,Grocery,3,219,196,23,0.106,Credit Card,Mall Store,23-03-2025
+1307,Manish Kumar,Amritsar,Punjab,Grocery,10,790,704,86,0.109,Credit Card,Local Store,27-03-2025
+1144,Simran Saxena,Dehradun,Uttarakhand,Clothing,2,1910,1354,556,0.291,UPI,Local Store,26-03-2025
+2444,Gaurav Rao,Rohtak,Haryana,Stationery,4,176,136,40,0.228,Credit Card,Local Store,03-02-2025
+2345,Manish Sharma,Bengaluru,Karnataka,Grocery,9,670,598,72,0.107,Cash,Local Store,12-02-2025
+1483,Vivek Joshi,Trivandrum,Kerala,Grocery,10,359,312,47,0.131,UPI,Supermarket,26-03-2025
+2427,Rohit Mehta,Chandigarh,Chandigarh,Electronics,2,30390,28384,2006,0.066,UPI,Supermarket,29-01-2025
+1775,Rohit Yadav,Bhopal,Madhya Pradesh,Stationery,9,740,578,162,0.219,Cash,Supermarket,15-01-2025
+2129,Nisha Gupta,Sangli,Maharashtra,Clothing,6,5280,3575,1705,0.323,UPI,Local Store,14-02-2025
+1321,Rohit Reddy,Kolkata,West Bengal,Clothing,3,2790,1914,876,0.314,UPI,Mall Store,28-03-2025
+2200,Sandeep Chopra,Trivandrum,Kerala,Clothing,4,5240,3705,1535,0.293,UPI,Mall Store,19-03-2025
+2302,Rahul Agarwal,Ahmedabad,Gujarat,Stationery,10,900,707,193,0.214,UPI,Supermarket,13-03-2025
+1018,Pooja Bansal,Coimbatore,Tamil Nadu,Grocery,5,324,288,36,0.11,UPI,Local Store,02-03-2025
+2470,Kavita Nair,Kanpur,Uttar Pradesh,Grocery,9,600,502,98,0.163,UPI,Mall Store,21-01-2025
+1431,Vikram Sharma,Lucknow,Uttar Pradesh,Clothing,5,2730,2001,729,0.267,Credit Card,Mall Store,16-01-2025
+2473,Swati Chopra,Delhi,Delhi,Clothing,5,4300,3406,894,0.208,Cash,Mall Store,22-02-2025
+2270,Sneha Nair,Jaipur,Rajasthan,Clothing,5,6350,4953,1397,0.22,UPI,Mall Store,23-03-2025
+2332,Anjali Iyer,Guwahati,Assam,Grocery,6,470,396,74,0.158,UPI,Supermarket,11-02-2025
+1930,Suresh Rao,Bengaluru,Karnataka,Clothing,3,2640,1777,863,0.327,Cash,Local Store,03-01-2025
+2048,Suresh Verma,Vadodara,Gujarat,Grocery,10,364,306,58,0.158,Cash,Local Store,08-02-2025
+1208,Rekha Pillai,Faridabad,Haryana,Clothing,4,4220,3072,1148,0.272,Credit Card,Mall Store,29-03-2025
+1238,Manoj Singh,Ratlam,Madhya Pradesh,Grocery,10,630,534,96,0.152,UPI,Supermarket,24-01-2025
+1903,Gaurav Bansal,Panchkula,Haryana,Grocery,10,600,497,103,0.172,Cash,Mall Store,18-02-2025
+1346,Alok Kumar,Amritsar,Punjab,Grocery,4,254,210,44,0.172,UPI,Mall Store,28-03-2025
+2025,Deepika Kumar,Noida,Uttar Pradesh,Grocery,5,430,359,71,0.165,Debit Card,Supermarket,25-01-2025
+1751,Suman Verma,Sangli,Maharashtra,Grocery,8,369,328,41,0.112,UPI,Mall Store,27-02-2025
+1341,Deepika Gupta,Surat,Gujarat,Grocery,4,191,167,24,0.125,Cash,Mall Store,25-02-2025
+1629,Arjun Singh,Pune,Maharashtra,Grocery,10,610,518,92,0.151,UPI,Mall Store,11-01-2025
+1458,Rohit Singh,Nashik,Maharashtra,Clothing,6,3540,2365,1175,0.332,Credit Card,Local Store,06-03-2025
+1176,Kavita Chopra,Pune,Maharashtra,Stationery,6,520,399,121,0.232,Credit Card,Local Store,14-02-2025
+1550,Karan Patel,Agra,Uttar Pradesh,Grocery,4,204,182,22,0.108,UPI,Mall Store,02-03-2025
+1301,Naveen Sharma,Rohtak,Haryana,Grocery,9,428,354,74,0.174,Debit Card,Supermarket,11-01-2025
+1460,Harsh Rao,Nagpur,Maharashtra,Stationery,8,368,287,81,0.221,UPI,Mall Store,12-03-2025
+2104,Vikram Gupta,Chennai,Tamil Nadu,Clothing,2,1720,1366,354,0.206,UPI,Local Store,25-03-2025
+2435,Swati Pillai,Kota,Rajasthan,Grocery,6,345,299,46,0.133,,Supermarket,18-03-2025
+2297,Simran Chopra,Prayagraj,Uttar Pradesh,Clothing,2,2350,1596,754,0.321,Cash,Mall Store,12-03-2025
+1726,Rajesh Reddy,Vadodara,Gujarat,Grocery,6,343,306,37,0.108,UPI,Local Store,22-02-2025
+2021,Ashok Kapoor,Nagpur,Maharashtra,Clothing,2,2110,1654,456,0.216,UPI,Local Store,15-03-2025
+1645,Rajesh Sharma,Indore,Madhya Pradesh,Clothing,4,3310,2453,857,0.259,UPI,Mall Store,14-03-2025
+1701,Simran Malhotra,Udaipur,Rajasthan,Clothing,2,1490,1159,331,0.222,Cash,Supermarket,25-02-2025
+2423,Priya Kumar,Mangalore,Karnataka,Grocery,4,218,182,36,0.167,Cash,Local Store,25-02-2025
+1464,Neha Verma,Noida,Uttar Pradesh,Grocery,5,316,259,57,0.179,Cash,Supermarket,29-03-2025
+1970,Preeti Agarwal,Ratlam,Madhya Pradesh,Clothing,4,1880,1265,615,0.327,Cash,Local Store,24-02-2025
+1327,Rohit Joshi,Kanpur,Uttar Pradesh,Stationery,7,650,547,103,0.159,UPI,Supermarket,16-02-2025
+1706,Anita Malhotra,Lucknow,Uttar Pradesh,Clothing,2,2160,1609,551,0.255,Credit Card,Supermarket,13-02-2025
+1743,Manish Joshi,Hisar,Haryana,Clothing,2,1430,1104,326,0.228,UPI,Supermarket,28-02-2025
+1684,Harsh Joshi,Bengaluru,Karnataka,Clothing,4,4190,3314,876,0.209,Credit Card,Mall Store,02-03-2025
+2248,Sneha Malhotra,Bhubaneswar,Odisha,Stationery,9,491,412,79,0.16,UPI,Mall Store,09-03-2025
+1060,Gaurav Malhotra,Vadodara,Gujarat,Clothing,2,2390,1604,786,0.329,UPI,Mall Store,15-03-2025
+1014,Anjali Pillai,Siliguri,West Bengal,Grocery,8,250,223,27,0.109,UPI,Supermarket,25-02-2025
+1932,Neha Nair,Prayagraj,Uttar Pradesh,Stationery,9,970,798,172,0.177,Credit Card,Mall Store,29-03-2025
+1994,Manoj Patel,Gurgaon,Haryana,Stationery,4,225,173,52,0.23,UPI,Supermarket,27-03-2025
+2001,Harsh Kapoor,Hisar,Haryana,Electronics,1,12900,11739,1161,0.09,Credit Card,Supermarket,02-01-2025
+2178,Vivek Saxena,Jaipur,Rajasthan,Stationery,4,272,229,43,0.159,Credit Card,Mall Store,03-01-2025
+1969,Swati Reddy,Gurgaon,Haryana,Clothing,3,2660,1939,721,0.271,Credit Card,Mall Store,08-03-2025
+2031,Rahul Agarwal,Gorakhpur,Uttar Pradesh,Electronics,1,7100,6660,440,0.062,UPI,Local Store,16-01-2025
+1604,Anjali Joshi,Hisar,Haryana,Electronics,2,25490,23629,1861,0.073,Credit Card,Supermarket,10-03-2025
+1323,Preeti Bansal,Varanasi,Uttar Pradesh,Clothing,2,1310,904,406,0.31,Cash,Mall Store,28-02-2025
+2324,Preeti Malhotra,Varanasi,Uttar Pradesh,Electronics,2,19410,17139,2271,0.117,Credit Card,Supermarket,13-01-2025
+1442,Arjun Singh,Kota,Rajasthan,Stationery,10,690,531,159,0.23,Credit Card,Mall Store,28-03-2025
+2462,Sanjay Yadav,Rohtak,Haryana,Grocery,4,167,144,23,0.138,UPI,Mall Store,13-01-2025
+1737,Preeti Sharma,Chennai,Tamil Nadu,Grocery,8,510,438,72,0.142,UPI,Mall Store,07-02-2025
+1555,Alok Chopra,Gwalior,Madhya Pradesh,Clothing,6,6010,4532,1478,0.246,UPI,Mall Store,14-02-2025
+1257,Suresh Kapoor,Varanasi,Uttar Pradesh,Electronics,2,24870,23030,1840,0.074,Credit Card,Local Store,19-01-2025
+1561,Manish Mehta,Kota,Rajasthan,Grocery,4,257,227,30,0.115,Credit Card,Supermarket,07-02-2025
+2119,Sneha Kumar,Noida,Uttar Pradesh,Electronics,1,8700,7839,861,0.099,Debit Card,Supermarket,03-01-2025
+1712,Priya Bansal,Hyderabad,Telangana,Grocery,5,293,263,30,0.101,UPI,Supermarket,22-03-2025
+1861,Karan Nair,Guwahati,Assam,Grocery,5,315,282,33,0.106,Cash,Supermarket,19-03-2025
+1073,Manish Bansal,Kolhapur,Maharashtra,Electronics,2,15750,14506,1244,0.079,UPI,Local Store,01-02-2025
+1258,Gaurav Joshi,Chandigarh,Chandigarh,Grocery,5,247,210,37,0.15,UPI,Mall Store,24-02-2025
+2149,Alok Bansal,Ahmedabad,Gujarat,Grocery,4,336,277,59,0.175,Cash,Local Store,02-01-2025
+1003,Manish Chopra,Gurgaon,Haryana,Electronics,2,20530,18292,2238,0.109,UPI,Local Store,01-01-2025
+2372,Kavita Kumar,Rohtak,Haryana,Stationery,8,830,699,131,0.158,Cash,Supermarket,07-01-2025
+2170,Nisha Iyer,Gorakhpur,Uttar Pradesh,Electronics,1,10990,9957,1033,0.094,Cash,Supermarket,18-03-2025
+1683,Vishal Bansal,Panchkula,Haryana,Clothing,5,3710,2771,939,0.253,UPI,Supermarket,07-02-2025
+1368,Kiran Reddy,Chennai,Tamil Nadu,Stationery,3,211,158,53,0.249,Cash,Mall Store,15-02-2025
+2133,Ajay Chopra,Trivandrum,Kerala,Clothing,4,5540,4316,1224,0.221,UPI,Local Store,25-03-2025
+1886,Amit Gupta,Panchkula,Haryana,Grocery,7,610,528,82,0.134,Debit Card,Mall Store,29-03-2025
+1480,Preeti Nair,Ahmedabad,Gujarat,Grocery,3,230,204,26,0.114,Credit Card,Mall Store,02-02-2025
+1993,Manoj Reddy,Amritsar,Punjab,Stationery,6,390,328,62,0.159,UPI,Supermarket,23-02-2025
+1768,Naveen Verma,Faridabad,Haryana,Grocery,4,346,297,49,0.141,UPI,Supermarket,22-03-2025
+2046,Amit Saxena,Varanasi,Uttar Pradesh,Grocery,4,293,257,36,0.122,Cash,Mall Store,15-03-2025
+1586,Harsh Agarwal,Meerut,Uttar Pradesh,Stationery,8,600,460,140,0.234,Credit Card,Local Store,22-02-2025
+1118,Sandeep Verma,Kochi,Kerala,Electronics,1,3910,3656,254,0.065,Credit Card,Supermarket,07-02-2025
+1960,Kiran Bansal,Rajkot,Gujarat,Stationery,10,790,650,140,0.177,Cash,Mall Store,21-02-2025
+1006,Simran Iyer,Panchkula,Haryana,Grocery,4,226,202,24,0.104,Debit Card,Local Store,30-01-2025
+2403,Kavita Yadav,Udaipur,Rajasthan,Grocery,4,311,275,36,0.115,Cash,Mall Store,27-01-2025
+1986,Rajesh Chopra,Hisar,Haryana,Grocery,6,256,220,36,0.14,Cash,Supermarket,01-03-2025
+2160,Divya Patel,Dehradun,Uttarakhand,Electronics,2,13730,12687,1043,0.076,Debit Card,Supermarket,29-03-2025
+2405,Deepika Bansal,Sangli,Maharashtra,Electronics,2,22970,20627,2343,0.102,UPI,Mall Store,13-01-2025
+1703,Rekha Gupta,Satara,Maharashtra,Clothing,2,1380,966,414,0.3,UPI,Supermarket,04-02-2025
+1446,Ashok Gupta,Visakhapatnam,Andhra Pradesh,Clothing,6,6610,5235,1375,0.208,Credit Card,Local Store,24-03-2025
+1137,Harsh Chopra,Jaipur,Rajasthan,Clothing,2,1330,894,436,0.328,Credit Card,Local Store,25-03-2025
+1012,Suresh Gupta,Ludhiana,Punjab,Electronics,1,6370,5657,713,0.112,Cash,Mall Store,20-01-2025
+2059,Rohit Singh,Varanasi,Uttar Pradesh,Grocery,5,341,296,45,0.132,Credit Card,Supermarket,31-03-2025
+1333,Simran Agarwal,Agra,Uttar Pradesh,Grocery,4,245,218,27,0.111,UPI,Mall Store,16-01-2025
+1605,Karan Pillai,Rohtak,Haryana,Clothing,3,3070,2137,933,0.304,Credit Card,Supermarket,27-03-2025
+1569,Anita Yadav,Amritsar,Punjab,Stationery,6,196,148,48,0.247,UPI,Mall Store,31-01-2025
+2354,Suman Mehta,Rohtak,Haryana,Grocery,6,428,372,56,0.131,Debit Card,Mall Store,05-03-2025
+1738,Simran Pillai,Panchkula,Haryana,Clothing,2,2390,1690,700,0.293,UPI,Mall Store,12-02-2025
+2449,Ritu Mehta,Ratlam,Madhya Pradesh,Grocery,10,790,690,100,0.126,Credit Card,Mall Store,27-02-2025
+1055,Kiran Agarwal,Lucknow,Uttar Pradesh,Electronics,1,11610,10600,1010,0.087,Debit Card,Mall Store,01-03-2025
+1877,Nisha Singh,Hyderabad,Telangana,Grocery,6,313,269,44,0.139,Cash,Local Store,13-02-2025
+1234,Vivek Nair,Faridabad,Haryana,Clothing,2,1410,990,420,0.298,Cash,Mall Store,30-01-2025
+1085,Suresh Rao,Nashik,Maharashtra,Electronics,2,10340,9533,807,0.078,UPI,Local Store,17-03-2025
+1642,Rekha Bansal, Guwahati ,Assam,Grocery,6,510,430,80,0.157,UPI,Supermarket,25-01-2025
+2126,Kavita Sharma,Gurgaon,Haryana,Grocery,9,385,335,50,0.131,UPI,Mall Store,15-02-2025
+1065,Ashok Mehta,Siliguri,West Bengal,Stationery,9,780,644,136,0.175,Cash,Mall Store,11-01-2025
+2227,Amit Kapoor,Chandigarh,Chandigarh,Grocery,4,243,213,30,0.122,Credit Card,Mall Store,21-03-2025
+1188,Neha Nair,Chandigarh,Chandigarh,Grocery,8,471,407,64,0.135,Debit Card,Mall Store,21-02-2025
+1813,Priya Mehta,Bhubaneswar,Odisha,Clothing,6,8000,6192,1808,0.226,Credit Card,Local Store,06-01-2025
+1152,Ashok Pillai,Rajkot,Gujarat,Grocery,8,520,465,55,0.106,,Mall Store,06-01-2025
+2157,Arjun Patel,Chandigarh,Chandigarh,Electronics,2,11180,10453,727,0.065,Credit Card,Mall Store,23-01-2025
+2198,Suman Joshi,Kolhapur,Maharashtra,Clothing,5,5330,3918,1412,0.265,UPI,Local Store,21-02-2025
+1389,Kavita Verma,Amritsar,Punjab,Grocery,4,297,260,37,0.124,Credit Card,Mall Store,26-03-2025
+1138,Deepika Chopra,Hisar,Haryana,Stationery,9,570,465,105,0.184,Cash,Mall Store,28-02-2025
+1173,Ajay Yadav,Amritsar,Punjab,Clothing,6,5260,3430,1830,0.348,Cash,Local Store,01-03-2025
+2102,Anita Singh,Jaipur,Rajasthan,Clothing,6,187,128,59,0.316,Cash,Supermarket,17-01-2025
+1531,Shalini Patel,Bilaspur,Chhattisgarh,Stationery,10,830,680,150,0.181,UPI,Local Store,28-01-2025
+1824,Gaurav Verma,Chandigarh,Chandigarh,Stationery,10,630,506,124,0.197,UPI,Local Store,22-02-2025
+1456,Sandeep Agarwal,Sangli,Maharashtra,Clothing,6,3970,3097,873,0.22,Cash,Supermarket,05-03-2025
+2177,Suman Saxena,Kanpur,Uttar Pradesh,Electronics,2,4150,3830,320,0.077,Credit Card,Mall Store,26-03-2025
+2181,Preeti Chopra,Coimbatore,Tamil Nadu,Clothing,5,4770,3811,959,0.201,Credit Card,Local Store,17-02-2025
+1595,Ashok Verma,Nagpur,Maharashtra,Electronics,2,23260,21120,2140,0.092,Cash,Supermarket,20-01-2025
+2479,Sanjay Nair,Vadodara,Gujarat,Clothing,3,1900,1271,629,0.331,UPI,Supermarket,17-03-2025
+1967,Harsh Gupta,Siliguri,West Bengal,Clothing,6,4180,2771,1409,0.337,UPI,Local Store,02-01-2025
+1375,Ajay Sharma,Ratlam,Madhya Pradesh,Stationery,6,680,523,157,0.231,Debit Card,Mall Store,13-02-2025
+2369,Simran Malhotra,Rewa,Madhya Pradesh,Electronics,1,6450,6031,419,0.065,UPI,Supermarket,20-01-2025
+2329,Vishal Kumar,Mumbai,Maharashtra,Clothing,2,1070,702,368,0.344,UPI,Mall Store,11-03-2025
+1710,Shalini Verma,Ratlam,Madhya Pradesh,Clothing,2,2820,2084,736,0.261,Cash,Local Store,28-01-2025
+1161,Pooja Saxena,Trivandrum,Kerala,Electronics,2,9180,8308,872,0.095,Cash,Mall Store,06-01-2025
+2261,Anjali Kapoor,Nashik,Maharashtra,Grocery,7,479,430,49,0.103,Credit Card,Local Store,25-03-2025
+1051,Sandeep Yadav,Ludhiana,Punjab,Electronics,1,9130,8217,913,0.1,Cash,Mall Store,06-02-2025
+2158,Ajay Mehta,Siliguri,West Bengal,Stationery,5,580,438,142,0.244,UPI,Mall Store,14-03-2025
+2067,Sanjay Pillai,Rewa,Madhya Pradesh,Grocery,5,203,176,27,0.132,Cash,Local Store,11-01-2025
+1671,Ashok Saxena,Panchkula,Haryana,Electronics,1,12360,11112,1248,0.101,Cash,Supermarket,10-02-2025
+1033,Alok Singh,Patna,Bihar,Electronics,2,15910,14828,1082,0.068,Debit Card,Local Store,14-02-2025
+1239,Vivek Kapoor,Dehradun,Uttarakhand,Clothing,3,2100,1487,613,0.292,Cash,Local Store,23-03-2025
+1736,Alok Kapoor,Mumbai,Maharashtra,Stationery,10,790,611,179,0.227,Debit Card,Supermarket,21-02-2025
+1355,Kiran Chopra,Gorakhpur,Uttar Pradesh,Stationery,10,700,527,173,0.247,Credit Card,Mall Store,11-01-2025
+1165,Shalini Patel,Ratlam,Madhya Pradesh,Grocery,9,670,588,82,0.123,Credit Card,Local Store,26-03-2025
+1487,Sneha Reddy,Hyderabad,Telangana,Clothing,3,2120,1660,460,0.217,Cash,Local Store,27-03-2025
+1962,Ashok Kapoor,Kanpur,Uttar Pradesh,Stationery,8,770,635,135,0.175,UPI,Supermarket,11-01-2025
+1997,Rahul Malhotra,Agra,Uttar Pradesh,Electronics,1,14290,12875,1415,0.099,UPI,Mall Store,05-02-2025
+1856,Kavita Bansal,Gwalior,Madhya Pradesh,Clothing,6,4370,3439,931,0.213,Debit Card,Mall Store,01-03-2025
+1296,Kavita Chopra,Bhubaneswar,Odisha,Electronics,2,11150,9823,1327,0.119,Credit Card,Mall Store,03-03-2025
+2353,Meera Agarwal,Noida,Uttar Pradesh,Grocery,10,680,592,88,0.13,Debit Card,Supermarket,24-02-2025
+1475,Sandeep Reddy,Satara,Maharashtra,Clothing,6,8360,6379,1981,0.237,UPI,Mall Store,06-01-2025
+1769,Arjun Pillai,Varanasi,Uttar Pradesh,Stationery,7,402,331,71,0.177,UPI,Mall Store,31-03-2025
+1473,Arjun Chopra,Surat,Gujarat,Electronics,1,2700,2481,219,0.081,UPI,Mall Store,28-01-2025
+2214,Neha Mehta,Bhubaneswar,Odisha,Grocery,3,220,181,39,0.176,Cash,Supermarket,10-01-2025
+1802,Alok Singh,Guwahati,Assam,Electronics,1,6190,5695,495,0.08,Cash,Local Store,06-03-2025
+1749,Naveen Joshi,Kolhapur,Maharashtra,Stationery,5,289,225,64,0.221,UPI,Supermarket,06-02-2025
+1917,Kavita Iyer,Surat,Gujarat,Stationery,6,493,392,101,0.204,Credit Card,Local Store,24-02-2025
+1098,Neha Yadav,Chandigarh,Chandigarh,Electronics,2,17830,16297,1533,0.086,UPI,Mall Store,31-03-2025
+2077,Meera Chopra,Gwalior,Madhya Pradesh,Stationery,6,233,191,42,0.181,Credit Card,Local Store,12-01-2025
+1577,Simran Reddy,Varanasi,Uttar Pradesh,Clothing,6,5820,3940,1880,0.323,Credit Card,Mall Store,25-01-2025
+1946,Rahul Rao,Kochi,Kerala,Clothing,3,1740,1376,364,0.209,Credit Card,Local Store,06-03-2025
+1721,Gaurav Sharma,Bilaspur,Chhattisgarh,Grocery,4,258,212,46,0.179,Debit Card,Mall Store,13-01-2025
+2029,Kiran Mehta,Panipat,Haryana,Electronics,2,20290,18342,1948,0.096,Debit Card,Mall Store,13-02-2025
+1551,Swati Rao,Siliguri,West Bengal,Stationery,4,287,236,51,0.176,Debit Card,Supermarket,20-01-2025
+1309,Anita Saxena,Kochi,Kerala,Grocery,5,341,298,43,0.125,UPI,Supermarket,31-01-2025
+1896,Nisha Chopra,Pune,Maharashtra,Grocery,9,630,522,108,0.171,UPI,Supermarket,02-03-2025
+1825,Nisha Singh,Coimbatore,Tamil Nadu,Grocery,7,373,320,53,0.141,Cash,Mall Store,15-02-2025
+1673,Swati Gupta,Faridabad,Haryana,Grocery,3,165,148,17,0.1,UPI,Local Store,13-03-2025
+2045,Kavita Joshi,Visakhapatnam,Andhra Pradesh,Grocery,10,570,506,64,0.112,Cash,Supermarket,06-02-2025
+1434,Vikram Bansal,Noida,Uttar Pradesh,Clothing,4,4460,3010,1450,0.325,Credit Card,Mall Store,26-01-2025
+1583,Sanjay Yadav,Gwalior,Madhya Pradesh,Grocery,6,417,357,60,0.143,Cash,Supermarket,25-01-2025
+2474,Preeti Mehta,Mumbai,Maharashtra,Clothing,3,2710,2084,626,0.231,UPI,Supermarket,02-02-2025
+2070,Ritu Patel,Chandigarh,Chandigarh,Grocery,4,261,221,40,0.155,Cash,Supermarket,22-02-2025
+2196,Priya Pillai,Mumbai,Maharashtra,Electronics,1,9540,8844,696,0.073,UPI,Supermarket,16-02-2025
+1853,Anita Saxena,Bhopal,Madhya Pradesh,Grocery,4,202,168,34,0.167,Credit Card,Supermarket,07-03-2025
+1449,Rekha Agarwal,Varanasi,Uttar Pradesh,Grocery,10,520,437,83,0.16,Credit Card,Supermarket,03-01-2025
+1766,Karan Bansal,Gorakhpur,Uttar Pradesh,Clothing,4,2760,1995,765,0.277,UPI,Supermarket,15-03-2025
+1568,Anita Nair,Kanpur,Uttar Pradesh,Clothing,2,1200,826,374,0.312,UPI,Mall Store,12-03-2025
+1620,Suresh Verma,Kota,Rajasthan,Clothing,2,1930,1276,654,0.339,Cash,Supermarket,22-02-2025
+2269,Karan Singh,Ahmedabad,Gujarat,Stationery,4,221,178,43,0.194,Cash,Mall Store,17-02-2025
+1493,Harsh Patel,Visakhapatnam,Andhra Pradesh,Grocery,5,306,254,52,0.171,Debit Card,Supermarket,26-01-2025
+1386,Sanjay Pillai,Pune,Maharashtra,Grocery,10,620,523,97,0.156,UPI,Local Store,25-02-2025
+1742,Neha Patel,Amritsar,Punjab,Grocery,10,408,351,57,0.14,Credit Card,Mall Store,16-01-2025
+1282,Sanjay Nair,Trivandrum,Kerala,Clothing,6,6590,4877,1713,0.26,UPI,Supermarket,11-02-2025
+1746,Vivek Yadav,Patna,Bihar,Grocery,6,295,246,49,0.167,Credit Card,Mall Store,08-03-2025
+2232,Harsh Iyer,Rohtak,Haryana,Clothing,5,2450,1639,811,0.331,Cash,Supermarket,02-03-2025
+1484,Suresh Gupta,Mangalore,Karnataka,Electronics,2,17420,15364,2056,0.118,Debit Card,Supermarket,19-01-2025
+2116,Payal Singh,Bengaluru,Karnataka,Clothing,5,5050,3323,1727,0.342,Cash,Local Store,02-02-2025
+1283,Sandeep Bansal,Gurgaon,Haryana,Grocery,9,750,649,101,0.135,UPI,Mall Store,29-03-2025
+1438,Amit Joshi,Amritsar,Punjab,Clothing,4,1940,1428,512,0.264,Cash,Supermarket,15-01-2025
+2330,Rekha Sharma,Amritsar,Punjab,Grocery,9,620,521,99,0.159,Credit Card,Supermarket,08-03-2025
+1549,Divya Kapoor,Gwalior,Madhya Pradesh,Stationery,9,700,583,117,0.167,UPI,Supermarket,03-01-2025
+2172,Rajesh Singh,Bhubaneswar,Odisha,Stationery,9,680,560,120,0.176,Debit Card,Local Store,01-01-2025
+2344,Alok Kumar,Surat,Gujarat,Grocery,4,311,256,55,0.176,UPI,Mall Store,20-03-2025
+1814,Priya Verma,Pune,Maharashtra,Grocery,7,441,366,75,0.169,Cash,Local Store,22-02-2025
+2080,Rohit Bansal,Panipat,Haryana,Electronics,1,10980,10058,922,0.084,Cash,Supermarket,20-03-2025
+1949,Arjun Singh,Kolhapur,Maharashtra,Stationery,3,207,166,41,0.2,Cash,Mall Store,01-01-2025
+1674,Vivek Sharma,Jodhpur,Rajasthan,Electronics,2,13400,12087,1313,0.098,Credit Card,Mall Store,18-02-2025
+2440,Ajay Patel,Amritsar,Punjab,Grocery,9,640,548,92,0.144,UPI,Local Store,25-01-2025
+1687,Kavita Agarwal,Amritsar,Punjab,Clothing,4,3310,2261,1049,0.317,Cash,Mall Store,31-01-2025
+2265,Ajay Malhotra,Rohtak,Haryana,Clothing,3,2850,2035,815,0.286,Credit Card,Local Store,06-03-2025
+2430,Preeti Bansal,Agra,Uttar Pradesh,Electronics,1,7030,6327,703,0.1,Cash,Mall Store,02-02-2025
+1753,Manish Rao,Ratlam,Madhya Pradesh,Clothing,4,2430,1771,659,0.271,Cash,Local Store,07-02-2025
+1122,Karan Kapoor,Nashik,Maharashtra,Clothing,4,2510,1968,542,0.216,Credit Card,Mall Store,30-01-2025
+2310,Kavita Kapoor,Mumbai,Maharashtra,Grocery,6,403,337,66,0.165,Cash,Mall Store,07-03-2025
+1700,Ashok Nair,Lucknow,Uttar Pradesh,Grocery,7,401,355,46,0.114,Debit Card,Mall Store,09-01-2025
+1840,Shalini Agarwal,Bhopal,Madhya Pradesh,Grocery,9,510,453,57,0.111,Debit Card,Supermarket,15-01-2025
+1017,Rekha Sharma,Indore,Madhya Pradesh,Stationery,7,348,287,61,0.174,Debit Card,Local Store,31-01-2025
+2492,Manoj Joshi,Kanpur,Uttar Pradesh,Electronics,2,33910,31401,2509,0.074,UPI,Local Store,28-01-2025
+1779,Vishal Kapoor,Patna,Bihar,Grocery,3,177,152,25,0.142,UPI,Local Store,25-01-2025
+2187,Karan Pillai,Kanpur,Uttar Pradesh,Stationery,6,302,254,48,0.159,Cash,Mall Store,04-01-2025
+2349,Vivek Joshi,Mumbai,Maharashtra,Grocery,6,237,213,24,0.103,UPI,Local Store,16-01-2025
+2036,Amit Gupta,Panipat,Haryana,Clothing,4,5490,3706,1784,0.325,Credit Card,Local Store,12-03-2025
+1914,Rekha Rao,Siliguri,West Bengal,Electronics,1,13520,12492,1028,0.076,Credit Card,Mall Store,10-02-2025
+1294,Manoj Kapoor,Surat,Gujarat,Grocery,3,218,180,38,0.176,UPI,Local Store,01-03-2025
+1899,Vishal Rao,Indore,Madhya Pradesh,Clothing,5,6310,4600,1710,0.271,UPI,Local Store,21-01-2025
+1040,Amit Iyer,Agra,Uttar Pradesh,Clothing,2,1920,1434,486,0.253,Credit Card,Local Store,13-03-2025
+1107,Rahul Gupta,Kota,Rajasthan,Stationery,5,540,455,85,0.157,Cash,Supermarket,03-02-2025
+1727,Suresh Patel,Rohtak,Haryana,Clothing,2,1810,1205,605,0.334,Credit Card,Supermarket,19-01-2025
+1024,Vikram Verma,Solapur,Maharashtra,Clothing,2,950,725,225,0.237,UPI,Mall Store,25-01-2025
+1711,Preeti Pillai,Kolkata,West Bengal,Clothing,3,2890,1910,980,0.339,Credit Card,Mall Store,05-01-2025
+1070,Ritu Singh,Gorakhpur,Uttar Pradesh,Clothing,6,4240,2879,1361,0.321,UPI,Local Store,14-03-2025
+2012,Sneha Mehta,Nashik,Maharashtra,Electronics,2,17380,16042,1338,0.077,UPI,Mall Store,13-03-2025
+1426,Manoj Iyer,Delhi,Delhi,Stationery,6,580,492,88,0.152,UPI,Mall Store,01-01-2025
+2030,Rajesh Reddy,Amritsar,Punjab,Clothing,5,2970,2103,867,0.292,Cash,Local Store,15-02-2025
+2334,Kiran Nair,NOIDA,Uttar Pradesh,Stationery,3,299,226,73,0.245,UPI,Supermarket,22-03-2025
+1104,Suman Pillai,Nashik,Maharashtra,Electronics,2,10380,9217,1163,0.112,UPI,Supermarket,31-03-2025
+1556,Pooja Agarwal,Nagpur,Maharashtra,Electronics,2,13120,12215,905,0.069,Cash,Supermarket,02-01-2025
+2066,Anita Yadav,Bhopal,Madhya Pradesh,Clothing,3,1690,1202,488,0.289,Cash,Supermarket,05-02-2025
+2284,Rohit Chopra,Gorakhpur,Uttar Pradesh,Electronics,1,11350,10590,760,0.067,Debit Card,Local Store,16-01-2025
+2115,Neha Sharma,Coimbatore,Tamil Nadu,Grocery,7,436,386,50,0.114,Debit Card,Mall Store,03-01-2025
+1942,Priya Agarwal,Gwalior,Madhya Pradesh,Grocery,6,439,391,48,0.109,UPI,Mall Store,02-01-2025
+2499,Meera Nair,Ahmedabad,Gujarat,Grocery,6,452,400,52,0.114,UPI,Supermarket,02-01-2025
+1075,Deepika Iyer,Guwahati,Assam,Grocery,7,145,120,25,0.17,Credit Card,Local Store,31-03-2025
+1508,Kavita Kapoor,Coimbatore,Tamil Nadu,Clothing,6,3840,2692,1148,0.299,Cash,Supermarket,03-02-2025
+2364,Arjun Gupta,Faridabad,Haryana,Electronics,1,4590,4094,496,0.108,UPI,Mall Store,17-02-2025
+1219,Kavita Saxena,Ludhiana,Punjab,Grocery,8,422,374,48,0.113,UPI,Mall Store,20-03-2025
+2333,Preeti Rao,Dehradun,Uttarakhand,Clothing,4,3340,2224,1116,0.334,Debit Card,Mall Store,05-01-2025
+2079,Vivek Pillai,Panipat,Haryana,Clothing,2,2700,1771,929,0.344,Debit Card,Mall Store,24-02-2025
+1266,Divya Rao,Panipat,Haryana,Electronics,2,7270,6499,771,0.106,UPI,Local Store,10-02-2025
+1937,Shalini Verma,Coimbatore,Tamil Nadu,Grocery,6,268,221,47,0.175,Cash,Mall Store,18-03-2025
+1864,Anita Patel,Bhopal,Madhya Pradesh,Grocery,6,520,463,57,0.109,UPI,Mall Store,03-01-2025
+1435,Arjun Verma,Bilaspur,Chhattisgarh,Electronics,1,13260,11921,1339,0.101,UPI,Supermarket,03-03-2025
+1111,Kavita Reddy,Gwalior,Madhya Pradesh,Electronics,1,1280,1190,90,0.07,UPI,Mall Store,11-01-2025
+1511,Manish Rao,Siliguri,West Bengal,Grocery,10,640,542,98,0.153,UPI,Mall Store,19-03-2025
+1041,Simran Gupta,Jodhpur,Rajasthan,Stationery,5,424,323,101,0.238,Debit Card,Supermarket,04-01-2025
+1505,Gaurav Sharma,Jodhpur,Rajasthan,Grocery,5,251,223,28,0.111,Credit Card,Supermarket,07-03-2025
+1277,Pooja Bansal,Prayagraj,Uttar Pradesh,Clothing,4,3840,2746,1094,0.285,Debit Card,Local Store,13-01-2025
+1810,Anita Chopra,Kota,Rajasthan,Grocery,4,186,158,28,0.151,UPI,Supermarket,22-02-2025
+1340,Nisha Malhotra,Pune,Maharashtra,Clothing,6,4390,3108,1282,0.292,UPI,Supermarket,05-02-2025
+2130,Rekha Iyer,Rewa,Madhya Pradesh,Clothing,2,2000,1364,636,0.318,UPI,Local Store,20-01-2025
+2500,Ajay Verma,Lucknow,Uttar Pradesh,Clothing,3,3230,2164,1066,0.33,Credit Card,Supermarket,26-03-2025
+1847,Ritu Bansal,Dehradun,Uttarakhand,Grocery,8,510,458,52,0.102,UPI,Local Store,29-03-2025
+1186,Ajay Kumar,Guwahati,Assam,Grocery,10,710,637,73,0.103,UPI,Supermarket,26-01-2025
+1799,Naveen Iyer,Kota,Rajasthan,Grocery,6,363,319,44,0.12,UPI,Supermarket,24-03-2025
+2091,Shalini Verma,Kanpur,Uttar Pradesh,Clothing,5,4390,2880,1510,0.344,Credit Card,Supermarket,04-02-2025
+1745,Kiran Sharma,Faridabad,Haryana,Electronics,1,9810,8947,863,0.088,Cash,Mall Store,23-02-2025
+2060,Manish Rao,Panipat,Haryana,Grocery,4,218,183,35,0.16,Debit Card,Local Store,27-01-2025
+2146,Neha Iyer,Satara,Maharashtra,Electronics,2,16110,15031,1079,0.067,Cash,Mall Store,10-01-2025
+2009,Ritu Joshi,Faridabad,Haryana,Electronics,1,11670,10783,887,0.076,Debit Card,Supermarket,03-03-2025
+1062,Rekha Reddy,Chandigarh,Chandigarh,Electronics,1,7350,6740,610,0.083,Credit Card,Mall Store,27-03-2025
+1922,Karan Agarwal,Chandigarh,Chandigarh,Grocery,8,357,312,45,0.127,UPI,Local Store,28-02-2025
+1579,Amit Gupta,Udaipur,Rajasthan,Stationery,6,243,204,39,0.161,Credit Card,Supermarket,25-01-2025
+1798,Divya Iyer,Guwahati,Assam,Clothing,2,2210,1514,696,0.315,UPI,Supermarket,22-03-2025
+1656,Anita Yadav,Varanasi,Uttar Pradesh,Grocery,7,426,374,52,0.122,Cash,Local Store,10-02-2025
+2010,Swati Malhotra,Kanpur,Uttar Pradesh,Electronics,2,12250,11148,1102,0.09,Cash,Local Store,25-02-2025
+1388,Manish Mehta,Sangli,Maharashtra,Grocery,6,530,473,57,0.108,Cash,Mall Store,20-02-2025
+1128,Manoj Singh,Coimbatore,Tamil Nadu,Electronics,1,6020,5424,596,0.099,UPI,Local Store,18-03-2025
+2358,Rekha Mehta,Kota,Rajasthan,Grocery,8,530,441,89,0.167,Credit Card,Supermarket,05-01-2025
+1252,Rohit Iyer,Indore,Madhya Pradesh,Grocery,9,660,566,94,0.142,Cash,Local Store,29-01-2025
+2295,Deepika Malhotra,Udaipur,Rajasthan,Clothing,6,5550,4396,1154,0.208,Cash,Supermarket,09-02-2025
+2023,Rahul Singh,Patna,Bihar,Clothing,5,4460,3216,1244,0.279,Credit Card,Supermarket,25-03-2025
+1308,Rajesh Saxena,Nashik,Maharashtra,Clothing,6,4340,3398,942,0.217,Credit Card,Local Store,15-02-2025
+1194,Divya Malhotra,Panchkula,Haryana,Grocery,5,207,175,32,0.154,Cash,Mall Store,17-02-2025
+1647,Preeti Pillai,Ratlam,Madhya Pradesh,Electronics,2,50,44,6,0.116,UPI,Local Store,08-01-2025
+1503,Sandeep Kumar,Gurgaon,Haryana,Grocery,7,273,241,32,0.117,Credit Card,Supermarket,24-01-2025
+1034,Divya Joshi,Kanpur,Uttar Pradesh,Electronics,2,8600,7766,834,0.097,Cash,Mall Store,25-03-2025
+2124,Alok Agarwal,Coimbatore,Tamil Nadu,Grocery,8,343,296,47,0.138,Cash,Supermarket,01-02-2025
+1801,Alok Rao,Kota,Rajasthan,Grocery,10,740,631,109,0.147,UPI,Mall Store,10-02-2025
+1921,Rohit Pillai,Chandigarh,Chandigarh,Stationery,6,550,434,116,0.211,Debit Card,Local Store,10-02-2025
+1058,Sandeep Patel,Rajkot,Gujarat,Grocery,7,388,339,49,0.127,UPI,Supermarket,11-03-2025
+1992,Kiran Singh,Nashik,Maharashtra,Clothing,5,1440,1140,300,0.208,UPI,Supermarket,01-01-2025
+1359,Deepika Agarwal,Nagpur,Maharashtra,Electronics,1,9130,8537,593,0.065,Cash,Supermarket,29-03-2025
+2436,Vikram Nair,Ludhiana,Punjab,Electronics,2,17980,16649,1331,0.074,Credit Card,Mall Store,21-02-2025
+1046,Rajesh Chopra,Trivandrum,Kerala,Stationery,4,222,180,42,0.189,UPI,Supermarket,15-03-2025
+2195,Shalini Iyer,Rohtak,Haryana,Stationery,3,114,95,19,0.166,UPI,Local Store,02-02-2025
+2141,Shalini Agarwal,Bhubaneswar,Odisha,Clothing,2,1620,1226,394,0.243,Cash,Supermarket,20-01-2025
+1878,Suman Mehta,Kolkata,West Bengal,Stationery,4,298,232,66,0.221,Debit Card,Local Store,26-02-2025
+1069,Priya Joshi,Panchkula,Haryana,Clothing,5,5040,3735,1305,0.259,Cash,Supermarket,26-01-2025
+1319,Neha Kapoor,Meerut,Uttar Pradesh,Electronics,1,9130,8409,721,0.079,UPI,Supermarket,07-02-2025
+1292,Rajesh Saxena,Gorakhpur,Uttar Pradesh,Grocery,8,421,373,48,0.114,UPI,Local Store,20-02-2025
+1047,Nisha Sharma,Gwalior,Madhya Pradesh,Stationery,6,365,297,68,0.186,Debit Card,Local Store,09-01-2025
+1278,Suresh Yadav,Gorakhpur,Uttar Pradesh,Stationery,10,580,477,103,0.177,UPI,Mall Store,10-01-2025
+2390,Vivek Kumar,Chandigarh,Chandigarh,Grocery,8,390,338,52,0.133,UPI,Supermarket,25-01-2025
+1298,Vikram Reddy,Sangli,Maharashtra,Clothing,3,2980,2095,885,0.297,Cash,Mall Store,06-01-2025
+1225,Neha Gupta,Gwalior,Madhya Pradesh,Grocery,8,423,347,76,0.18,UPI,Mall Store,03-03-2025
+1865,Priya Yadav,Rohtak,Haryana,Clothing,3,2150,1580,570,0.265,Credit Card,Local Store,22-03-2025
+1926,Suresh Sharma,Siliguri,West Bengal,Grocery,8,297,263,34,0.115,Cash,Mall Store,20-03-2025
+2088,Rekha Sharma,Kolkata,West Bengal,Clothing,4,3890,2980,910,0.234,UPI,Mall Store,20-02-2025
+2084,Shalini Reddy,Visakhapatnam,Andhra Pradesh,Electronics,1,15270,14094,1176,0.077,UPI,Supermarket,03-03-2025
+1365,Neha Kumar,Panchkula,Haryana,Electronics,2,20830,18955,1875,0.09,UPI,Mall Store,18-02-2025
+1428,Kiran Saxena,Gwalior,Madhya Pradesh,Grocery,5,351,306,45,0.127,UPI,Mall Store,04-03-2025
+1841,Rekha Mehta,Mangalore,Karnataka,Electronics,2,15650,14445,1205,0.077,Cash,Mall Store,03-02-2025
+1367,Rekha Chopra,Bilaspur,Chhattisgarh,Electronics,1,8780,8104,676,0.077,Cash,Mall Store,18-01-2025
+1001,Anjali Sharma,Mangalore,Karnataka,Grocery,6,405,360,45,0.111,Debit Card,Mall Store,14-01-2025
+1774,Shalini Kumar,Rajkot,Gujarat,Grocery,4,298,263,35,0.118,UPI,Supermarket,30-03-2025
+1843,Sandeep Verma,Noida,Uttar Pradesh,Grocery,6,259,229,30,0.115,Cash,Supermarket,02-03-2025
+2314,Ritu Nair,Jodhpur,Rajasthan,Clothing,4,4270,3267,1003,0.235,UPI,Mall Store,10-02-2025
+1067,Kavita Reddy,Bhopal,Madhya Pradesh,Electronics,1,7750,7022,728,0.094,UPI,Mall Store,28-01-2025
+2033,Rajesh Sharma,Chennai,Tamil Nadu,Electronics,1,9400,8291,1109,0.118,UPI,Mall Store,11-02-2025
+1032,Ritu Mehta,Solapur,Maharashtra,Grocery,7,610,526,84,0.137,Cash,Supermarket,10-01-2025
+1868,Swati Verma,Ratlam,Madhya Pradesh,Grocery,9,590,485,105,0.178,Credit Card,Mall Store,05-03-2025
+1905,Rajesh Patel,Guwahati,Assam,Clothing,6,5740,4242,1498,0.261,UPI,Local Store,30-01-2025
+2153,Deepika Gupta,Vadodara,Gujarat,Clothing,6,4250,3073,1177,0.277,Debit Card,Mall Store,19-03-2025
+1029,Rajesh Verma,Lucknow,Uttar Pradesh,Clothing,6,4320,2860,1460,0.338,Debit Card,Supermarket,09-03-2025
+1295,Vivek Patel,Coimbatore,Tamil Nadu,Stationery,9,690,540,150,0.217,UPI,Mall Store,18-01-2025
+2409,Rohit Bansal,Noida,Uttar Pradesh,Grocery,7,386,334,52,0.135,UPI,Mall Store,13-02-2025
+1114,Nisha Mehta,Kolhapur,Maharashtra,Stationery,6,720,540,180,0.25,UPI,Supermarket,03-03-2025
+1246,Alok Singh,Lucknow,Uttar Pradesh,Clothing,6,4800,3696,1104,0.23,UPI,Supermarket,10-03-2025
+1416,Harsh Malhotra,Sangli,Maharashtra,Grocery,5,244,205,39,0.158,UPI,Mall Store,25-03-2025
+1770,Payal Iyer,Coimbatore,Tamil Nadu,Grocery,5,436,375,61,0.141,Credit Card,Local Store,17-02-2025
+1162,Manoj Nair,Trivandrum,Kerala,Electronics,1,10750,9492,1258,0.117,Debit Card,Supermarket,27-02-2025
+1679,Alok Bansal,Bengaluru,Karnataka,Grocery,7,520,451,69,0.133,UPI,Mall Store,11-03-2025
+1412,Rahul Reddy,Rewa,Madhya Pradesh,Clothing,4,2250,1559,691,0.307,Debit Card,Supermarket,24-03-2025
+2206,Sanjay Kapoor,Satara,Maharashtra,Electronics,2,16280,14994,1286,0.079,UPI,Supermarket,10-02-2025
+1039,Kavita Pillai,Ahmedabad,Gujarat,Clothing,6,3010,2158,852,0.283,UPI,Supermarket,25-02-2025
+1117,Manoj Saxena,Rewa,Madhya Pradesh,Clothing,3,2670,1885,785,0.294,UPI,Mall Store,22-03-2025
+2401,Arjun Joshi,Trivandrum,Kerala,Stationery,6,294,222,72,0.245,UPI,Local Store,14-03-2025
+1002,Pooja Kapoor,Prayagraj,Uttar Pradesh,Grocery,4,232,205,27,0.117,Credit Card,Mall Store,06-03-2025
+2387,Alok Patel,Panchkula,Haryana,Stationery,4,384,322,62,0.162,UPI,Supermarket,12-01-2025
+1248,Rohit Rao,Kota,Rajasthan,Electronics,1,5710,5173,537,0.094,Cash,Local Store,28-03-2025
+2383,Simran Sharma,Ratlam,Madhya Pradesh,Clothing,4,6190,4116,2074,0.335,Credit Card,Local Store,22-01-2025
+1666,Ritu Pillai,Kanpur,Uttar Pradesh,Stationery,9,650,548,102,0.157,Credit Card,Local Store,27-01-2025
+2432,Rajesh Agarwal,Dehradun,Uttarakhand,Electronics,1,10860,9807,1053,0.097,Credit Card,Mall Store,22-01-2025
+2120,Swati Saxena,Noida,Uttar Pradesh,Grocery,4,303,262,41,0.134,Debit Card,Local Store,28-02-2025
+2379,Meera Verma,Satara,Maharashtra,Grocery,10,510,443,67,0.132,UPI,Mall Store,31-03-2025
+1093,Priya Mehta,Panchkula,Haryana,Grocery,5,247,213,34,0.138,UPI,Mall Store,25-03-2025
+1382,Pooja Nair,Hisar,Haryana,Grocery,6,306,269,37,0.12,Cash,Mall Store,09-01-2025
+1115,Naveen Kapoor,Faridabad,Haryana,Stationery,7,463,393,70,0.152,UPI,Mall Store,26-03-2025
+2150,Swati Rao,Noida,Uttar Pradesh,Grocery,9,426,359,67,0.158,UPI,Mall Store,17-01-2025
+2093,Priya Gupta,Kolkata,West Bengal,Grocery,3,213,179,34,0.161,Cash,Supermarket,31-01-2025
+1255,Priya Reddy,Agra,Uttar Pradesh,Grocery,3,112,97,15,0.136,UPI,Mall Store,28-03-2025
+1430,Divya Verma,Nashik,Maharashtra,Stationery,7,244,189,55,0.227,Debit Card,Supermarket,21-03-2025
+1589,Anita Sharma,Nagpur,Maharashtra,Stationery,6,520,397,123,0.236,Debit Card,Local Store,03-01-2025
+1179,Simran Sharma,Pune,Maharashtra,Grocery,6,336,280,56,0.167,Credit Card,Local Store,12-03-2025
+2208,Ashok Reddy,Panchkula,Haryana,Grocery,3,150,127,23,0.151,Debit Card,Local Store,15-03-2025
+2377,Simran Pillai,Noida,Uttar Pradesh,Electronics,1,5660,5003,657,0.116,UPI,Supermarket,02-01-2025
+1390,Vikram Sharma,Agra,Uttar Pradesh,Grocery,7,359,295,64,0.178,UPI,Local Store,02-03-2025
+1133,Vishal Kapoor,Jaipur,Rajasthan,Electronics,1,4280,3779,501,0.117,Debit Card,Mall Store,06-01-2025
+2293,Preeti Singh,Mumbai,Maharashtra,Electronics,1,7980,7374,606,0.076,Cash,Mall Store,17-03-2025
+2413,Swati Chopra,Vadodara,Gujarat,Grocery,9,600,527,73,0.121,Cash,Supermarket,23-03-2025
+1571,Harsh Gupta,Amritsar,Punjab,Clothing,3,2720,2111,609,0.224,UPI,Mall Store,12-01-2025
+1290,Ritu Bansal,Trivandrum,Kerala,Clothing,5,3570,2799,771,0.216,UPI,Supermarket,08-02-2025
+1247,Kiran Agarwal,Indore,Madhya Pradesh,Clothing,6,4550,3308,1242,0.273,UPI,Mall Store,07-03-2025
+1944,Ritu Gupta,Guwahati,Assam,Grocery,5,293,256,37,0.125,Cash,Mall Store,25-02-2025
+1776,Nisha Verma,Noida,Uttar Pradesh,Grocery,3,109,94,15,0.138,UPI,Supermarket,02-02-2025
+1553,Priya Verma,Sangli,Maharashtra,Grocery,8,620,515,105,0.169,Credit Card,Local Store,01-03-2025
+1090,Meera Gupta,Patna,Bihar,Grocery,7,474,404,70,0.148,Credit Card,Local Store,14-03-2025
+1193,Arjun Sharma,Kolkata,West Bengal,Stationery,10,740,627,113,0.153,Cash,Supermarket,09-01-2025
+2017,Ritu Reddy,Rohtak,Haryana,Grocery,8,402,342,60,0.15,Cash,Supermarket,28-03-2025
+2486,Preeti Saxena,Satara,Maharashtra,Stationery,4,355,274,81,0.227,Credit Card,Local Store,25-02-2025
+2094,Nisha Saxena,Mangalore,Karnataka,Grocery,10,610,535,75,0.123,Credit Card,Supermarket,04-03-2025
+1437,Vikram Mehta,Satara,Maharashtra,Grocery,7,590,519,71,0.121,UPI,Supermarket,07-01-2025
+2125,Manish Singh,Mumbai,Maharashtra,Clothing,2,2780,1996,784,0.282,Cash,Mall Store,14-01-2025
+1954,Rohit Malhotra,Satara,Maharashtra,Clothing,2,2670,2000,670,0.251,UPI,Supermarket,27-01-2025
+1652,Sandeep Rao,Mumbai,Maharashtra,Clothing,6,7430,5773,1657,0.223,Cash,Local Store,13-02-2025
+2245,Naveen Reddy,Guwahati,Assam,Clothing,5,3530,2602,928,0.263,Debit Card,Local Store,13-01-2025
+1147,Shalini Kumar,Amritsar,Punjab,Grocery,8,332,278,54,0.162,Debit Card,Mall Store,14-03-2025
+1119,Manoj Gupta,Bhubaneswar,Odisha,Electronics,2,24000,21792,2208,0.092,UPI,Local Store,04-02-2025
+2011,Ajay Sharma,Siliguri,West Bengal,Electronics,1,12610,11273,1337,0.106,UPI,Mall Store,08-02-2025
+2450,Harsh Verma,Siliguri,West Bengal,Grocery,7,422,379,43,0.102,Cash,Mall Store,17-02-2025
+1534,Rahul Pillai,Ahmedabad,Gujarat,Stationery,8,366,288,78,0.212,Debit Card,Local Store,05-03-2025
+1863,Harsh Bansal,Nagpur,Maharashtra,Clothing,6,8190,6110,2080,0.254,Cash,Local Store,28-03-2025
+1803,Arjun Saxena,Nagpur,Maharashtra,Electronics,2,16670,15470,1200,0.072,Cash,Local Store,23-03-2025
+1023,Ajay Chopra,Noida,Uttar Pradesh,Grocery,9,550,480,70,0.128,Cash,Mall Store,22-02-2025
+2071,Divya Nair,Vadodara,Gujarat,Grocery,6,356,313,43,0.122,Debit Card,Mall Store,13-01-2025
+2305,Amit Kumar,DEHRADUN,Uttarakhand,Electronics,2,19760,17883,1877,0.095,UPI,Mall Store,06-01-2025
+2183,Rahul Sharma,Kolkata,West Bengal,Clothing,6,7050,4773,2277,0.323,UPI,Supermarket,18-03-2025
+1898,Sandeep Bansal,Bengaluru,Karnataka,Stationery,5,365,305,60,0.164,Credit Card,Mall Store,17-01-2025
+2368,Suresh Iyer,Chennai,Tamil Nadu,Grocery,6,276,242,34,0.122,UPI,Mall Store,24-02-2025
+1027,Neha Kumar,Nashik,Maharashtra,Grocery,9,385,338,47,0.121,Cash,Supermarket,28-02-2025
+1677,Rohit Patel,Bhopal,Madhya Pradesh,Clothing,5,2830,1899,931,0.329,Credit Card,Mall Store,31-03-2025
+1015,Karan Rao,Siliguri,West Bengal,Grocery,4,137,114,23,0.17,Credit Card,Local Store,08-02-2025
+1501,Divya Kapoor,Satara,Maharashtra,Stationery,4,354,282,72,0.202,UPI,Local Store,18-02-2025
+2230,Ritu Kumar,VARANASI,Uttar Pradesh,Clothing,3,4690,3621,1069,0.228,UPI,Supermarket,28-02-2025
+1888,Deepika Pillai,Hyderabad,Telangana,Clothing,5,3960,2752,1208,0.305,UPI,Mall Store,25-03-2025
+1083,Karan Bansal,Indore,Madhya Pradesh,Clothing,5,6720,4879,1841,0.274,UPI,Mall Store,15-03-2025
+1354,Ritu Chopra,Panipat,Haryana,Stationery,5,334,260,74,0.221,UPI,Supermarket,12-01-2025
+2263,Vishal Yadav,Meerut,Uttar Pradesh,Stationery,9,730,583,147,0.201,UPI,Mall Store,23-01-2025
+2420,Rohit Gupta,Chennai,Tamil Nadu,Electronics,2,19550,17966,1584,0.081,UPI,Mall Store,28-02-2025
+2202,Gaurav Joshi,Trivandrum,Kerala,Clothing,6,4630,3459,1171,0.253,Cash,Supermarket,04-01-2025
+1601,Rajesh Iyer,Trivandrum,Kerala,Clothing,4,4510,3495,1015,0.225,Debit Card,Mall Store,14-02-2025
+1876,Naveen Mehta,Meerut,Uttar Pradesh,Clothing,3,4320,2920,1400,0.324,UPI,Supermarket,06-03-2025
+1274,Nisha Kumar,Jaipur,Rajasthan,Stationery,5,351,290,61,0.174,Cash,Mall Store,21-03-2025
+1913,Kavita Chopra,Varanasi,Uttar Pradesh,Grocery,4,255,228,27,0.104,Credit Card,Local Store,31-01-2025
+1685,Vivek Saxena,Mumbai,Maharashtra,Grocery,4,167,149,18,0.11,UPI,Local Store,10-01-2025
+2154,Shalini Agarwal,Bhubaneswar,Odisha,Grocery,7,281,245,36,0.129,Cash,Supermarket,25-02-2025
+1467,Ashok Malhotra,Kota,Rajasthan,Stationery,8,660,497,163,0.247,UPI,Supermarket,07-01-2025
+2385,Vishal Gupta,Bengaluru,Karnataka,Grocery,5,356,308,48,0.135,Cash,Mall Store,05-02-2025
+2315,Ritu Agarwal,Bengaluru,Karnataka,Stationery,9,630,513,117,0.186,UPI,Mall Store,15-02-2025
+1663,Sneha Nair,Bhubaneswar,Odisha,Stationery,8,550,443,107,0.195,UPI,Supermarket,04-01-2025
+1939,Sanjay Gupta,Lucknow,Uttar Pradesh,Stationery,10,750,634,116,0.155,UPI,Mall Store,20-03-2025
+1448,Suresh Pillai,Satara,Maharashtra,Electronics,1,4710,4404,306,0.065,Credit Card,Local Store,26-02-2025
+1372,Ashok Iyer,Visakhapatnam,Andhra Pradesh,Stationery,5,400,333,67,0.168,Cash,Supermarket,17-03-2025
+1558,Rahul Chopra,Guwahati,Assam,Grocery,6,321,268,53,0.164,Credit Card,Mall Store,12-03-2025
+1855,Nisha Chopra,Pune,Maharashtra,Grocery,8,650,534,116,0.178,Cash,Supermarket,28-03-2025
+1995,Gaurav Rao,Jaipur,Rajasthan,Clothing,4,2400,1718,682,0.284,Debit Card,Mall Store,25-01-2025
+2308,Gaurav Patel,Satara,Maharashtra,Electronics,2,15940,14840,1100,0.069,,Mall Store,11-02-2025
+1272,Divya Verma,Hyderabad,Telangana,Clothing,6,2820,1870,950,0.337,UPI,Mall Store,26-03-2025
+1606,Kiran Verma,Rewa,Madhya Pradesh,Grocery,7,620,548,72,0.116,UPI,Mall Store,31-03-2025
+1450,Suman Pillai,Delhi,Delhi,Clothing,6,3490,2289,1201,0.344,Credit Card,Supermarket,23-03-2025
+2285,Divya Iyer,Noida,Uttar Pradesh,Grocery,3,145,128,17,0.119,UPI,Mall Store,12-01-2025
+1524,Rahul Kumar,Pune,Maharashtra,Stationery,9,730,595,135,0.185,UPI,Mall Store,20-02-2025
+1215,Karan Iyer,Siliguri,West Bengal,Electronics,1,6900,6320,580,0.084,UPI,Mall Store,14-03-2025
+1345,Nisha Mehta,Gwalior,Madhya Pradesh,Grocery,4,212,182,30,0.14,Credit Card,Mall Store,07-03-2025
+1839,Swati Iyer,Bhopal,Madhya Pradesh,Stationery,3,269,213,56,0.208,Credit Card,Supermarket,03-02-2025
+2311,Payal Iyer,Agra,Uttar Pradesh,Electronics,1,7910,7127,783,0.099,Debit Card,Mall Store,20-01-2025
+1148,Kavita Kumar,Siliguri,West Bengal,Clothing,2,1010,767,243,0.241,Credit Card,Mall Store,26-03-2025
+2356,Vikram Joshi,Ratlam,Madhya Pradesh,Grocery,4,85,76,9,0.108,Debit Card,Supermarket,22-01-2025
+2135,Suresh Patel,Jodhpur,Rajasthan,Electronics,1,7150,6292,858,0.12,Credit Card,Mall Store,03-01-2025
+1724,Shalini Saxena,Guwahati,Assam,Stationery,10,850,719,131,0.154,UPI,Local Store,07-01-2025
+1413,Naveen Agarwal,Rewa,Madhya Pradesh,Grocery,7,259,219,40,0.154,UPI,Mall Store,21-03-2025
+1689,Sandeep Kumar,Agra,Uttar Pradesh,Electronics,2,20980,19658,1322,0.063,UPI,Local Store,03-02-2025
+2350,Swati Gupta,Coimbatore,Tamil Nadu,Clothing,4,3330,2234,1096,0.329,Cash,Supermarket,10-01-2025
+1784,Sandeep Reddy,Bilaspur,Chhattisgarh,Electronics,2,20270,18831,1439,0.071,Cash,Local Store,09-01-2025
+1343,Sneha Singh,Delhi,Delhi,Clothing,2,1950,1511,439,0.225,Cash,Mall Store,14-02-2025
+1948,Ajay Agarwal,Trivandrum,Kerala,Clothing,6,4150,2967,1183,0.285,Credit Card,Mall Store,12-02-2025
+1748,Anita Kumar,Bhubaneswar,Odisha,Grocery,10,487,424,63,0.13,UPI,Local Store,06-02-2025
+1174,Vishal Rao,Kota,Rajasthan,Stationery,6,461,355,106,0.23,UPI,Local Store,18-01-2025
+1734,Ajay Singh,Hisar,Haryana,Electronics,1,2040,1848,192,0.094,Credit Card,Mall Store,02-01-2025
+1378,Rekha Nair,Udaipur,Rajasthan,Clothing,6,5730,3988,1742,0.304,UPI,Local Store,20-03-2025
+2037,Sandeep Singh,Rohtak,Haryana,Clothing,3,1600,1221,379,0.237,Cash,Local Store,22-01-2025
+1739,Divya Verma,Indore,Madhya Pradesh,Electronics,2,27660,24977,2683,0.097,Cash,Mall Store,16-02-2025
+1306,Nisha Malhotra,Delhi,Delhi,Clothing,3,2810,2130,680,0.242,Cash,Mall Store,09-01-2025
+1544,Karan Iyer,Amritsar,Punjab,Electronics,2,26090,23977,2113,0.081,Debit Card,Supermarket,22-02-2025
+2262,Amit Iyer,Bhopal,Madhya Pradesh,Electronics,2,16530,15257,1273,0.077,Cash,Mall Store,21-01-2025
+1053,Amit Reddy,Rohtak,Haryana,Clothing,2,1390,1017,373,0.268,Cash,Mall Store,22-03-2025
+1019,Kiran Saxena,Prayagraj,Uttar Pradesh,Stationery,6,311,242,69,0.221,Cash,Local Store,21-02-2025
+1222,Payal Kapoor,Gurgaon,Haryana,Clothing,6,2040,1485,555,0.272,Credit Card,Mall Store,09-03-2025
+2052,Kavita Yadav,Agra,Uttar Pradesh,Clothing,3,3060,2111,949,0.31,Cash,Mall Store,02-01-2025
+2139,Ajay Saxena,Kanpur,Uttar Pradesh,Grocery,8,550,489,61,0.111,Credit Card,Supermarket,01-02-2025
+1096,Preeti Patel,Varanasi,Uttar Pradesh,Grocery,4,152,125,27,0.178,Cash,Local Store,21-02-2025
+1262,Divya Patel,Surat,Gujarat,Clothing,3,2650,2099,551,0.208,Credit Card,Mall Store,18-02-2025
+2209,Vivek Gupta,Visakhapatnam,Andhra Pradesh,Stationery,3,126,96,30,0.24,Cash,Supermarket,09-03-2025
+1180,Nisha Singh,VADODARA,Gujarat,Grocery,7,710,632,78,0.11,Cash,Mall Store,31-01-2025
+1717,Rohit Singh,Bhubaneswar,Odisha,Stationery,9,650,502,148,0.228,UPI,Local Store,03-01-2025
+2425,Alok Bansal,Agra,Uttar Pradesh,Clothing,5,2930,2224,706,0.241,UPI,Local Store,30-03-2025
+1185,Shalini Gupta,Ahmedabad,Gujarat,Grocery,8,453,378,75,0.165,Cash,Local Store,23-01-2025
+1468,Simran Agarwal,Visakhapatnam,Andhra Pradesh,Grocery,8,570,479,91,0.16,UPI,Mall Store,11-03-2025
+1904,Harsh Gupta,Siliguri,West Bengal,Grocery,10,790,663,127,0.161,Debit Card,Mall Store,27-03-2025
+1072,Divya Agarwal,Rajkot,Gujarat,Grocery,5,415,349,66,0.159,Cash,Supermarket,25-03-2025
+2087,Naveen Sharma,Jaipur,Rajasthan,Electronics,1,11610,10855,755,0.065,Credit Card,Local Store,07-03-2025
+1347,Vishal Sharma,Ahmedabad,Gujarat,Stationery,3,123,102,21,0.174,Debit Card,Mall Store,02-03-2025
+1030,Pooja Kumar,Patna,Bihar,Clothing,3,2440,1803,637,0.261,Credit Card,Supermarket,14-03-2025
+1797,Ashok Saxena,Dehradun,Uttarakhand,Grocery,7,416,364,52,0.126,UPI,Mall Store,04-01-2025
+1158,Sneha Bansal,Kolhapur,Maharashtra,Clothing,6,6250,4581,1669,0.267,,Mall Store,14-03-2025
+1933,Kiran Verma,Bengaluru,Karnataka,Grocery,7,268,222,46,0.173,UPI,Mall Store,10-03-2025
+1659,Shalini Pillai,Hisar,Haryana,Grocery,3,189,163,26,0.138,UPI,Supermarket,28-03-2025
+2331,Anjali Singh,Hisar,Haryana,Stationery,10,1010,832,178,0.176,Cash,Local Store,18-01-2025
+1395,Ajay Kapoor,Jodhpur,Rajasthan,Electronics,1,12130,11111,1019,0.084,Debit Card,Mall Store,05-01-2025
+1989,Sandeep Gupta,Rohtak,Haryana,Clothing,3,2500,1935,565,0.226,UPI,Mall Store,03-01-2025
+2199,Manoj Mehta,Solapur,Maharashtra,Grocery,7,444,394,50,0.113,Credit Card,Local Store,27-01-2025
+2064,Vivek Pillai,Hisar,Haryana,Grocery,10,339,286,53,0.156,Debit Card,Local Store,08-03-2025
+1403,Divya Sharma,Ratlam,Madhya Pradesh,Clothing,4,3610,2718,892,0.247,Cash,Local Store,04-03-2025
+1990,Anjali Pillai,Mangalore,Karnataka,Electronics,1,8090,7281,809,0.1,UPI,Mall Store,02-01-2025
+1678,Sneha Agarwal,Ludhiana,Punjab,Electronics,2,28270,25924,2346,0.083,Credit Card,Supermarket,29-01-2025
+1823,Ritu Joshi,Agra,Uttar Pradesh,Stationery,5,580,440,140,0.242,Cash,Supermarket,22-03-2025
+1964,Nisha Chopra,Amritsar,Punjab,Clothing,4,4450,3378,1072,0.241,UPI,Supermarket,04-01-2025
+1836,Preeti Patel,Delhi,Delhi,Electronics,2,17640,15558,2082,0.118,Cash,Mall Store,20-02-2025
+2034,Rekha Malhotra,Mangalore,Karnataka,Clothing,2,2190,1638,552,0.252,Cash,Local Store,02-03-2025
+2250,Gaurav Patel,Siliguri,West Bengal,Grocery,7,257,215,42,0.163,UPI,Mall Store,16-03-2025
+1940,Neha Pillai,Lucknow,Uttar Pradesh,Grocery,9,464,403,61,0.132,UPI,Local Store,21-03-2025
+2055,Amit Singh,Jodhpur,Rajasthan,Electronics,2,12150,10923,1227,0.101,UPI,Mall Store,23-01-2025
+1692,Kiran Verma,Jaipur,Rajasthan,Stationery,8,750,566,184,0.246,Cash,Mall Store,25-02-2025
+2216,Payal Chopra,Chennai,Tamil Nadu,Electronics,1,12370,11244,1126,0.091,Cash,Mall Store,31-01-2025
+1335,Harsh Joshi,Vadodara,Gujarat,Stationery,3,269,206,63,0.235,UPI,Local Store,26-03-2025
+1874,Ajay Kumar,Hyderabad,Telangana,Grocery,4,196,166,30,0.153,UPI,Supermarket,17-01-2025
+1806,Sanjay Joshi,Ludhiana,Punjab,Clothing,5,4040,2828,1212,0.3,Credit Card,Supermarket,10-02-2025
+1008,Sanjay Saxena,Chennai,Tamil Nadu,Grocery,6,429,381,48,0.113,Debit Card,Supermarket,18-02-2025
+1518,Anita Kapoor,Meerut,Uttar Pradesh,Clothing,5,3030,2091,939,0.31,UPI,Supermarket,26-03-2025
+1198,Sandeep Patel,Guwahati,Assam,Clothing,4,3780,2646,1134,0.3,UPI,Mall Store,09-01-2025
+1297,Gaurav Pillai,Ahmedabad,Gujarat,Clothing,4,4680,3253,1427,0.305,Debit Card,Mall Store,10-03-2025
+2103,Divya Kapoor,Gwalior,Madhya Pradesh,Clothing,3,4580,3215,1365,0.298,UPI,Mall Store,27-01-2025
+2343,Swati Mehta,Lucknow,Uttar Pradesh,Grocery,6,399,348,51,0.127,Credit Card,Supermarket,06-01-2025
+1123,Suman Nair,Hyderabad,Telangana,Grocery,4,324,275,49,0.151,UPI,Local Store,01-03-2025
+1379,Payal Kumar,Nashik,Maharashtra,Grocery,7,650,578,72,0.11,Debit Card,Local Store,01-01-2025
+2063,Manish Kumar,Prayagraj,Uttar Pradesh,Stationery,3,279,230,49,0.175,Credit Card,Local Store,06-01-2025
+2320,Arjun Patel,Bhopal,Madhya Pradesh,Electronics,2,14690,13015,1675,0.114,Cash,Supermarket,15-02-2025
+2201,Naveen Iyer,Chennai,Tamil Nadu,Clothing,5,4690,3635,1055,0.225,UPI,Local Store,05-01-2025
+1163,Shalini Patel,Ludhiana,Punjab,Clothing,2,2500,1908,592,0.237,Credit Card,Local Store,26-02-2025
+1125,Manish Gupta,Nashik,Maharashtra,Electronics,2,20110,18200,1910,0.095,Cash,Local Store,20-01-2025
+1552,Ashok Joshi,Gurgaon,Haryana,Grocery,7,404,349,55,0.135,Cash,Supermarket,17-01-2025
+1005,Harsh Mehta,Guwahati,Assam,Grocery,10,560,480,80,0.143,UPI,Supermarket,18-02-2025
+1916,Suman Gupta,Nagpur,Maharashtra,Electronics,2,17950,16783,1167,0.065,Cash,Mall Store,23-03-2025
+1959,Simran Patel,Kanpur,Uttar Pradesh,Electronics,2,19990,18191,1799,0.09,Cash,Supermarket,01-03-2025
+2286,Manish Kapoor,Ahmedabad,Gujarat,Stationery,3,130,99,31,0.237,UPI,Local Store,01-02-2025
+1612,Suresh Gupta,Ratlam,Madhya Pradesh,Stationery,5,344,289,55,0.159,Cash,Mall Store,18-02-2025
+1288,Pooja Pillai,Jodhpur,Rajasthan,Electronics,1,10060,9044,1016,0.101,UPI,Supermarket,22-01-2025
+1957,Amit Saxena,Kochi,Kerala,Grocery,7,456,382,74,0.163,Cash,Supermarket,11-02-2025
+1249,Swati Mehta,Coimbatore,Tamil Nadu,Grocery,6,520,444,76,0.146,Cash,Mall Store,06-01-2025
+2136,Rohit Singh,Lucknow,Uttar Pradesh,Stationery,8,710,543,167,0.235,UPI,Supermarket,18-01-2025
+1909,Priya Mehta,Bhubaneswar,Odisha,Grocery,10,700,625,75,0.107,Credit Card,Mall Store,10-03-2025
+1507,Vivek Patel,Agra,Uttar Pradesh,Electronics,2,11850,10523,1327,0.112,Credit Card,Supermarket,22-01-2025
+1357,Rajesh Malhotra,Gorakhpur,Uttar Pradesh,Clothing,4,3580,2692,888,0.248,Debit Card,Supermarket,04-02-2025
+1353,Rahul Nair,Delhi,Delhi,Clothing,5,5790,3897,1893,0.327,Credit Card,Supermarket,09-02-2025
+1845,Kavita Singh,Meerut,Uttar Pradesh,Grocery,7,437,387,50,0.114,Cash,Mall Store,22-01-2025
+1837,Nisha Saxena,Rewa,Madhya Pradesh,Grocery,3,250,224,26,0.104,UPI,Mall Store,31-01-2025
+1947,Neha Chopra,Meerut,Uttar Pradesh,Grocery,6,223,189,34,0.151,UPI,Local Store,26-01-2025
+1668,Alok Bansal,Indore,Madhya Pradesh,Clothing,5,6760,5077,1683,0.249,UPI,Local Store,13-01-2025
+1887,Rajesh Iyer,Delhi,Delhi,Clothing,6,6450,4567,1883,0.292,Credit Card,Mall Store,19-01-2025
+2258,Sandeep Saxena,Indore,Madhya Pradesh,Electronics,1,9470,8798,672,0.071,Credit Card,Supermarket,26-03-2025
+1334,Nisha Nair,Bhubaneswar,Odisha,Grocery,7,349,296,53,0.152,Credit Card,Mall Store,01-02-2025
+1154,Rajesh Kumar,Guwahati,Assam,Stationery,10,750,575,175,0.233,Cash,Supermarket,16-02-2025
+1788,Payal Kapoor,Chandigarh,Chandigarh,Clothing,5,5190,3877,1313,0.253,Credit Card,Mall Store,27-03-2025
+1502,Swati Iyer,Coimbatore,Tamil Nadu,Stationery,10,1080,833,247,0.229,Debit Card,Supermarket,19-03-2025
+1722,Manish Rao,Gurgaon,Haryana,Electronics,1,2010,1855,155,0.077,UPI,Supermarket,25-01-2025
+1374,Rekha Pillai,Nagpur,Maharashtra,Grocery,3,223,199,24,0.107,UPI,Mall Store,30-01-2025
+1591,Divya Kapoor,Jodhpur,Rajasthan,Grocery,7,428,382,46,0.107,UPI,Mall Store,21-02-2025
+1313,Rekha Chopra,Rajkot,Gujarat,Clothing,5,5740,4448,1292,0.225,Cash,Supermarket,14-03-2025
+1043,Preeti Iyer,Nagpur,Maharashtra,Clothing,3,2600,1994,606,0.233,UPI,Supermarket,26-03-2025
+2167,Nisha Mehta,Rewa,Madhya Pradesh,Clothing,2,2630,2049,581,0.221,UPI,Mall Store,05-02-2025
+1646,Sneha Yadav,Ratlam,Madhya Pradesh,Clothing,5,4090,2712,1378,0.337,Credit Card,Mall Store,05-01-2025
+2281,Simran Patel,Bilaspur,Chhattisgarh,Electronics,1,8470,7826,644,0.076,Credit Card,Supermarket,06-01-2025
+1972,Rahul Bansal,Guwahati,Assam,Clothing,4,2780,2082,698,0.251,Cash,Mall Store,23-02-2025
+2318,Gaurav Rao,Kolkata,West Bengal,Electronics,1,6930,6140,790,0.114,UPI,Supermarket,28-02-2025
+1523,Kiran Joshi,Noida,Uttar Pradesh,Grocery,6,300,255,45,0.149,UPI,Supermarket,28-03-2025
+2221,Sandeep Saxena,Ludhiana,Punjab,Grocery,9,380,336,44,0.115,Cash,Mall Store,05-02-2025
+1763,Anita Kapoor,Nagpur,Maharashtra,Electronics,2,33920,31444,2476,0.073,UPI,Supermarket,01-01-2025
+2275,Sandeep Chopra,Chennai,Tamil Nadu,Electronics,1,12250,11098,1152,0.094,UPI,Local Store,17-01-2025
+2127,Ashok Singh,Panipat,Haryana,Grocery,4,258,228,30,0.118,Credit Card,Mall Store,06-02-2025
+1705,Sanjay Pillai,Gurgaon,Haryana,Grocery,10,367,327,40,0.11,UPI,Local Store,10-03-2025
+2282,Suresh Iyer,Prayagraj,Uttar Pradesh,Electronics,1,7470,7014,456,0.061,Cash,Supermarket,08-01-2025
+2351,Gaurav Sharma,Delhi,Delhi,Clothing,6,3290,2333,957,0.291,Credit Card,Supermarket,20-01-2025
+1945,Naveen Joshi,Kochi,Kerala,Stationery,5,530,443,87,0.165,UPI,Mall Store,09-02-2025
+1169,Deepika Nair,Vadodara,Gujarat,Electronics,1,7140,6283,857,0.12,Cash,Supermarket,20-01-2025
+1361,Neha Joshi,Rewa,Madhya Pradesh,Clothing,3,3170,2520,650,0.205,Credit Card,Local Store,21-02-2025
+2019,Arjun Sharma,Indore,Madhya Pradesh,Clothing,5,4020,2975,1045,0.26,UPI,Local Store,17-03-2025
+2491,Amit Gupta,Surat,Gujarat,Grocery,4,207,181,26,0.126,Cash,Local Store,10-02-2025
+1744,Sneha Joshi,Patna,Bihar,Grocery,7,423,377,46,0.109,Debit Card,Mall Store,19-01-2025
+1273,Suman Chopra,Delhi,Delhi,Grocery,7,540,463,77,0.143,Cash,Supermarket,06-02-2025
+1520,Arjun Malhotra,Chennai,Tamil Nadu,Grocery,4,285,238,47,0.166,Credit Card,Local Store,02-03-2025
+1815,Pooja Malhotra,Visakhapatnam,Andhra Pradesh,Clothing,3,3630,2777,853,0.235,Debit Card,Mall Store,15-03-2025
+1819,Anjali Nair,Surat,Gujarat,Electronics,1,8290,7312,978,0.118,Cash,Mall Store,19-01-2025
+1735,Deepika Gupta,Meerut,Uttar Pradesh,Grocery,4,302,271,31,0.101,Cash,Supermarket,27-03-2025
+2417,Rekha Agarwal,Amritsar,Punjab,Grocery,8,487,429,58,0.12,Cash,Mall Store,13-02-2025
+2453,Anita Gupta,Kochi,Kerala,Grocery,8,510,429,81,0.158,Credit Card,Mall Store,08-03-2025
+2171,Payal Saxena,Kolkata,West Bengal,Grocery,8,570,512,58,0.101,Credit Card,Local Store,28-02-2025
+2493,Sandeep Singh,Visakhapatnam,Andhra Pradesh,Stationery,3,176,142,34,0.194,Credit Card,Mall Store,27-01-2025
+2122,Rahul Verma,Bhopal,Madhya Pradesh,Grocery,4,311,273,38,0.121,Cash,Mall Store,22-03-2025
+1129,Shalini Reddy,Bhopal,Madhya Pradesh,Clothing,3,2790,2204,586,0.21,UPI,Supermarket,12-03-2025
+1999,Alok Kumar,Rewa,Madhya Pradesh,Stationery,8,469,353,116,0.248,Debit Card,Mall Store,31-03-2025
+2342,Gaurav Verma,Bilaspur,Chhattisgarh,Clothing,4,3600,2516,1084,0.301,Credit Card,Mall Store,22-02-2025
+1545,Harsh Yadav,Panchkula,Haryana,Electronics,1,50,44,6,0.119,Cash,Mall Store,06-02-2025
+1380,Swati Kapoor,Ahmedabad,Gujarat,Grocery,8,383,316,67,0.174,Credit Card,Supermarket,20-03-2025
+1204,Anita Kumar,Kanpur,Uttar Pradesh,Grocery,6,455,397,58,0.128,Cash,Local Store,08-03-2025
+1344,Karan Kumar,Amritsar,Punjab,Grocery,7,367,309,58,0.159,UPI,Local Store,16-01-2025
+2472,Anita Iyer,Kolkata,West Bengal,Grocery,8,407,339,68,0.166,Credit Card,Mall Store,10-02-2025
+2402,Shalini Verma,Pune,Maharashtra,Grocery,5,340,284,56,0.164,Credit Card,Mall Store,28-02-2025
+1519,Arjun Singh,Agra,Uttar Pradesh,Electronics,2,16700,14896,1804,0.108,Cash,Mall Store,20-03-2025
+1489,Rekha Nair,Meerut,Uttar Pradesh,Grocery,6,510,455,55,0.108,UPI,Supermarket,21-03-2025
+2484,Priya Kapoor,Prayagraj,Uttar Pradesh,Stationery,8,496,382,114,0.229,UPI,Supermarket,04-03-2025
+1918,Amit Sharma,Coimbatore,Tamil Nadu,Electronics,2,17310,15596,1714,0.099,Debit Card,Supermarket,22-01-2025
+1233,Rohit Sharma,Bilaspur,Chhattisgarh,Stationery,5,355,287,68,0.191,UPI,Mall Store,02-03-2025
+1795,Nisha Gupta,Nagpur,Maharashtra,Clothing,5,2880,1973,907,0.315,Cash,Mall Store,14-03-2025
+2414,Sandeep Rao,Amritsar,Punjab,Clothing,4,6200,4173,2027,0.327,UPI,Supermarket,16-02-2025
+2123,Rahul Singh,Surat,Gujarat,Clothing,4,4370,2937,1433,0.328,Credit Card,Supermarket,11-01-2025
+1515,Alok Rao,Indore,Madhya Pradesh,Electronics,2,11960,10776,1184,0.099,Credit Card,Local Store,30-03-2025
+2494,Swati Yadav,Agra,Uttar Pradesh,Clothing,6,5730,3885,1845,0.322,Credit Card,Local Store,12-01-2025
+1512,Nisha Rao,Kota,Rajasthan,Electronics,1,7820,7022,798,0.102,Cash,Supermarket,24-02-2025
+1113,Preeti Joshi,Dehradun,Uttarakhand,Electronics,1,8210,7496,714,0.087,UPI,Local Store,14-02-2025
+2445,Harsh Pillai,Rajkot,Gujarat,Grocery,10,660,550,110,0.166,UPI,Supermarket,08-01-2025
+1218,Vishal Malhotra,Ludhiana,Punjab,Grocery,3,169,150,19,0.111,Credit Card,Local Store,12-02-2025
+1500,Vikram Rao,Chennai,Tamil Nadu,Clothing,4,1940,1383,557,0.287,Cash,Supermarket,14-03-2025
+2478,Neha Nair,Chandigarh,Chandigarh,Electronics,2,18940,16762,2178,0.115,Debit Card,Mall Store,15-01-2025
+1935,Sanjay Reddy,Noida,Uttar Pradesh,Grocery,7,466,417,49,0.105,Credit Card,Supermarket,22-03-2025
+1226,Sneha Agarwal,Surat,Gujarat,Grocery,8,610,516,94,0.154,Cash,Mall Store,29-03-2025
+2043,Rahul Joshi,Lucknow,Uttar Pradesh,Clothing,3,3670,2470,1200,0.327,UPI,Supermarket,24-02-2025
+2288,Rohit Saxena,Solapur,Maharashtra,Electronics,1,9780,8812,968,0.099,Credit Card,Supermarket,10-01-2025
+2397,Vikram Kumar,Meerut,Uttar Pradesh,Grocery,10,398,341,57,0.144,Credit Card,Mall Store,03-01-2025
+1398,Rajesh Patel,Pune,Maharashtra,Electronics,2,25480,23110,2370,0.093,Debit Card,Mall Store,05-02-2025
+1541,Manoj Gupta,Guwahati,Assam,Stationery,5,434,349,85,0.197,Credit Card,Supermarket,02-01-2025
+1329,Ajay Patel,Bhopal,Madhya Pradesh,Clothing,6,6520,4551,1969,0.302,UPI,Supermarket,02-01-2025
+1796,Manish Kapoor,Rohtak,Haryana,Electronics,1,11690,10638,1052,0.09,Credit Card,Supermarket,20-02-2025
+1849,Preeti Mehta,Trivandrum,Kerala,Clothing,4,2830,1854,976,0.345,Credit Card,Mall Store,25-03-2025
+2455,Arjun Rao,Rohtak,Haryana,Grocery,9,620,557,63,0.101,UPI,Supermarket,09-01-2025
+1094,Payal Chopra,Chennai,Tamil Nadu,Clothing,2,1600,1166,434,0.271,Cash,Supermarket,22-02-2025
+1214,Neha Joshi,Panipat,Haryana,Clothing,5,5480,4148,1332,0.243,Credit Card,Local Store,02-01-2025
+1771,Arjun Singh,Agra,Uttar Pradesh,Grocery,6,424,353,71,0.167,Cash,Mall Store,13-03-2025
+1338,Alok Chopra,Amritsar,Punjab,Electronics,1,6880,6151,729,0.106,UPI,Supermarket,10-01-2025
+1804,Manish Yadav,Faridabad,Haryana,Grocery,7,371,304,67,0.18,Cash,Local Store,21-02-2025
+1213,Anita Bansal,Mumbai,Maharashtra,Grocery,9,670,576,94,0.14,UPI,Supermarket,31-01-2025
+1619,Harsh Bansal,Rajkot,Gujarat,Clothing,3,3130,2103,1027,0.328,UPI,Mall Store,04-03-2025
+2140,Gaurav Gupta,Siliguri,West Bengal,Grocery,5,353,297,56,0.16,Credit Card,Local Store,31-03-2025
+2169,Shalini Joshi,Kanpur,Uttar Pradesh,Grocery,9,620,534,86,0.139,UPI,Mall Store,10-03-2025
+2137,Suman Chopra,Jodhpur,Rajasthan,Grocery,6,467,418,49,0.104,Cash,Supermarket,18-01-2025
+1037,Neha Patel,CHENNAI,Tamil Nadu,Electronics,2,17460,16360,1100,0.063,Cash,Local Store,12-02-2025
+1106,Kavita Bansal,Ahmedabad,Gujarat,Grocery,8,530,440,90,0.17,Debit Card,Supermarket,26-02-2025
+1363,Rohit Yadav,Coimbatore,Tamil Nadu,Electronics,1,7620,6896,724,0.095,UPI,Local Store,03-02-2025
+1851,Harsh Malhotra,Pune,Maharashtra,Electronics,1,5820,5389,431,0.074,Cash,Supermarket,21-02-2025
+1757,Sandeep Patel,Ludhiana,Punjab,Electronics,2,19450,17913,1537,0.079,UPI,Mall Store,19-03-2025
+1759,Anita Agarwal,Bilaspur,Chhattisgarh,Grocery,10,471,396,75,0.159,UPI,Local Store,23-02-2025
+1366,Deepika Kumar,Chandigarh,Chandigarh,Grocery,5,270,242,28,0.103,Cash,Mall Store,21-03-2025
+1857,Ajay Joshi,Kolkata,West Bengal,Stationery,7,373,286,87,0.234,Credit Card,Mall Store,08-03-2025
+2266,Rohit Nair,Kochi,Kerala,Stationery,8,334,265,69,0.208,UPI,Supermarket,21-02-2025
+2176,Naveen Iyer,Visakhapatnam,Andhra Pradesh,Electronics,2,14040,13099,941,0.067,UPI,Mall Store,23-01-2025
+1566,Karan Malhotra,Visakhapatnam,Andhra Pradesh,Grocery,6,323,281,42,0.131,Debit Card,Supermarket,26-02-2025
+1250,Manish Verma,Patna,Bihar,Stationery,10,780,661,119,0.153,UPI,Supermarket,22-02-2025
+1477,Vishal Agarwal,Panipat,Haryana,Grocery,6,412,360,52,0.126,UPI,Local Store,11-01-2025
+2189,Rohit Agarwal,Chennai,Tamil Nadu,Clothing,4,4260,3289,971,0.228,UPI,Local Store,25-03-2025
+1782,Rajesh Singh,Kolhapur,Maharashtra,Grocery,5,200,172,28,0.14,Credit Card,Mall Store,16-02-2025
+1455,Manoj Nair,Jaipur,Rajasthan,Clothing,2,1480,978,502,0.339,Cash,Mall Store,28-03-2025
+2365,Preeti Yadav,Ratlam,Madhya Pradesh,Stationery,5,470,392,78,0.166,Credit Card,Supermarket,02-03-2025
+2108,Meera Gupta,Faridabad,Haryana,Grocery,3,133,111,22,0.164,Cash,Supermarket,30-03-2025
+1231,Deepika Yadav,Coimbatore,Tamil Nadu,Electronics,2,10890,10149,741,0.068,UPI,Mall Store,20-03-2025
+1653,Kiran Joshi,Vadodara,Gujarat,Grocery,4,224,187,37,0.166,UPI,Mall Store,08-03-2025
+1071,Nisha Iyer,Patna,Bihar,Electronics,2,18530,17400,1130,0.061,UPI,Local Store,23-02-2025
+1611,Meera Verma,Chennai,Tamil Nadu,Grocery,9,630,522,108,0.171,Debit Card,Local Store,04-01-2025
+2175,Divya Sharma,Nagpur,Maharashtra,Stationery,4,220,172,48,0.22,Credit Card,Local Store,25-03-2025
+2451,Anita Kumar,Panchkula,Haryana,Clothing,5,4960,3437,1523,0.307,Cash,Supermarket,28-03-2025
+2442,Alok Agarwal,Kolhapur,Maharashtra,Grocery,10,780,640,140,0.179,Credit Card,Local Store,23-01-2025
+2466,Shalini Mehta,Dehradun,Uttarakhand,Electronics,2,20120,18148,1972,0.098,Debit Card,Local Store,15-01-2025
+1411,Gaurav Rao,Mumbai,Maharashtra,Stationery,3,253,203,50,0.197,Credit Card,Mall Store,17-01-2025
+2448,Ritu Bansal,Agra,Uttar Pradesh,Grocery,8,550,467,83,0.151,Cash,Mall Store,10-01-2025
+2152,Amit Joshi,Kanpur,Uttar Pradesh,Grocery,10,277,248,29,0.106,Cash,Supermarket,22-03-2025
+1339,Karan Yadav,Ahmedabad,Gujarat,Stationery,9,700,559,141,0.201,Cash,Mall Store,22-03-2025
+2026,Gaurav Agarwal,Chennai,Tamil Nadu,Stationery,4,315,240,75,0.237,UPI,Supermarket,22-01-2025
+1044,Sanjay Mehta,Meerut,Uttar Pradesh,Clothing,5,4050,2827,1223,0.302,UPI,Supermarket,10-03-2025
+1540,Rohit Kapoor,Dehradun,Uttarakhand,Grocery,4,205,173,32,0.158,Cash,Mall Store,31-01-2025
+1602,Sandeep Saxena,Kolkata,West Bengal,Electronics,1,4770,4427,343,0.072,Cash,Supermarket,17-02-2025
+1966,Amit Pillai,Noida,Uttar Pradesh,Grocery,8,650,572,78,0.12,UPI,Local Store,29-03-2025
+2355,Manish Singh,Hisar,Haryana,Grocery,3,154,134,20,0.132,Credit Card,Mall Store,30-01-2025
+1172,Divya Reddy,Hisar,Haryana,Clothing,5,3280,2509,771,0.235,Cash,Supermarket,31-01-2025
+1418,Suresh Pillai,Chennai,Tamil Nadu,Clothing,4,3740,2708,1032,0.276,Debit Card,Local Store,22-01-2025
+1838,Harsh Saxena,Rajkot,Gujarat,Clothing,2,1200,959,241,0.201,UPI,Mall Store,06-03-2025
+2257,Anjali Joshi,Solapur,Maharashtra,Electronics,1,13850,12340,1510,0.109,Credit Card,Supermarket,11-03-2025
+1807,Simran Rao,Kolhapur,Maharashtra,Clothing,6,5800,4483,1317,0.227,Credit Card,Mall Store,03-01-2025
+1883,Gaurav Iyer,Chennai,Tamil Nadu,Clothing,3,2260,1553,707,0.313,UPI,Mall Store,09-03-2025
+2408,Divya Nair,Ludhiana,Punjab,Clothing,6,8100,5751,2349,0.29,Cash,Local Store,20-02-2025
+1638,Anita Nair,Amritsar,Punjab,Stationery,4,286,221,65,0.226,Credit Card,Supermarket,12-03-2025
+1424,Rajesh Verma,Delhi,Delhi,Electronics,1,11400,10192,1208,0.106,UPI,Mall Store,22-01-2025
+1728,Sneha Malhotra,Amritsar,Punjab,Grocery,6,391,332,59,0.151,UPI,Supermarket,04-02-2025
+1968,Naveen Malhotra,Solapur,Maharashtra,Clothing,2,2880,2100,780,0.271,Debit Card,Local Store,07-03-2025
+1377,Divya Malhotra,Kochi,Kerala,Grocery,7,510,446,64,0.126,Credit Card,Mall Store,21-01-2025
+1525,Rahul Patel,Pune,Maharashtra,Electronics,2,10660,9797,863,0.081,Debit Card,Supermarket,05-02-2025
+1439,Amit Sharma,Bhopal,Madhya Pradesh,Clothing,3,1170,879,291,0.249,UPI,Local Store,26-02-2025
+2496,Rajesh Chopra,Noida,Uttar Pradesh,Grocery,4,360,301,59,0.164,Credit Card,Mall Store,16-02-2025
+1151,Deepika Gupta,Siliguri,West Bengal,Grocery,8,510,454,56,0.11,UPI,Mall Store,05-03-2025
+1367,Rekha Chopra,Bilaspur,Chhattisgarh,Electronics,1,8780,8104,676,0.077,Cash,Mall Store,18-01-2025
+2370,Sneha Mehta,Panchkula,Haryana,Grocery,9,421,368,53,0.126,Debit Card,Mall Store,17-03-2025
+1982,Pooja Joshi,Satara,Maharashtra,Stationery,10,790,644,146,0.185,Cash,Mall Store,08-02-2025
+1955,Divya Kumar,Gwalior,Madhya Pradesh,Stationery,9,620,472,148,0.238,Debit Card,Supermarket,09-01-2025
+2456,Suresh Gupta,Chandigarh,Chandigarh,Clothing,2,740,520,220,0.297,Credit Card,Mall Store,15-02-2025
+1144,Simran Saxena,Dehradun,Uttarakhand,Clothing,2,1910,1354,556,0.291,UPI,Local Store,26-03-2025
+1718,Rahul Kumar,Pune,Maharashtra,Clothing,6,5670,3782,1888,0.333,Cash,Mall Store,23-02-2025
+1527,Shalini Singh,Guwahati,Assam,Electronics,2,4610,4089,521,0.113,Credit Card,Supermarket,15-03-2025
+1584,Alok Kumar,Bilaspur,Chhattisgarh,Clothing,5,7910,5442,2468,0.312,Cash,Mall Store,23-03-2025
+1976,Anita Patel,Kanpur,Uttar Pradesh,Grocery,5,158,142,16,0.103,UPI,Mall Store,30-03-2025
+1567,Manoj Agarwal,Mangalore,Karnataka,Clothing,6,1730,1211,519,0.3,Cash,Mall Store,27-01-2025
+2233,Alok Joshi,Visakhapatnam,Andhra Pradesh,Grocery,5,293,246,47,0.16,Cash,Supermarket,13-01-2025
+1441,Ajay Chopra,Satara,Maharashtra,Stationery,5,388,326,62,0.161,Debit Card,Mall Store,31-03-2025
+2156,Rahul Gupta,Vadodara,Gujarat,Stationery,4,361,289,72,0.2,Debit Card,Supermarket,28-02-2025
+1175,Ajay Iyer,Bilaspur,Chhattisgarh,Stationery,4,302,248,54,0.179,Debit Card,Supermarket,21-01-2025
+2274,Deepika Kapoor,Coimbatore,Tamil Nadu,Electronics,2,13790,12673,1117,0.081,Cash,Local Store,13-03-2025
+1124,Gaurav Singh,Bhopal,Madhya Pradesh,Grocery,3,117,102,15,0.124,UPI,Supermarket,05-03-2025
+1139,Rajesh Chopra,Varanasi,Uttar Pradesh,Clothing,4,4580,3009,1571,0.343,UPI,Local Store,29-03-2025
+1880,Anjali Yadav,Amritsar,Punjab,Grocery,7,540,455,85,0.157,Debit Card,Mall Store,06-03-2025
+2076,Ritu Saxena,Kota,Rajasthan,Clothing,3,2260,1659,601,0.266,Credit Card,Local Store,15-02-2025
+1733,Rahul Chopra,Ahmedabad,Gujarat,Grocery,10,660,555,105,0.159,Credit Card,Supermarket,06-03-2025
+1625,Manoj Joshi,Hisar,Haryana,Electronics,2,27150,24272,2878,0.106,Credit Card,Mall Store,06-02-2025
+1785,Divya Kumar,Delhi,Delhi,Stationery,10,810,634,176,0.217,Cash,Mall Store,20-02-2025
+1183,Kiran Iyer,Patna,Bihar,Stationery,3,146,118,28,0.189,UPI,Supermarket,02-03-2025
+1618,Simran Reddy,Trivandrum,Kerala,Grocery,3,213,186,27,0.129,UPI,Local Store,30-03-2025
+1691,Ashok Bansal,Rewa,Madhya Pradesh,Grocery,9,491,441,50,0.101,UPI,Mall Store,27-02-2025
+2325,Neha Kapoor,Gwalior,Madhya Pradesh,Stationery,9,640,525,115,0.179,UPI,Supermarket,19-02-2025
+1241,Rahul Mehta,Nashik,Maharashtra,Grocery,7,337,278,59,0.176,Credit Card,Mall Store,08-02-2025
+2255,Anita Sharma,Guwahati,Assam,Electronics,1,12300,11476,824,0.067,Debit Card,Supermarket,01-01-2025
+1459,Harsh Reddy,Chandigarh,Chandigarh,Electronics,2,12120,10690,1430,0.118,UPI,Local Store,27-02-2025
+1682,Sanjay Pillai,Guwahati,Assam,Electronics,1,4050,3588,462,0.114,Credit Card,Local Store,10-03-2025
+1466,Suman Reddy,Mangalore,Karnataka,Clothing,5,4170,3186,984,0.236,Cash,Supermarket,31-03-2025
+2188,Payal Gupta,Mumbai,Maharashtra,Clothing,6,5000,3310,1690,0.338,UPI,Mall Store,11-01-2025
+2192,Karan Kumar,Pune,Maharashtra,Grocery,8,320,265,55,0.173,Credit Card,Mall Store,27-01-2025
+1146,Swati Patel,Kolkata,West Bengal,Clothing,2,2270,1784,486,0.214,Credit Card,Supermarket,09-03-2025
+1207,Pooja Verma,Satara,Maharashtra,Clothing,4,4220,2962,1258,0.298,Cash,Mall Store,15-03-2025
+2213,Nisha Reddy,Kanpur,Uttar Pradesh,Grocery,8,394,329,65,0.165,Debit Card,Local Store,10-03-2025
+2309,Gaurav Iyer,Rohtak,Haryana,Stationery,7,640,504,136,0.212,UPI,Mall Store,21-01-2025
+1325,Shalini Pillai,Panchkula,Haryana,Grocery,10,449,376,73,0.163,UPI,Local Store,29-03-2025
+1658,Naveen Pillai,Varanasi,Uttar Pradesh,Grocery,7,417,356,61,0.146,Credit Card,Supermarket,22-01-2025
+2380,Neha Kapoor,Coimbatore,Tamil Nadu,Grocery,10,870,713,157,0.18,,Mall Store,22-03-2025
+1715,Alok Pillai,Bhopal,Madhya Pradesh,Grocery,6,357,300,57,0.161,UPI,Supermarket,17-03-2025
+2395,Sneha Bansal,Bhopal,Madhya Pradesh,Electronics,2,13440,12338,1102,0.082,Debit Card,Mall Store,18-02-2025
+2431,Alok Patel,Chennai,Tamil Nadu,Electronics,2,18150,16970,1180,0.065,UPI,Mall Store,09-03-2025
+1080,Manoj Yadav, Mangalore ,Karnataka,Electronics,2,2090,1841,249,0.119,UPI,Supermarket,25-01-2025
+2376,Nisha Iyer,Udaipur,Rajasthan,Grocery,8,455,379,76,0.168,Credit Card,Supermarket,27-03-2025
+2389,Ritu Joshi,Visakhapatnam,Andhra Pradesh,Clothing,3,2730,1878,852,0.312,UPI,Supermarket,17-01-2025
+1688,Amit Nair,Pune,Maharashtra,Stationery,5,313,240,73,0.234,UPI,Local Store,22-02-2025
+1167,Swati Gupta,Trivandrum,Kerala,Clothing,2,2290,1727,563,0.246,UPI,Mall Store,18-02-2025
+1230,Kavita Joshi,Ahmedabad,Gujarat,Grocery,4,281,245,36,0.128,Cash,Mall Store,26-02-2025
+2460,Meera Pillai,Chandigarh,Chandigarh,Grocery,6,421,354,67,0.159,UPI,Local Store,09-01-2025
+2337,Sneha Verma,Kota,Rajasthan,Clothing,6,4300,3195,1105,0.257,UPI,Supermarket,16-03-2025
+1741,Payal Yadav,Siliguri,West Bengal,Clothing,3,1040,782,258,0.248,Credit Card,Mall Store,04-02-2025
+1101,Ajay Bansal,Jodhpur,Rajasthan,Electronics,1,3050,2797,253,0.083,Debit Card,Mall Store,18-03-2025
+1291,Simran Malhotra,Guwahati,Assam,Stationery,10,660,539,121,0.183,UPI,Local Store,25-03-2025
+1445,Alok Reddy,Sangli,Maharashtra,Stationery,4,176,142,34,0.193,Cash,Mall Store,01-02-2025
+1879,Anjali Singh,Bhubaneswar,Odisha,Clothing,2,1790,1210,580,0.324,UPI,Mall Store,06-01-2025
+2078,Rajesh Patel,Chennai,Tamil Nadu,Grocery,6,321,265,56,0.176,UPI,Mall Store,22-01-2025
+1740,Sanjay Pillai,Rajkot,Gujarat,Clothing,3,3610,2357,1253,0.347,Cash,Mall Store,31-01-2025
+1392,Ashok Iyer,Udaipur,Rajasthan,Electronics,2,19440,17768,1672,0.086,UPI,Supermarket,03-02-2025
+1087,Pooja Kumar,Jodhpur,Rajasthan,Grocery,4,295,262,33,0.113,Credit Card,Mall Store,22-02-2025
+2053,Vikram Gupta,Nashik,Maharashtra,Stationery,9,720,563,157,0.218,UPI,Local Store,22-01-2025
+1667,Nisha Kapoor,Bhubaneswar,Odisha,Grocery,6,337,299,38,0.114,Debit Card,Supermarket,27-03-2025
+2276,Anjali Bansal,Gurgaon,Haryana,Grocery,8,497,446,51,0.102,UPI,Local Store,07-02-2025
+2359,Gaurav Sharma,Chandigarh,Chandigarh,Clothing,6,2740,1866,874,0.319,Debit Card,Mall Store,11-03-2025
+1476,Anjali Malhotra,Rewa,Madhya Pradesh,Electronics,2,14260,13390,870,0.061,UPI,Local Store,08-03-2025
+2296,Priya Saxena,Siliguri,West Bengal,Stationery,7,476,366,110,0.231,UPI,Supermarket,17-03-2025
+1045,Karan Kumar,Kochi,Kerala,Stationery,7,283,239,44,0.154,Cash,Mall Store,18-03-2025
+1789,Rekha Rao,Chandigarh,Chandigarh,Grocery,10,590,526,64,0.109,UPI,Mall Store,02-02-2025
+2003,Manoj Gupta,Nashik,Maharashtra,Grocery,3,183,161,22,0.119,Credit Card,Local Store,18-03-2025
+2138,Kavita Malhotra,Bengaluru,Karnataka,Grocery,9,374,325,49,0.13,Credit Card,Supermarket,31-03-2025
+1025,Sneha Mehta,Kolhapur,Maharashtra,Grocery,4,207,179,28,0.135,Cash,Supermarket,12-03-2025
+2236,Kavita Chopra,Gurgaon,Haryana,Clothing,3,4180,3118,1062,0.254,Cash,Supermarket,04-01-2025
+1833,Suresh Yadav,Noida,Uttar Pradesh,Stationery,7,349,287,62,0.179,Credit Card,Mall Store,05-03-2025
+2194,Sandeep Kumar,Udaipur,Rajasthan,Grocery,5,324,274,50,0.153,UPI,Mall Store,22-03-2025
+1592,Sanjay Nair,Bhubaneswar,Odisha,Electronics,2,12660,11267,1393,0.11,Cash,Mall Store,30-03-2025
+2487,Kavita Nair,Patna,Bihar,Grocery,8,310,268,42,0.136,Debit Card,Mall Store,30-03-2025
+1974,Shalini Kapoor,Chennai,Tamil Nadu,Clothing,6,4230,3020,1210,0.286,UPI,Local Store,20-02-2025
+2057,Pooja Singh,Panipat,Haryana,Clothing,6,5350,4098,1252,0.234,Credit Card,Mall Store,17-03-2025
+1110,Vikram Agarwal,Kanpur,Uttar Pradesh,Clothing,2,1760,1396,364,0.207,UPI,Supermarket,08-01-2025
+2161,Neha Reddy,Gorakhpur,Uttar Pradesh,Clothing,2,300,233,67,0.223,UPI,Supermarket,14-01-2025
+1223,Ashok Gupta,Coimbatore,Tamil Nadu,Clothing,2,2210,1578,632,0.286,UPI,Supermarket,31-03-2025
+2053,Vikram Gupta,Nashik,Maharashtra,Stationery,9,720,563,157,0.218,UPI,Local Store,22-01-2025
+2312,Pooja Patel,Gurgaon,Haryana,Electronics,2,21720,19722,1998,0.092,Credit Card,Local Store,16-01-2025
+1723,Ajay Bansal,Udaipur,Rajasthan,Grocery,3,119,107,12,0.104,Credit Card,Supermarket,16-02-2025
+1056,Harsh Nair,Siliguri,West Bengal,Stationery,9,800,614,186,0.233,UPI,Mall Store,12-03-2025
+2489,Suresh Kapoor,Dehradun,Uttarakhand,Clothing,6,2650,1937,713,0.269,Cash,Supermarket,27-03-2025
+1254,Meera Yadav,Bengaluru,Karnataka,Clothing,2,2420,1643,777,0.321,Debit Card,Mall Store,23-02-2025
+2434,Harsh Singh,Jaipur,Rajasthan,Electronics,1,5960,5245,715,0.12,Debit Card,Supermarket,15-03-2025
+2073,Vikram Rao,Meerut,Uttar Pradesh,Clothing,4,3690,2646,1044,0.283,UPI,Supermarket,19-03-2025
+1643,Anjali Yadav,Guwahati,Assam,Clothing,5,4110,3033,1077,0.262,Cash,Supermarket,12-02-2025
+1546,Rekha Agarwal,Pune,Maharashtra,Electronics,2,10420,9503,917,0.088,Cash,Local Store,19-01-2025
+1478,Manish Pillai,Delhi,Delhi,Clothing,3,2980,2083,897,0.301,Credit Card,Local Store,28-01-2025
+1950,Preeti Saxena,Agra,Uttar Pradesh,Grocery,8,510,426,84,0.165,UPI,Supermarket,18-02-2025
+1844,Nisha Singh,Panipat,Haryana,Grocery,8,530,435,95,0.179,Credit Card,Mall Store,13-03-2025
+1064,Nisha Gupta,Kolhapur,Maharashtra,Grocery,7,294,256,38,0.13,UPI,Mall Store,28-01-2025
+1414,Vishal Iyer,Bilaspur,Chhattisgarh,Clothing,6,7700,5837,1863,0.242,UPI,Supermarket,29-03-2025
+1385,Amit Joshi,Mumbai,Maharashtra,Grocery,4,194,173,21,0.106,UPI,Local Store,22-01-2025
+2426,Amit Saxena,Solapur,Maharashtra,Stationery,7,215,177,38,0.177,Cash,Supermarket,22-02-2025
+1975,Swati Patel,Surat,Gujarat,Electronics,2,12880,12017,863,0.067,Cash,Local Store,14-03-2025
+1885,Kiran Patel,Pune,Maharashtra,Grocery,9,630,517,113,0.179,UPI,Mall Store,22-01-2025
+1452,Harsh Bansal,Rajkot,Gujarat,Clothing,5,5930,4643,1287,0.217,UPI,Supermarket,26-03-2025
+2259,Manish Yadav,Rohtak,Haryana,Electronics,2,11060,9954,1106,0.1,Cash,Mall Store,17-03-2025
+1657,Meera Gupta,Kanpur,Uttar Pradesh,Grocery,3,181,149,32,0.177,UPI,Mall Store,13-03-2025
+2328,Karan Saxena,Siliguri,West Bengal,Grocery,6,347,294,53,0.153,Credit Card,Supermarket,19-01-2025
+1370,Meera Verma,Guwahati,Assam,Stationery,8,436,337,99,0.227,UPI,Local Store,30-01-2025
+1690,Arjun Agarwal,Solapur,Maharashtra,Electronics,2,19110,17103,2007,0.105,Cash,Supermarket,10-03-2025
+1220,Shalini Rao,Visakhapatnam,Andhra Pradesh,Electronics,2,16570,14863,1707,0.103,UPI,Mall Store,08-02-2025
+2464,Manoj Kapoor,Guwahati,Assam,Clothing,5,3220,2096,1124,0.349,Credit Card,Local Store,02-02-2025
+2321,Ritu Joshi,Indore,Madhya Pradesh,Grocery,8,487,415,72,0.147,Cash,Supermarket,20-03-2025
+1022,Ritu Mehta,Sangli,Maharashtra,Electronics,1,7210,6467,743,0.103,UPI,Mall Store,15-03-2025
+1761,Kiran Nair,Patna,Bihar,Stationery,9,530,446,84,0.159,UPI,Mall Store,22-02-2025
+1870,Rekha Reddy,Rajkot,Gujarat,Grocery,3,270,234,36,0.134,UPI,Mall Store,10-02-2025
+1421,Preeti Singh,Rohtak,Haryana,Grocery,4,364,314,50,0.138,Debit Card,Mall Store,25-01-2025
+1200,Rohit Reddy,Bhubaneswar,Odisha,Electronics,2,8000,7256,744,0.093,Debit Card,Mall Store,17-02-2025
+1451,Deepika Agarwal,Ratlam,Madhya Pradesh,Electronics,1,7780,6932,848,0.109,Cash,Supermarket,28-02-2025
+2162,Swati Patel,Gurgaon,Haryana,Electronics,2,32040,28836,3204,0.1,Cash,Mall Store,14-02-2025
+2020,Manoj Chopra,Kanpur,Uttar Pradesh,Clothing,4,4110,2861,1249,0.304,Cash,Local Store,06-03-2025
+1912,Arjun Verma,Hyderabad,Telangana,Stationery,5,372,315,57,0.153,UPI,Supermarket,08-01-2025
+1697,Harsh Singh,Rajkot,Gujarat,Stationery,4,306,234,72,0.236,Cash,Mall Store,17-01-2025
+1812,Anita Agarwal,Panipat,Haryana,Electronics,2,12920,11822,1098,0.085,UPI,Supermarket,05-01-2025
+2237,Nisha Iyer,Agra,Uttar Pradesh,Clothing,3,4210,2787,1423,0.338,Debit Card,Mall Store,18-02-2025
+2481,Sanjay Nair,Amritsar,Punjab,Stationery,10,840,651,189,0.225,Credit Card,Supermarket,28-01-2025
+1911,Anjali Singh,Surat,Gujarat,Grocery,5,277,245,32,0.115,Debit Card,Supermarket,12-01-2025
+2050,Kiran Joshi,Faridabad,Haryana,Clothing,3,3940,2738,1202,0.305,UPI,Mall Store,12-03-2025
+1506,Neha Kumar,Rewa,Madhya Pradesh,Stationery,9,540,427,113,0.21,Debit Card,Mall Store,14-03-2025
+2367,Preeti Nair,Jaipur,Rajasthan,Grocery,10,600,511,89,0.148,Credit Card,Mall Store,09-01-2025
+2256,Kiran Singh,Jodhpur,Rajasthan,Grocery,10,419,376,43,0.102,UPI,Mall Store,06-03-2025
+1406,Vishal Kumar,Patna,Bihar,Grocery,9,620,551,69,0.111,UPI,Local Store,09-03-2025
+1318,Payal Iyer,Rajkot,Gujarat,Clothing,5,4030,3123,907,0.225,Cash,Local Store,18-01-2025
+1184,Divya Mehta,Mangalore,Karnataka,Grocery,4,269,235,34,0.128,Cash,Mall Store,26-03-2025
+2121,Vikram Rao,Bhopal,Madhya Pradesh,Clothing,2,2460,1747,713,0.29,UPI,Mall Store,18-02-2025
+2400,Vishal Singh,Kota,Rajasthan,Electronics,2,11400,10066,1334,0.117,UPI,Mall Store,21-02-2025
+1610,Arjun Sharma,Meerut,Uttar Pradesh,Clothing,4,5400,3812,1588,0.294,Debit Card,Local Store,31-01-2025
+1627,Anjali Kumar,Vadodara,Gujarat,Clothing,6,3620,2824,796,0.22,UPI,Supermarket,22-02-2025
+1486,Suman Patel,Nagpur,Maharashtra,Grocery,8,309,273,36,0.117,UPI,Local Store,24-03-2025
+1279,Manish Kapoor,Sangli,Maharashtra,Grocery,8,488,439,49,0.101,Cash,Mall Store,27-01-2025
+1631,Kavita Kumar,Kolkata,West Bengal,Grocery,3,104,90,14,0.134,Debit Card,Mall Store,09-02-2025
+1021,Suresh Sharma,Patna,Bihar,Clothing,2,2680,2053,627,0.234,UPI,Local Store,05-01-2025
+1171,Arjun Kumar,Visakhapatnam,Andhra Pradesh,Clothing,6,3800,2580,1220,0.321,UPI,Mall Store,22-01-2025
+1902,Anita Joshi,Agra,Uttar Pradesh,Grocery,10,540,486,54,0.1,Debit Card,Supermarket,12-03-2025
+2040,Shalini Reddy,Panchkula,Haryana,Clothing,6,7280,5751,1529,0.21,Cash,Mall Store,13-02-2025
+1177,Swati Rao,Amritsar,Punjab,Grocery,4,241,210,31,0.13,UPI,Supermarket,04-01-2025
+1328,Arjun Verma,Solapur,Maharashtra,Clothing,3,3410,2510,900,0.264,UPI,Mall Store,12-01-2025
+1707,Vivek Yadav,Udaipur,Rajasthan,Electronics,2,7040,6336,704,0.1,Debit Card,Mall Store,08-02-2025
+2223,Meera Sharma,Rohtak,Haryana,Clothing,5,5450,4071,1379,0.253,UPI,Local Store,16-01-2025
+1471,Kavita Verma,Kolkata,West Bengal,Stationery,3,193,149,44,0.227,Cash,Mall Store,22-03-2025
+2391,Vivek Mehta,Gorakhpur,Uttar Pradesh,Electronics,1,9610,8755,855,0.089,Cash,Mall Store,16-03-2025
+1267,Gaurav Verma,Panchkula,Haryana,Stationery,5,510,432,78,0.152,Credit Card,Local Store,12-03-2025
+1616,Sneha Nair,Visakhapatnam,Andhra Pradesh,Stationery,3,218,169,49,0.227,UPI,Local Store,22-02-2025
+1131,Sneha Singh,Sangli,Maharashtra,Stationery,5,195,166,29,0.151,UPI,Mall Store,31-01-2025
+1866,Pooja Joshi,Vadodara,Gujarat,Electronics,2,13290,12160,1130,0.085,UPI,Supermarket,15-01-2025
+2454,Arjun Iyer,Satara,Maharashtra,Grocery,8,790,678,112,0.142,Credit Card,Local Store,18-02-2025
+2363,Anjali Chopra,Faridabad,Haryana,Clothing,4,3740,2700,1040,0.278,Credit Card,Local Store,20-03-2025
+2396,Rajesh Singh,Chennai,Tamil Nadu,Grocery,3,188,167,21,0.113,Cash,Supermarket,02-03-2025
+1490,Rekha Agarwal,Ratlam,Madhya Pradesh,Clothing,4,4660,3243,1417,0.304,UPI,Mall Store,20-01-2025
+1607,Rahul Patel,Nashik,Maharashtra,Clothing,4,2670,1789,881,0.33,Debit Card,Supermarket,03-01-2025
+2218,Ritu Yadav,Gorakhpur,Uttar Pradesh,Grocery,10,640,573,67,0.105,Credit Card,Mall Store,02-01-2025
+2165,Manish Gupta,Rohtak,Haryana,Grocery,6,452,395,57,0.126,Cash,Local Store,05-01-2025
+1417,Gaurav Malhotra,Nashik,Maharashtra,Clothing,6,8190,5684,2506,0.306,UPI,Local Store,15-03-2025
+1153,Sanjay Nair,Panchkula,Haryana,Electronics,2,11240,10082,1158,0.103,Credit Card,Supermarket,23-02-2025
+1890,Deepika Patel,Ludhiana,Punjab,Electronics,2,23760,21265,2495,0.105,Debit Card,Supermarket,21-01-2025
+1850,Alok Gupta,Agra,Uttar Pradesh,Stationery,7,416,340,76,0.182,Credit Card,Mall Store,08-01-2025
+1280,Swati Patel,Nagpur,Maharashtra,Grocery,6,325,278,47,0.145,Credit Card,Mall Store,19-02-2025
+2035,Vikram Malhotra,Faridabad,Haryana,Clothing,3,2270,1521,749,0.33,Cash,Local Store,15-03-2025
+1270,Rekha Kumar,Surat,Gujarat,Stationery,3,218,174,44,0.202,Cash,Local Store,10-01-2025
+1097,Rahul Pillai,Kolhapur,Maharashtra,Electronics,1,9040,8217,823,0.091,Cash,Local Store,21-03-2025
+1211,Meera Agarwal,Jodhpur,Rajasthan,Grocery,3,206,181,25,0.123,Credit Card,Local Store,19-02-2025
+1570,Arjun Mehta,Kochi,Kerala,Grocery,6,328,295,33,0.101,Cash,Mall Store,06-01-2025
+2461,Anita Verma,Agra,Uttar Pradesh,Grocery,10,580,501,79,0.137,UPI,Local Store,10-03-2025
+1872,Manoj Bansal,Meerut,Uttar Pradesh,Electronics,1,5210,4715,495,0.095,Credit Card,Supermarket,29-03-2025
+1533,Simran Iyer,Kolkata,West Bengal,Clothing,2,1760,1165,595,0.338,Credit Card,Local Store,28-03-2025
+2458,Vishal Patel,Chandigarh,Chandigarh,Electronics,1,9330,8229,1101,0.118,Credit Card,Mall Store,08-01-2025
+2357,Payal Reddy,Pune,Maharashtra,Grocery,10,520,446,74,0.142,UPI,Local Store,14-03-2025
+2100,Naveen Chopra,Jodhpur,Rajasthan,Grocery,3,196,173,23,0.115,Cash,Supermarket,01-01-2025
+1713,Vikram Agarwal,Hyderabad,Telangana,Grocery,4,207,173,34,0.165,Credit Card,Supermarket,14-01-2025
+1078,Divya Bansal,Bilaspur,Chhattisgarh,Electronics,2,13910,12241,1669,0.12,Cash,Supermarket,12-03-2025
+1264,Rahul Yadav,Noida,Uttar Pradesh,Stationery,4,198,153,45,0.225,Cash,Local Store,03-03-2025
+1072,Divya Agarwal,Rajkot,Gujarat,Grocery,5,415,349,66,0.159,Cash,Supermarket,25-03-2025
+1150,Rekha Rao,Sangli,Maharashtra,Grocery,6,387,336,51,0.132,,Supermarket,18-03-2025
+1470,Amit Chopra,Chandigarh,Chandigarh,Electronics,1,5980,5561,419,0.07,Credit Card,Supermarket,02-02-2025
+1565,Pooja Gupta,Lucknow,Uttar Pradesh,Grocery,9,700,626,74,0.106,Debit Card,Supermarket,02-03-2025
+1462,Manish Nair,Rajkot,Gujarat,Grocery,8,484,414,70,0.145,Cash,Mall Store,16-03-2025
+2278,Vishal Joshi,Solapur,Maharashtra,Clothing,6,6110,4246,1864,0.305,Debit Card,Mall Store,15-01-2025
+1897,Kiran Malhotra,Kochi,Kerala,Electronics,2,14830,13169,1661,0.112,,Mall Store,16-03-2025
+2394,Meera Patel,Ludhiana,Punjab,Clothing,4,3760,2884,876,0.233,UPI,Supermarket,03-02-2025
+2346,Suman Patel,Satara,Maharashtra,Grocery,6,226,197,29,0.129,Cash,Local Store,26-01-2025
+1696,Manoj Verma,Mumbai,Maharashtra,Clothing,2,1610,1061,549,0.341,UPI,Local Store,26-03-2025
+2176,Naveen Iyer,Visakhapatnam,Andhra Pradesh,Electronics,2,14040,13099,941,0.067,UPI,Mall Store,23-01-2025
+1929,Harsh Kapoor,Udaipur,Rajasthan,Grocery,5,417,350,67,0.16,Credit Card,Supermarket,17-01-2025
+2327,Vikram Iyer,Faridabad,Haryana,Grocery,7,321,282,39,0.122,UPI,Supermarket,26-02-2025
+2215,Ashok Mehta,Gorakhpur,Uttar Pradesh,Grocery,5,278,237,41,0.147,Debit Card,Supermarket,16-01-2025
+1587,Rajesh Saxena,Jodhpur,Rajasthan,Electronics,1,6390,5860,530,0.083,UPI,Local Store,12-03-2025
+2373,Nisha Bansal,Varanasi,Uttar Pradesh,Grocery,4,158,139,19,0.119,UPI,Mall Store,20-02-2025
+1244,Kavita Agarwal,Mangalore,Karnataka,Stationery,8,700,566,134,0.192,Cash,Local Store,12-03-2025
+2112,Anjali Kumar,Gurgaon,Haryana,Grocery,6,380,333,47,0.123,Debit Card,Supermarket,23-03-2025
+1752,Anita Singh,Mumbai,Maharashtra,Electronics,2,6540,5847,693,0.106,UPI,Local Store,28-02-2025
+2443,Anjali Saxena,Visakhapatnam,Andhra Pradesh,Grocery,5,314,276,38,0.12,UPI,Supermarket,09-01-2025
+2313,Neha Saxena,Rohtak,Haryana,Clothing,6,7900,5799,2101,0.266,Credit Card,Supermarket,04-02-2025
+1649,Priya Nair,Nashik,Maharashtra,Clothing,3,2490,1778,712,0.286,UPI,Supermarket,19-02-2025
+2191,Kavita Sharma,Chennai,Tamil Nadu,Stationery,4,288,242,46,0.161,UPI,Supermarket,18-03-2025
+1596,Kavita Verma,Dehradun,Uttarakhand,Clothing,5,3730,2439,1291,0.346,UPI,Mall Store,18-03-2025
+1314,Vivek Verma,Chandigarh,Chandigarh,Grocery,7,510,452,58,0.113,Cash,Mall Store,28-02-2025
+1934,Manoj Nair,Pune,Maharashtra,Stationery,3,78,59,19,0.249,Credit Card,Local Store,29-01-2025
+1156,Arjun Patel,Ludhiana,Punjab,Clothing,6,4110,2976,1134,0.276,Debit Card,Mall Store,14-02-2025
+2381,Manish Singh,Ahmedabad,Gujarat,Electronics,1,10370,9312,1058,0.102,UPI,Local Store,23-01-2025
+2406,Rohit Malhotra,Vadodara,Gujarat,Grocery,7,341,284,57,0.166,Credit Card,Mall Store,24-02-2025
+2304,Rekha Gupta,Gurgaon,Haryana,Clothing,3,2020,1351,669,0.331,UPI,Supermarket,25-03-2025
+2151,Gaurav Rao,Jaipur,Rajasthan,Electronics,1,4530,4254,276,0.061,Debit Card,Mall Store,18-02-2025
+2000,Rohit Nair,Udaipur,Rajasthan,Clothing,4,4290,2801,1489,0.347,UPI,Mall Store,27-03-2025
+2047,Rekha Joshi,Rajkot,Gujarat,Stationery,3,249,187,62,0.248,Cash,Supermarket,12-02-2025
+2307,Sanjay Rao,Hisar,Haryana,Grocery,4,242,213,29,0.119,Cash,Mall Store,11-02-2025
+2392,Kiran Agarwal,Visakhapatnam,Andhra Pradesh,Clothing,3,2090,1659,431,0.206,Credit Card,Mall Store,16-03-2025
+1026,Manish Sharma,Pune,Maharashtra,Stationery,6,433,361,72,0.167,Debit Card,Mall Store,04-03-2025
+1197,Simran Joshi,Gorakhpur,Uttar Pradesh,Stationery,10,520,432,88,0.17,Credit Card,Local Store,18-01-2025
+2089,Sneha Pillai,Guwahati,Assam,Grocery,10,560,474,86,0.153,UPI,Supermarket,26-02-2025
+1016,Manoj Gupta,Amritsar,Punjab,Clothing,6,4390,2884,1506,0.343,Credit Card,Local Store,09-03-2025
+2322,Sanjay Iyer,Hisar,Haryana,Stationery,10,810,629,181,0.224,Credit Card,Supermarket,25-02-2025
+1884,Nisha Chopra,Kota,Rajasthan,Stationery,8,730,552,178,0.244,UPI,Supermarket,26-02-2025
+1622,Ritu Chopra,Solapur,Maharashtra,Clothing,6,6250,4312,1938,0.31,UPI,Mall Store,18-02-2025
+2361,Sanjay Malhotra,Bhopal,Madhya Pradesh,Clothing,3,2690,1942,748,0.278,Credit Card,Supermarket,16-01-2025
+2051,Payal Verma,Rajkot,Gujarat,Grocery,5,253,216,37,0.146,UPI,Mall Store,26-02-2025
+2068,Kavita Pillai,Agra,Uttar Pradesh,Grocery,7,540,443,97,0.18,Cash,Mall Store,31-03-2025
+1498,Kavita Bansal,Meerut,Uttar Pradesh,Grocery,10,570,502,68,0.119,UPI,Mall Store,03-02-2025
+1793,Manish Sharma,Siliguri,West Bengal,Grocery,9,580,481,99,0.17,UPI,Mall Store,16-01-2025
+1965,Sanjay Iyer,Pune,Maharashtra,Grocery,4,235,197,38,0.163,UPI,Supermarket,30-01-2025
+1516,Vikram Gupta,Prayagraj,Uttar Pradesh,Clothing,4,4510,3432,1078,0.239,UPI,Mall Store,10-03-2025
+2476,Vikram Patel,Jodhpur,Rajasthan,Grocery,10,700,578,122,0.175,Debit Card,Mall Store,17-03-2025
+2412,Rahul Kumar,Varanasi,Uttar Pradesh,Grocery,9,620,524,96,0.155,Debit Card,Mall Store,02-01-2025
+2096,Ritu Chopra,Noida,Uttar Pradesh,Electronics,1,7720,6933,787,0.102,UPI,Mall Store,06-03-2025
+1543,Vikram Kumar,Lucknow,Uttar Pradesh,Grocery,7,476,410,66,0.138,Cash,Supermarket,22-03-2025
+1457,Suman Chopra,Visakhapatnam,Andhra Pradesh,Clothing,6,5210,3558,1652,0.317,UPI,Mall Store,23-01-2025
+1634,Sandeep Patel,Trivandrum,Kerala,Clothing,3,2320,1550,770,0.332,Credit Card,Mall Store,05-02-2025
+1432,Kavita Yadav,Gorakhpur,Uttar Pradesh,Clothing,2,580,438,142,0.245,Credit Card,Supermarket,26-03-2025
+1628,Preeti Kapoor,Rajkot,Gujarat,Stationery,10,670,563,107,0.159,Debit Card,Mall Store,11-02-2025
+1729,Alok Verma,Chandigarh,Chandigarh,Grocery,10,520,449,71,0.137,UPI,Local Store,22-01-2025
+2289,Rekha Iyer,Gurgaon,Haryana,Electronics,2,8280,7320,960,0.116,Cash,Supermarket,12-03-2025
+1210,Rajesh Iyer,Solapur,Maharashtra,Grocery,8,940,807,133,0.141,Credit Card,Supermarket,14-01-2025
+1317,Amit Agarwal,Rewa,Madhya Pradesh,Grocery,4,281,243,38,0.135,UPI,Local Store,16-01-2025
+1514,Pooja Joshi,Trivandrum,Kerala,Stationery,9,467,385,82,0.176,Cash,Mall Store,01-01-2025
+2338,Kiran Kumar,Nagpur,Maharashtra,Stationery,7,448,351,97,0.217,UPI,Local Store,04-03-2025
+1830,Suresh Sharma,Mumbai,Maharashtra,Stationery,6,386,293,93,0.241,Cash,Supermarket,01-03-2025
+1320,Vishal Singh,Bhopal,Madhya Pradesh,Stationery,9,610,462,148,0.242,UPI,Local Store,05-02-2025
+2032,Ritu Iyer,Hisar,Haryana,Clothing,5,2000,1446,554,0.277,Debit Card,Supermarket,26-03-2025
+2418,Priya Pillai,Chandigarh,Chandigarh,Grocery,8,510,442,68,0.133,Cash,Supermarket,27-02-2025
+1142,Vivek Saxena,Nagpur,Maharashtra,Grocery,6,478,424,54,0.112,UPI,Supermarket,03-03-2025
+2111,Vishal Agarwal,Ludhiana,Punjab,Clothing,6,5060,3851,1209,0.239,UPI,Supermarket,29-01-2025
+1754,Alok Gupta,Guwahati,Assam,Electronics,2,23380,21510,1870,0.08,Debit Card,Mall Store,15-01-2025
+2002,Anjali Joshi,Jodhpur,Rajasthan,Clothing,3,3530,2496,1034,0.293,Credit Card,Supermarket,08-01-2025
+2240,Naveen Joshi,Indore,Madhya Pradesh,Stationery,10,1030,780,250,0.243,UPI,Mall Store,19-01-2025
+1581,Rahul Yadav,Satara,Maharashtra,Electronics,1,9180,8372,808,0.088,Credit Card,Supermarket,23-03-2025
+1563,Sneha Singh,Faridabad,Haryana,Grocery,10,730,615,115,0.158,UPI,Supermarket,30-01-2025
+1399,Rahul Saxena,Kochi,Kerala,Electronics,2,15200,14182,1018,0.067,Credit Card,Supermarket,20-01-2025
+1669,Swati Patel,Trivandrum,Kerala,Grocery,9,182,159,23,0.126,UPI,Mall Store,24-03-2025
+1253,Anita Agarwal,Dehradun,Uttarakhand,Clothing,5,7680,5530,2150,0.28,UPI,Supermarket,30-01-2025
+1908,Alok Rao,Noida,Uttar Pradesh,Clothing,6,6740,4482,2258,0.335,Credit Card,Mall Store,16-01-2025
+1469,Manoj Joshi,Hisar,Haryana,Grocery,4,208,184,24,0.115,UPI,Mall Store,23-01-2025
+1915,Ajay Sharma,Kota,Rajasthan,Clothing,2,1740,1322,418,0.24,UPI,Mall Store,17-03-2025
+1358,Rohit Kapoor,Jaipur,Rajasthan,Grocery,5,278,240,38,0.136,Credit Card,Mall Store,10-02-2025
+2279,Karan Sharma,Ahmedabad,Gujarat,Grocery,7,440,389,51,0.116,Credit Card,Supermarket,08-01-2025
+2301,Harsh Sharma,Indore,Madhya Pradesh,Grocery,8,400,333,67,0.167,UPI,Mall Store,23-01-2025
+2203,Nisha Kumar,Meerut,Uttar Pradesh,Grocery,6,371,314,57,0.153,UPI,Supermarket,17-02-2025
+2306,Karan Mehta,Mumbai,Maharashtra,Clothing,4,2520,1812,708,0.281,UPI,Mall Store,06-01-2025
+2415,Nisha Pillai,Siliguri,West Bengal,Electronics,1,5750,5353,397,0.069,Cash,Local Store,13-02-2025
+1509,Preeti Saxena,Kochi,Kerala,Grocery,9,550,478,72,0.131,Credit Card,Supermarket,14-01-2025
+1750,Kavita Kumar,Jodhpur,Rajasthan,Grocery,8,311,266,45,0.146,UPI,Supermarket,26-02-2025
+1130,Suresh Nair,VADODARA,Gujarat,Grocery,3,157,138,19,0.122,Credit Card,Local Store,19-01-2025
+1145,Sneha Mehta,Gorakhpur,Uttar Pradesh,Clothing,4,3910,2921,989,0.253,Credit Card,Local Store,24-01-2025
+1961,Amit Yadav,Gurgaon,Haryana,Stationery,10,830,634,196,0.236,Credit Card,Supermarket,20-02-2025
+1848,Divya Kapoor,Jaipur,Rajasthan,Clothing,3,4910,3908,1002,0.204,Cash,Local Store,28-02-2025
+1716,Meera Gupta,Siliguri,West Bengal,Electronics,2,23720,21514,2206,0.093,Credit Card,Supermarket,26-02-2025
+1906,Amit Agarwal,Mangalore,Karnataka,Grocery,4,243,202,41,0.169,Cash,Mall Store,04-01-2025
+2097,Payal Gupta,Gurgaon,Haryana,Grocery,9,550,493,57,0.103,Credit Card,Local Store,25-01-2025
+1236,Rekha Kumar,Mangalore,Karnataka,Stationery,7,580,442,138,0.238,Credit Card,Supermarket,02-01-2025
+2062,Arjun Patel,Bilaspur,Chhattisgarh,Grocery,3,52,46,6,0.107,UPI,Mall Store,16-01-2025
